@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/banners/banner-mobile.svg">
-  <img src="assets/banners/banner-principal.svg" alt="MWX Bots: sistemas para RP no Discord. Atendimento, recrutamento, ponto, farm, encomendas e moderação." width="100%">
+  <source media="(max-width: 600px)" srcset="assets/banners/banner-mobile.png">
+  <img src="assets/banners/banner-principal.png" alt="MWX Bots: tecnologia que transforma a gestão do seu Roleplay. Sistemas completos para organizações, corporações e empresas no Discord." width="100%">
 </picture>
 
 <br>
