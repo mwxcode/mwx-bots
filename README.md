@@ -88,9 +88,20 @@ Comparativo completo em [docs/planos.md](docs/planos.md).
 
 ## Contato
 
-- **Discord:** `SEU_USUARIO` · servidor de suporte: `https://discord.gg/SEU_CONVITE`
-- **E-mail / WhatsApp:** `SEU_CONTATO`
+<p align="center">
+  <img src="assets/contato-topo.png" alt="Conecte-se com a MWX. Comercial, suporte técnico e projetos exclusivos." width="100%">
+</p>
 
----
+<p align="center">
+  <a href="https://discord.gg/SEU_CONVITE"><img alt="Discord" src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/MWXCODE"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:SEU_EMAIL"><img alt="E-mail" src="https://img.shields.io/badge/E--MAIL-E01B1B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <br>
+  <sub>Atendimento em português • Brasil</sub>
+</p>
 
-<p align="center"><sub>© MWX Bots. Todos os direitos reservados. Discord é marca da Discord Inc.; este projeto não é afiliado ao Discord.</sub></p>
+<p align="center">
+  <img src="assets/contato-rodape.png" alt="MWX SYSTEMS. Sua organização. Nossa tecnologia. © 2026 MWX Systems. Todos os direitos reservados." width="100%">
+</p>
+
+<p align="center"><sub>Discord é marca da Discord Inc.; este projeto não é afiliado ao Discord.</sub></p>
