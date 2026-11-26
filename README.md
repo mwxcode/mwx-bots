@@ -7,10 +7,9 @@
 
 <br>
 
-### Tecnologia que transforma a gestão do seu Roleplay.
-
 A **MWX Systems** desenvolve sistemas para organizações de GTA Roleplay no Discord.<br>
-Atendimento, recrutamento, expediente, produção, vendas e moderação, em português e com a identidade do seu servidor.
+Atendimento, recrutamento, expediente, farm, encomendas, denúncias e moderação organizados no próprio servidor,<br>
+com registro de cada ação, em português e com a identidade da sua organização.
 
 <br>
 
@@ -59,7 +58,7 @@ Seis sistemas independentes que trabalham juntos. Clique em um card para ver fun
 
 ## Módulos adicionais
 
-Soluções que se somam ao MWX Management, **sob orçamento**. [Ver detalhes](docs/bots/extras.md)
+Funções extras que se somam ao MWX Management. **Não fazem parte dos planos**: são contratadas à parte, sob orçamento. [Ver detalhes](docs/bots/extras.md)
 
 <p align="center">
 <a href="docs/bots/extras.md"><img src="assets/cards/modulo-efetivo.svg" alt="Módulo Controle de Efetivo: entradas, saídas e quem recrutou" width="264"></a>
@@ -126,8 +125,25 @@ Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orça
 <a href="docs/planos.md"><img src="assets/plans/plano-custom.svg" alt="MWX CUSTOM, Projetos personalizados: Projetos personalizados; Funcionalidades sob medida; Módulos adicionais; Orçamento individual. Sob orçamento." width="400"></a>
 </p>
 
+<details>
+<summary><b>Ver os planos em texto</b></summary>
+<br>
+
+| | Essential | Complete | Cloud | Custom |
+|---|---|---|---|---|
+| Sistemas | Um à escolha | Os seis | À escolha | Projeto sob medida |
+| Modelo | Pagamento único | Pagamento único | Assinatura mensal | Orçamento individual |
+| Instalação e configuração | Sim | Sim | Sim | Sob orçamento |
+| Personalização visual | Sim | Sim | Sim | Sob orçamento |
+| Suporte e atualizações | 30 dias | 90 dias | Enquanto ativa | Sob orçamento |
+| Hospedagem | Não inclusa | Não inclusa | Inclusa (24/7) | Sob orçamento |
+| Código-fonte | Não incluso | Não incluso | Não incluso | Sob negociação |
+| Valor | Sob consulta | Sob consulta | Sob consulta | Sob orçamento |
+
+</details>
+
 > [!IMPORTANT]
-> **Código-fonte não incluso nos planos.** Os planos dão direito ao uso dos sistemas. A aquisição do código-fonte só acontece após negociação com o setor responsável da MWX. [Falar com a MWX](#contato)
+> **Código-fonte não incluso nos planos.** O pagamento único e a assinatura dão direito ao uso dos sistemas, não ao código-fonte. A aquisição do código-fonte só acontece após negociação com o setor responsável da MWX. Prazo e condições do direito de uso são confirmados no atendimento comercial. [Falar com a MWX](#contato)
 
 <br>
 
@@ -162,39 +178,39 @@ Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orça
 <a name="perguntas-frequentes"></a>
 
 <details open>
-<summary><b>Funciona em qualquer servidor de RP?</b></summary>
+<summary><b>Os sistemas servem para o meu servidor de RP?</b></summary>
 <br>
-Sim. Facção, polícia, hospital, mecânica ou empresa. Textos, canais e cargos são configuráveis.
+Foram feitos para organizações de RP no Discord, como facção, polícia, hospital, mecânica ou empresa. Textos, canais e cargos são configuráveis. Para um caso específico, confirme no atendimento comercial.
+</details>
+
+<details>
+<summary><b>O que estou contratando? O código-fonte vem junto?</b></summary>
+<br>
+Os planos dão direito ao uso dos sistemas no seu servidor. O código-fonte não está incluso: a aquisição só acontece após negociação com o setor responsável da MWX. O prazo e as demais condições do direito de uso são confirmados no atendimento comercial. Revenda, redistribuição e publicação não são permitidas.
+</details>
+
+<details>
+<summary><b>Onde os sistemas ficam hospedados?</b></summary>
+<br>
+No Essential e no Complete, a hospedagem é sua (PC ligado 24h, VPS ou painel de hospedagem de bots) e a MWX faz a instalação nela. No Cloud a hospedagem 24/7 está inclusa.
+</details>
+
+<details>
+<summary><b>Por quanto tempo tenho suporte e atualizações?</b></summary>
+<br>
+30 dias no Essential, 90 dias no Complete e enquanto a assinatura estiver ativa no Cloud.
+</details>
+
+<details>
+<summary><b>Posso personalizar a identidade dos sistemas?</b></summary>
+<br>
+Sim. Os painéis usam o nome, as cores e o banner da sua organização.
 </details>
 
 <details>
 <summary><b>Preciso saber programar?</b></summary>
 <br>
 Não. A instalação e a configuração fazem parte dos planos, e os ajustes do dia a dia são feitos por comandos no Discord.
-</details>
-
-<details>
-<summary><b>Onde os bots ficam hospedados?</b></summary>
-<br>
-No Essential e no Complete, em um PC ligado 24h, VPS ou painel de hospedagem de bots, à sua escolha. No Cloud a hospedagem 24/7 está inclusa.
-</details>
-
-<details>
-<summary><b>Posso personalizar a identidade dos bots?</b></summary>
-<br>
-Sim. Os painéis usam o nome, as cores e o banner da sua organização.
-</details>
-
-<details>
-<summary><b>Como funciona a licença?</b></summary>
-<br>
-Os planos dão direito ao uso dos sistemas no seu servidor e não incluem o código-fonte. A aquisição do código-fonte só acontece após negociação com o setor responsável da MWX. Revenda, redistribuição e publicação não são permitidas.
-</details>
-
-<details>
-<summary><b>Por quanto tempo tenho suporte?</b></summary>
-<br>
-30 dias no Essential, 90 dias no Complete e enquanto a assinatura estiver ativa no Cloud. As atualizações seguem o mesmo prazo.
 </details>
 
 <p align="center"><a href="#contato"><img src="assets/branding/faq-falar.svg" alt="Ainda tem dúvidas? Falar com a MWX" height="52"></a></p>
@@ -213,9 +229,9 @@ Os planos dão direito ao uso dos sistemas no seu servidor e não incluem o cód
 </picture>
 
 <p align="center">
-<img src="assets/cards/contato-comercial.svg" alt="Comercial: Bots, planos, assinaturas e orçamentos" width="260">
-<img src="assets/cards/contato-suporte.svg" alt="Suporte técnico: Instalação, configuração, dúvidas e assistência" width="260">
-<img src="assets/cards/contato-projetos.svg" alt="Projetos exclusivos: Sistemas desenvolvidos sob medida" width="260">
+<a href="https://discord.gg/xbDNJy6mtC"><img src="assets/cards/contato-comercial.svg" alt="Comercial: Bots, planos, assinaturas e orçamentos" width="260"></a>
+<a href="https://discord.gg/xbDNJy6mtC"><img src="assets/cards/contato-suporte.svg" alt="Suporte técnico: Instalação, configuração, dúvidas e assistência" width="260"></a>
+<a href="https://discord.gg/xbDNJy6mtC"><img src="assets/cards/contato-projetos.svg" alt="Projetos exclusivos: Sistemas desenvolvidos sob medida" width="260"></a>
 </p>
 
 <div align="center">
