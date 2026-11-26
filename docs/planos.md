@@ -23,16 +23,16 @@ Valores **sob consulta**. Fale com a MWX para receber uma proposta.
 | Hospedagem 24/7 | Não inclusa | Não inclusa | ✓ |
 | Suporte | 30 dias | 90 dias | Enquanto ativa |
 | Atualizações | 30 dias | 90 dias | Enquanto ativa |
-| Código-fonte com licença de uso | ✓ | ✓ | Não entregue |
+| Código-fonte | Não incluso | Não incluso | Não incluso |
 | Valor | Sob consulta | Sob consulta | Sob consulta |
 
 ## MWX Essential
 
-Para quem precisa de um sistema. Um bot à escolha, instalado e configurado, com personalização visual, 30 dias de suporte e de atualizações e código-fonte com licença de uso. Hospedagem não inclusa.
+Para quem precisa de um sistema. Um bot à escolha, instalado e configurado, com personalização visual, 30 dias de suporte e de atualizações. Hospedagem e código-fonte não inclusos.
 
 ## MWX Complete
 
-O ecossistema completo: os seis sistemas instalados e configurados, com personalização visual, 90 dias de suporte e de atualizações e código-fonte com licença de uso. Hospedagem não inclusa.
+O ecossistema completo: os seis sistemas instalados e configurados, com personalização visual, 90 dias de suporte e de atualizações. Hospedagem e código-fonte não inclusos.
 
 ## MWX Cloud
 
@@ -46,7 +46,7 @@ Funções novas, [módulos adicionais](bots/extras.md) e visual exclusivo, desen
 
 ## Licença
 
-O código-fonte entregue nos planos Essential e Complete é de uso no servidor do cliente. Revenda, redistribuição e publicação não são permitidas. Veja a [licença](../LICENSE.md).
+Os planos dão direito ao uso dos sistemas no servidor do cliente e não incluem o código-fonte. A aquisição do código-fonte só acontece após negociação com o setor responsável da MWX ([contato](../README.md#contato)). Revenda, redistribuição e publicação não são permitidas. Veja a [licença](../LICENSE.md).
 
 <br>
 

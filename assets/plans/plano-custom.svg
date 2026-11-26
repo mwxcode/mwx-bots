@@ -22,11 +22,7 @@
 <mask id="gmpvcustom"><rect width="400" height="432" fill="url(#fadepvcustom)"/></mask>
 <clipPath id="clippvcustom"><rect width="400" height="432" rx="20"/></clipPath></defs>
 <g clip-path="url(#clippvcustom)"><rect width="400" height="432" fill="url(#bgpvcustom)"/><rect width="400" height="432" fill="url(#gridpvcustom)" mask="url(#gmpvcustom)"/><rect width="400" height="432" fill="url(#glowpvcustom)"/></g><rect x=".5" y=".5" width="399" height="431" rx="18" fill="none" stroke="#1E3A5F"/><rect x="72" y="0" width="256" height="1.2" fill="url(#edgepvcustom)"/>
-<g transform="translate(26 22) scale(0.7083)">
-<path d="M24 2 43 13v22L24 46 5 35V13Z" fill="#0D1B2E" stroke="url(#txtpvcustom)" stroke-width="2"/>
-<path d="M14 33V15l10 12 10-12v18" fill="none" stroke="#F1F5F9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="14" cy="33" r="2.6" fill="#38BDF8"/><circle cx="34" cy="33" r="2.6" fill="#38BDF8"/><circle cx="24" cy="27" r="2.2" fill="#3B82F6"/>
-</g>
+<g transform="translate(26 22) scale(0.3400)"><path d="M4 12h22l33 34H37Z" fill="#EEF2F7"/><path d="M37 54h22L26 88H4Z" fill="#EEF2F7"/><path d="M73 12h22L62 46 53 37Z" fill="#2563EB"/><path d="M53 63l9-9 33 34H73Z" fill="#2563EB"/></g>
 <text x="28" y="92" fill="#38BDF8" font-size="13" font-weight="700" letter-spacing="4">MWX</text>
 <text x="26" y="128" fill="#F1F5F9" font-size="34" font-weight="900" letter-spacing="1">CUSTOM</text>
 <text x="28" y="156" fill="#94A3B8" font-size="15">Projetos sob medida</text>

@@ -22,15 +22,11 @@
 <mask id="gmdponto"><rect width="1280" height="240" fill="url(#fadedponto)"/></mask>
 <clipPath id="clipdponto"><rect width="1280" height="240" rx="20"/></clipPath></defs>
 <g clip-path="url(#clipdponto)"><rect width="1280" height="240" fill="url(#bgdponto)"/><rect width="1280" height="240" fill="url(#griddponto)" mask="url(#gmdponto)"/><rect width="1280" height="240" fill="url(#glowdponto)"/></g><rect x=".5" y=".5" width="1279" height="239" rx="20" fill="none" stroke="#1E3A5F"/><rect x="230" y="0" width="819" height="1.2" fill="url(#edgedponto)"/>
-<path d="M930 150 h75.0 l22.5 22.5 h87.5" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.45"/><path d="M930 182.5 h50.0 l22.5 -22.5 h45.0" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.45"/><path d="M955.0 215.0 h97.5 l17.5 -17.5 h72.5" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.45"/><circle cx="1115.0" cy="172.5" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.7"/><circle cx="1047.5" cy="160.0" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.7"/><circle cx="1142.5" cy="197.5" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.7"/>
-<path d="M1020 36 h54.0 l16.2 16.2 h63.0" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.3"/><path d="M1020 59.400000000000006 h36.0 l16.2 -16.2 h32.4" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.3"/><path d="M1038.0 82.80000000000001 h70.2 l12.6 -12.6 h52.2" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.3"/><circle cx="1153.2" cy="52.2" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.55"/><circle cx="1104.6" cy="43.2" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.55"/><circle cx="1173.0" cy="70.2" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.55"/>
+
+
 <rect x="64" y="64" width="72" height="72" rx="19" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="78" y="64" width="43" height="1.2" fill="url(#edgedponto)"/><g transform="translate(83.44 83.44) scale(1.3800)" fill="none" stroke="#38BDF8" stroke-width="1.30" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></g>
 <text x="164" y="88" fill="#38BDF8" font-size="14" font-weight="700" letter-spacing="4">SISTEMA · EXPEDIENTE</text>
 <text x="162" y="138" fill="#F1F5F9" font-size="46" font-weight="800" letter-spacing="-1">MWX Bate-Ponto</text>
 <text x="164" y="176" fill="#94A3B8" font-size="19">Controle de expediente, ranking e planilha de horas</text>
-<g transform="translate(1184 148) scale(0.8333)">
-<path d="M24 2 43 13v22L24 46 5 35V13Z" fill="#0D1B2E" stroke="url(#txtdponto)" stroke-width="2"/>
-<path d="M14 33V15l10 12 10-12v18" fill="none" stroke="#F1F5F9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="14" cy="33" r="2.6" fill="#38BDF8"/><circle cx="34" cy="33" r="2.6" fill="#38BDF8"/><circle cx="24" cy="27" r="2.2" fill="#3B82F6"/>
-</g>
+<g transform="translate(1184 148) scale(0.4000)"><path d="M4 12h22l33 34H37Z" fill="#EEF2F7"/><path d="M37 54h22L26 88H4Z" fill="#EEF2F7"/><path d="M73 12h22L62 46 53 37Z" fill="#2563EB"/><path d="M53 63l9-9 33 34H73Z" fill="#2563EB"/></g>
 </svg>

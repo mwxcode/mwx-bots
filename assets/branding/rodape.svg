@@ -22,13 +22,9 @@
 <mask id="gmft"><rect width="1240" height="270" fill="url(#fadeft)"/></mask>
 <clipPath id="clipft"><rect width="1240" height="270" rx="20"/></clipPath></defs>
 <g clip-path="url(#clipft)"><rect width="1240" height="270" fill="url(#bgft)"/><rect width="1240" height="270" fill="url(#gridft)" mask="url(#gmft)"/><rect width="1240" height="270" fill="url(#glowft)"/></g><rect x=".5" y=".5" width="1239" height="269" rx="20" fill="none" stroke="#1E3A5F"/><rect x="223" y="0" width="794" height="1.2" fill="url(#edgeft)"/>
-<path d="M36 40 h72.0 l21.599999999999998 21.599999999999998 h84.0" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.3"/><path d="M36 71.2 h48.0 l21.599999999999998 -21.599999999999998 h43.199999999999996" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.3"/><path d="M60.0 102.4 h93.6 l16.8 -16.8 h69.6" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.3"/><circle cx="213.6" cy="61.6" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.55"/><circle cx="148.8" cy="49.6" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.55"/><circle cx="240.0" cy="85.6" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.55"/>
-<path d="M990 190 h66.0 l19.8 19.8 h77.0" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.3"/><path d="M990 218.6 h44.0 l19.8 -19.8 h39.6" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.3"/><path d="M1012.0 247.2 h85.80000000000001 l15.400000000000002 -15.400000000000002 h63.800000000000004" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.3"/><circle cx="1152.8" cy="209.8" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.55"/><circle cx="1093.4" cy="198.8" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.55"/><circle cx="1177.0" cy="231.8" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.55"/>
-<g transform="translate(592.0 34) scale(1.1667)">
-<path d="M24 2 43 13v22L24 46 5 35V13Z" fill="#0D1B2E" stroke="url(#txtft)" stroke-width="2"/>
-<path d="M14 33V15l10 12 10-12v18" fill="none" stroke="#F1F5F9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="14" cy="33" r="2.6" fill="#38BDF8"/><circle cx="34" cy="33" r="2.6" fill="#38BDF8"/><circle cx="24" cy="27" r="2.2" fill="#3B82F6"/>
-</g>
+
+
+<g transform="translate(592.0 34) scale(0.5600)"><path d="M4 12h22l33 34H37Z" fill="#EEF2F7"/><path d="M37 54h22L26 88H4Z" fill="#EEF2F7"/><path d="M73 12h22L62 46 53 37Z" fill="#2563EB"/><path d="M53 63l9-9 33 34H73Z" fill="#2563EB"/></g>
 <text x="620.0" y="138" text-anchor="middle" fill="#F1F5F9" font-size="34" font-weight="900" letter-spacing="8">MWX SYSTEMS</text>
 <text x="620.0" y="172" text-anchor="middle" fill="url(#txtft)" font-size="19" font-weight="700">Sua organização. Nossa tecnologia.</text>
 <text x="620.0" y="206" text-anchor="middle" fill="#94A3B8" font-size="13" font-weight="700" letter-spacing="4">DESENVOLVIMENTO  •  AUTOMAÇÃO  •  INOVAÇÃO</text>

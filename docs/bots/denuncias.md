@@ -36,7 +36,15 @@ O MWX Denúncias organiza denúncias com prova, análise da staff e resposta ao 
 
 ## Demonstrações
 
-<img src="../../assets/cards/demo-denuncias-em-preparacao.svg" alt="Demonstração em preparação" width="100%">
+<img src="../../assets/telas/denuncias-painel.png" alt="Painel do MWX Denúncias" width="100%">
+
+<sub>Painel público com os botões Denunciar e Acompanhar.</sub>
+
+<img src="../../assets/telas/denuncias-card.png" alt="Card de denúncia para a staff" width="100%">
+
+<sub>Card da denúncia DEN-0001 com prova e botões Aceitar e Negar.</sub>
+
+<sub>Imagens ilustrativas da interface, com dados fictícios.</sub>
 
 <br>
 
