@@ -2,19 +2,11 @@
   <img src="assets/banner-v2.png" alt="MWX Bots" width="100%">
 </p>
 
-<h1 align="center">MWX Bots · Sistemas para organizações de RP no Discord</h1>
-
 <p align="center">
-  <b>Atendimento, recrutamento, bate-ponto, farm, encomendas e moderação</b><br>
-  Bots em português, feitos para facções, corporações e empresas de servidores de roleplay.
-</p>
-
-<p align="center">
-  <img alt="discord.js 14" src="https://img.shields.io/badge/discord.js-14-5865F2?logo=discord&logoColor=white">
-  <img alt="Node.js 20+" src="https://img.shields.io/badge/Node.js-20%2B-3C873A?logo=node.js&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white">
-  <img alt="Idioma" src="https://img.shields.io/badge/idioma-PT--BR-009C3B">
-  <img alt="Licença" src="https://img.shields.io/badge/licen%C3%A7a-comercial-A00000">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/apresentacao-escura.png">
+    <img src="assets/apresentacao-clara.png" alt="MWX BOTS · Tecnologia que transforma a gestão do seu Roleplay. Atendimento, Recrutamento, Bate-ponto, Controle de farm, Encomendas e Moderação." width="100%">
+  </picture>
 </p>
 
 ---
