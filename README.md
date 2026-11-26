@@ -11,20 +11,17 @@ A **MWX Systems** desenvolve sistemas para organizações de GTA Roleplay no Dis
 
 <br>
 
-<img src="assets/branding/badge-discordjs.svg" alt="discord.js v14" height="28">&nbsp;
-<img src="assets/branding/badge-node.svg" alt="Node.js 20+" height="28">&nbsp;
-<img src="assets/branding/badge-typescript.svg" alt="TypeScript e JavaScript" height="28">&nbsp;
-<img src="assets/branding/badge-idioma.svg" alt="Idioma PT-BR" height="28">&nbsp;
-<img src="assets/branding/badge-licenca.svg" alt="Licença comercial" height="28">
-
-<br><br>
-
-<a href="#nossos-sistemas"><img src="assets/branding/nav-sistemas.svg" alt="Nossos sistemas" height="40"></a>
-<a href="#demonstrações"><img src="assets/branding/nav-demonstracoes.svg" alt="Demonstrações" height="40"></a>
-<a href="#diferenciais"><img src="assets/branding/nav-diferenciais.svg" alt="Diferenciais" height="40"></a>
-<a href="#planos"><img src="assets/branding/nav-planos.svg" alt="Planos" height="40"></a>
-<a href="#documentação"><img src="assets/branding/nav-documentacao.svg" alt="Documentação" height="40"></a>
-<a href="#contato"><img src="assets/branding/nav-contato.svg" alt="Contato" height="40"></a>
+<picture>
+  <source media="(max-width: 1103px)" srcset="assets/branding/painel-topo-mobile.svg">
+  <img src="assets/branding/painel-topo.svg" alt="Discord.js v14, Node.js 20+, TypeScript e JavaScript, PT-BR, licença comercial. Explore a MWX Systems." width="800">
+</picture>
+<br>
+<a href="#nossos-sistemas"><img src="assets/branding/nav-card-sistemas.svg" alt="Sistemas: conheça nossas soluções" width="264"></a>
+<a href="#demonstrações"><img src="assets/branding/nav-card-demonstracoes.svg" alt="Demonstrações: veja os sistemas" width="264"></a>
+<a href="#diferenciais"><img src="assets/branding/nav-card-diferenciais.svg" alt="Diferenciais: tecnologia MWX" width="264"></a>
+<a href="#planos"><img src="assets/branding/nav-card-planos.svg" alt="Planos: modalidades de contratação" width="264"></a>
+<a href="#documentação"><img src="assets/branding/nav-card-documentacao.svg" alt="Documentação: guias e informações" width="264"></a>
+<a href="#contato"><img src="assets/branding/nav-card-contato.svg" alt="Contato: fale com nossa equipe" width="264"></a>
 
 </div>
 
@@ -135,7 +132,7 @@ Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orça
 | Personalização visual | Sim | Sim | Sim | Sob orçamento |
 | Suporte e atualizações | 30 dias | 90 dias | Enquanto ativa | Sob orçamento |
 | Hospedagem | Não inclusa | Não inclusa | Inclusa (24/7) | Sob orçamento |
-| Código-fonte | Não incluso | Não incluso | Não incluso | Sob negociação |
+| Código-fonte | Não incluso | Não incluso | Não incluso | Negociação comercial separada |
 | Valor | Sob consulta | Sob consulta | Sob consulta | Sob orçamento |
 
 </details>
@@ -168,8 +165,12 @@ Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orça
 
 <br>
 
-<a name="perguntas-frequentes"></a>
-<h2><picture><source media="(max-width: 1103px)" srcset="assets/branding/faq-topo-mobile.svg"><img src="assets/branding/faq-topo.svg" alt="Perguntas frequentes: tudo o que você precisa saber antes de contratar os sistemas MWX" width="100%"></picture></h2>
+## Perguntas frequentes
+
+<picture>
+  <source media="(max-width: 1103px)" srcset="assets/branding/faq-topo-mobile.svg">
+  <img src="assets/branding/faq-topo.svg" alt="Central de ajuda MWX Systems: tudo o que você precisa saber antes de contratar nossos sistemas." width="100%">
+</picture>
 
 <details open>
 <summary><b>Os sistemas servem para o meu servidor de RP?</b></summary>
