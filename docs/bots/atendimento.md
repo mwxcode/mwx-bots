@@ -6,6 +6,8 @@
 
 O MWX Atendimento abre canais privados por assunto, registra toda a conversa e conduz o recrutamento do formulário à entrevista.
 
+<br>
+
 <img src="../../assets/branding/secao-funcionalidades.svg" alt="" width="100%">
 
 ## Funcionalidades
@@ -53,6 +55,8 @@ O MWX Atendimento abre canais privados por assunto, registra toda a conversa e c
 
 <sub>Imagens ilustrativas da interface, com dados fictícios.</sub>
 
+<br>
+
 <img src="../../assets/branding/secao-comandos.svg" alt="" width="100%">
 
 ## Comandos
@@ -65,6 +69,8 @@ O MWX Atendimento abre canais privados por assunto, registra toda a conversa e c
 | `/ticket-assumir` `/ticket-adicionar` `/ticket-remover` | Dentro do ticket |
 | `/renomear` `/ticket-fechar` | Renomear e fechar com transcript |
 | `/reiniciar-ticket` | Reinício pelo Discord (admin) |
+
+<br>
 
 <img src="../../assets/branding/secao-requisitos.svg" alt="" width="100%">
 

@@ -6,6 +6,8 @@
 
 O MWX Bate-Ponto controla o expediente de polícia, hospital, mecânica, facção ou empresa: quem está em serviço, por quanto tempo e quem mais trabalhou.
 
+<br>
+
 <img src="../../assets/branding/secao-funcionalidades.svg" alt="" width="100%">
 
 ## Funcionalidades
@@ -48,6 +50,8 @@ O MWX Bate-Ponto controla o expediente de polícia, hospital, mecânica, facçã
 
 <sub>Imagens ilustrativas da interface, com dados fictícios.</sub>
 
+<br>
+
 <img src="../../assets/branding/secao-comandos.svg" alt="" width="100%">
 
 ## Comandos
@@ -60,6 +64,8 @@ O MWX Bate-Ponto controla o expediente de polícia, hospital, mecânica, facçã
 | `/ranking-ponto` `/relatorio-ponto` `/historico-ponto` | Consultas |
 | `/resetar-ponto` | Zera um período, com confirmação |
 | `/reiniciar-ponto` | Reinício pelo Discord (admin) |
+
+<br>
 
 <img src="../../assets/branding/secao-requisitos.svg" alt="" width="100%">
 

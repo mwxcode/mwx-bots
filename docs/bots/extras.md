@@ -6,6 +6,8 @@
 
 Funções que já rodam em servidores de clientes e podem ser somadas ao [MWX Management](management.md). Cada módulo é **orçado à parte** pelo [MWX Custom](../planos.md#mwx-custom).
 
+<br>
+
 <img src="../../assets/branding/secao-funcionalidades.svg" alt="" width="100%">
 
 ## Módulos

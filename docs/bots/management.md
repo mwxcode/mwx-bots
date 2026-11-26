@@ -6,6 +6,8 @@
 
 O MWX Management é o braço direito da liderança. Modera o chat, guarda o histórico de cada membro, organiza registros e ausências e monta a estrutura do servidor.
 
+<br>
+
 <img src="../../assets/branding/secao-funcionalidades.svg" alt="" width="100%">
 
 ## Funcionalidades
@@ -63,6 +65,8 @@ O MWX Management é o braço direito da liderança. Modera o chat, guarda o hist
 
 <sub>Imagens ilustrativas da interface, com dados fictícios.</sub>
 
+<br>
+
 <img src="../../assets/branding/secao-comandos.svg" alt="" width="100%">
 
 ## Comandos
@@ -80,6 +84,8 @@ O MWX Management é o braço direito da liderança. Modera o chat, guarda o hist
 | `/ausencia solicitar\|status\|painel\|lista\|encerrar` | Ausências |
 | `/filtro palavra\|site\|ignorar` | Listas dos filtros |
 | `/config-management` `/setup-servidor` `/ajuda-management` | Configuração e ajuda |
+
+<br>
 
 <img src="../../assets/branding/secao-requisitos.svg" alt="" width="100%">
 

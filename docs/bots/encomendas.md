@@ -6,6 +6,8 @@
 
 O MWX Encomendas coloca a loja da organização dentro do Discord: o cliente escolhe, vê o total e a equipe acompanha até a entrega.
 
+<br>
+
 <img src="../../assets/branding/secao-funcionalidades.svg" alt="" width="100%">
 
 ## Funcionalidades
@@ -41,6 +43,8 @@ O MWX Encomendas coloca a loja da organização dentro do Discord: o cliente esc
 
 <sub>Imagens ilustrativas da interface, com dados fictícios.</sub>
 
+<br>
+
 <img src="../../assets/branding/secao-comandos.svg" alt="" width="100%">
 
 ## Comandos
@@ -51,6 +55,8 @@ O MWX Encomendas coloca a loja da organização dentro do Discord: o cliente esc
 | `/produtos-encomenda adicionar\|editar\|remover\|listar\|padrao` | Catálogo |
 | `/painel-encomenda` | Publica o painel |
 | `/reiniciar-encomenda` | Reinício pelo Discord (admin) |
+
+<br>
 
 <img src="../../assets/branding/secao-requisitos.svg" alt="" width="100%">
 
