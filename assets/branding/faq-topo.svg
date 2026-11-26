@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="190" viewBox="0 0 1240 190" role="img" aria-label="MWX Systems, central de ajuda: perguntas frequentes. Tudo o que você precisa saber antes de contratar nossos sistemas." font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="210" viewBox="0 0 1240 210" role="img" aria-label="MWX Systems, central de ajuda: perguntas frequentes. Tudo o que você precisa saber antes de contratar nossos sistemas." font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
 <title>MWX Systems, central de ajuda: perguntas frequentes. Tudo o que você precisa saber antes de contratar nossos sistemas.</title>
 <defs>
 <linearGradient id="bgfq" x1="0" y1="0" x2="1" y2="1">
@@ -7,23 +7,18 @@
 <radialGradient id="glowfq" cx="0.9" cy="-0.2" r=".6">
   <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
 </radialGradient>
-<pattern id="gridfq" width="32" height="32" patternUnits="userSpaceOnUse">
-  <path d="M32 0H0V32" fill="none" stroke="#1E3A5F" stroke-width="1" opacity=".45"/>
-</pattern>
 <linearGradient id="edgefq" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="txtfq" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#2563EB"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#38BDF8"/>
-</linearGradient>
-<linearGradient id="fadefq" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff"/>
-</linearGradient>
-<mask id="gmfq"><rect width="1240" height="190" fill="url(#fadefq)"/></mask>
-<clipPath id="clipfq"><rect width="1240" height="190" rx="20"/></clipPath></defs>
-<g clip-path="url(#clipfq)"><rect width="1240" height="190" fill="url(#bgfq)"/><rect width="1240" height="190" fill="url(#glowfq)"/></g><rect x=".5" y=".5" width="1239" height="189" rx="18" fill="none" stroke="#1E3A5F"/><rect x="223" y="0" width="794" height="1.2" fill="url(#edgefq)"/>
-<g transform="translate(40 36) scale(0.3000)"><path d="M4 12h22l33 34H37Z" fill="#EEF2F7"/><path d="M37 54h22L26 88H4Z" fill="#EEF2F7"/><path d="M73 12h22L62 46 53 37Z" fill="#2563EB"/><path d="M53 63l9-9 33 34H73Z" fill="#2563EB"/></g>
-<text x="82" y="57" fill="#38BDF8" font-size="14" font-weight="800" letter-spacing="3">MWX SYSTEMS · CENTRAL DE AJUDA</text>
-<text x="40" y="112" fill="#F1F5F9" font-size="38" font-weight="800">Perguntas frequentes</text>
-<text x="40" y="148" fill="#38BDF8" font-size="18">Tudo o que você precisa saber antes de contratar nossos sistemas.</text>
+<clipPath id="clipfq"><rect width="1240" height="210" rx="20"/></clipPath></defs>
+<g clip-path="url(#clipfq)"><rect width="1240" height="210" fill="url(#bgfq)"/><rect width="1240" height="210" fill="url(#glowfq)"/></g><rect x=".5" y=".5" width="1239" height="209" rx="18" fill="none" stroke="#1E3A5F"/><rect x="223" y="0" width="794" height="1.2" fill="url(#edgefq)"/>
+<g transform="translate(40 36.51) scale(0.2951)"><g fill="#F2F5F8">
+<path d="M 71,55 L 48,56 L 6,100 L 27,100 Z"/><path d="M 5,5 L 48,49 L 72,50 L 27,5 Z"/>
+</g>
+<g fill="#1E6BFF">
+<path d="M 65,70 L 93,100 L 117,100 L 77,59 Z"/><path d="M 116,5 L 93,5 L 65,34 L 77,45 Z"/>
+</g></g>
+<text x="90" y="59" fill="#38BDF8" font-size="17" font-weight="800" letter-spacing="3">MWX SYSTEMS · CENTRAL DE AJUDA</text>
+<text x="40" y="126" fill="#F1F5F9" font-size="46" font-weight="800">Perguntas frequentes</text>
+<text x="40" y="170" fill="#38BDF8" font-size="23">Tudo o que você precisa saber antes de contratar nossos sistemas.</text>
 </svg>

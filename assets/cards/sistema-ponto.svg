@@ -5,16 +5,14 @@
 <radialGradient id="glgponto" cx=".92" cy="0" r=".75"><stop offset="0" stop-color="#2563EB" stop-opacity=".35"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
 <radialGradient id="gbgponto" cx=".05" cy="1" r=".6"><stop offset="0" stop-color="#3B82F6" stop-opacity=".22"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
 <linearGradient id="bdgponto" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset=".5" stop-color="#2563EB"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
-<linearGradient id="swgponto" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7CC4FF" stop-opacity="0"/><stop offset=".5" stop-color="#7CC4FF" stop-opacity=".18"/><stop offset="1" stop-color="#7CC4FF" stop-opacity="0"/></linearGradient>
+<linearGradient id="swgponto" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7CC4FF" stop-opacity="0"/><stop offset=".5" stop-color="#7CC4FF" stop-opacity=".10"/><stop offset="1" stop-color="#7CC4FF" stop-opacity="0"/></linearGradient>
 <linearGradient id="higponto" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#BFE6FF" stop-opacity="0"/><stop offset=".5" stop-color="#E0F4FF" stop-opacity="1"/><stop offset="1" stop-color="#BFE6FF" stop-opacity="0"/></linearGradient>
 <linearGradient id="dvgponto" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B82F6" stop-opacity=".7"/><stop offset="1" stop-color="#3B82F6" stop-opacity=".15"/></linearGradient>
-<filter id="blgponto" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="5"/></filter>
-<filter id="bsgponto" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5"/></filter>
+<filter id="blgponto" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="4"/></filter>
 <clipPath id="clgponto"><rect x="12" y="12" width="400" height="236" rx="20"/></clipPath></defs>
-<rect x="12" y="12" width="400" height="236" rx="20" fill="none" stroke="#3B82F6" stroke-width="4" opacity=".55" filter="url(#blgponto)"/>
+<rect x="12" y="12" width="400" height="236" rx="20" fill="none" stroke="#3B82F6" stroke-width="3" opacity=".45" filter="url(#blgponto)"/>
 <g clip-path="url(#clgponto)"><rect x="12" y="12" width="400" height="236" fill="url(#bggponto)"/><rect x="12" y="12" width="400" height="236" fill="url(#glgponto)"/><rect x="12" y="12" width="400" height="236" fill="url(#gbgponto)"/><path d="M232.00000000000003 248 C 312.0 141.8, 372.0 82.8, 432 22" fill="none" stroke="url(#swgponto)" stroke-width="26"/><path d="M2 158.32 C 60.0 200.8, 100.0 236.2, 132.0 258" fill="none" stroke="url(#swgponto)" stroke-width="18"/></g>
 <rect x="12.75" y="12.75" width="398.5" height="234.5" rx="19.5" fill="none" stroke="url(#bdgponto)" stroke-width="1.5"/>
-<rect x="132" y="11" width="160" height="3" rx="1.5" fill="url(#higponto)" filter="url(#bsgponto)"/>
 <rect x="132" y="12" width="160" height="1.2" fill="url(#higponto)"/>
 <rect x="40" y="36" width="56" height="56" rx="14" fill="#0B1E3D" stroke="#3B82F6" stroke-opacity=".75"/><rect x="52" y="36" width="32" height="1.2" fill="url(#higponto)" opacity=".8"/><g transform="translate(55 51) scale(1.0833)" fill="none" stroke="#38BDF8" stroke-width="1.85" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></g>
 <text x="112" y="58" fill="#38BDF8" font-size="12" font-weight="800" letter-spacing="5">MWX</text>
