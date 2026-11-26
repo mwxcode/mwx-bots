@@ -4,7 +4,7 @@
 
 ## Apresentação
 
-Funções que já rodam em servidores de clientes e podem ser somadas ao [MWX Management](management.md). Cada módulo é **orçado à parte** pelo [MWX Custom](../planos.md#mwx-custom).
+Funções já em uso no MWX Management que podem ser somadas ao [MWX Management](management.md). Cada módulo é **orçado à parte** pelo [MWX Custom](../planos.md#mwx-custom).
 
 <br>
 
@@ -24,9 +24,11 @@ Envia por DM a cada membro uma confirmação (Vou continuar ou Não vou continua
 
 Comandos: `/presenca enviar` `/presenca resumo`
 
-### <img src="../../assets/icons/send.svg" alt="" width="32" align="center"> DM em Massa
+### <img src="../../assets/icons/send.svg" alt="" width="32" align="center"> DM Personalizada
 
-Mensagens para um cargo inteiro, com prévia do embed e relatório de quem está com DM fechada.
+Mensagem em embed para um membro, com cor e imagem, prévia antes do envio e aviso quando a DM está fechada.
+
+Comandos: `/dm enviar`
 
 ### <img src="../../assets/icons/updown.svg" alt="" width="32" align="center"> Promoção e Rebaixamento
 
@@ -36,7 +38,9 @@ Comandos: `/promover` `/rebaixar`
 
 ### <img src="../../assets/icons/userminus.svg" alt="" width="32" align="center"> Desligamento de Membros
 
-Remove cargos, registra o motivo e avisa o membro.
+Envia DM de agradecimento com o motivo, remove os cargos da organização e devolve o cargo de cidadão.
+
+Comandos: `/desligamento`
 
 ### <img src="../../assets/icons/ban.svg" alt="" width="32" align="center"> Blacklist
 

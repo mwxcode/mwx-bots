@@ -85,6 +85,7 @@ O MWX Atendimento abre canais privados por assunto, registra toda a conversa e c
 
 - Com o [MWX Management](management.md): filtro de palavrões no assunto e nome/ID do registro no recrutamento
 - Com o [MWX Encomendas](encomendas.md) no mesmo aplicativo: opção Encomendas dentro do painel de atendimento
+- Com o MWX Encomendas instalado na mesma máquina: a atividade (status) do bot é lida do mesmo banco
 
 <br>
 
