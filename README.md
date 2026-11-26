@@ -138,16 +138,16 @@ Soluções que se somam ao MWX Management, **disponíveis sob orçamento**.
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="assets/icons/users.svg" alt="" width="44" align="left">&nbsp;<b>Controle de Efetivo</b><br>&nbsp;Quem entrou, quem recrutou, quem saiu e por quê, com pendências para a liderança conferir.</td>
-<td width="50%" valign="top"><img src="assets/icons/calcheck.svg" alt="" width="44" align="left">&nbsp;<b>Confirmação de Presença</b><br>&nbsp;Confirmação por DM com formulário e resumo de confirmados, desistentes e sem resposta.</td>
+<td width="50%" valign="top"><img src="assets/icons/users.svg" alt="" width="44"><br><b>Controle de Efetivo</b><br>Quem entrou, quem recrutou, quem saiu e por quê, com pendências para a liderança conferir.</td>
+<td width="50%" valign="top"><img src="assets/icons/calcheck.svg" alt="" width="44"><br><b>Confirmação de Presença</b><br>Confirmação por DM com formulário e resumo de confirmados, desistentes e sem resposta.</td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/icons/send.svg" alt="" width="44" align="left">&nbsp;<b>DM em Massa</b><br>&nbsp;Mensagens para um cargo inteiro, com prévia e relatório de DMs fechadas.</td>
-<td valign="top"><img src="assets/icons/updown.svg" alt="" width="44" align="left">&nbsp;<b>Promoção e Rebaixamento</b><br>&nbsp;Troca de cargo com aviso por DM e registro em log.</td>
+<td valign="top"><img src="assets/icons/send.svg" alt="" width="44"><br><b>DM em Massa</b><br>Mensagens para um cargo inteiro, com prévia e relatório de DMs fechadas.</td>
+<td valign="top"><img src="assets/icons/updown.svg" alt="" width="44"><br><b>Promoção e Rebaixamento</b><br>Troca de cargo com aviso por DM e registro em log.</td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/icons/userminus.svg" alt="" width="44" align="left">&nbsp;<b>Desligamento de Membros</b><br>&nbsp;Remove cargos, registra o motivo e avisa o membro.</td>
-<td valign="top"><img src="assets/icons/ban.svg" alt="" width="44" align="left">&nbsp;<b>Blacklist</b><br>&nbsp;Pessoas barradas por ID do jogo, consultadas no recrutamento.</td>
+<td valign="top"><img src="assets/icons/userminus.svg" alt="" width="44"><br><b>Desligamento de Membros</b><br>Remove cargos, registra o motivo e avisa o membro.</td>
+<td valign="top"><img src="assets/icons/ban.svg" alt="" width="44"><br><b>Blacklist</b><br>Pessoas barradas por ID do jogo, consultadas no recrutamento.</td>
 </tr>
 </table>
 
@@ -216,20 +216,20 @@ Soluções que se somam ao MWX Management, **disponíveis sob orçamento**.
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="assets/icons/globe.svg" alt="" width="44" align="left">&nbsp;<b>Feito em português</b><br>&nbsp;Textos pensados para o RP brasileiro: cidadão, recrutamento, farm, expediente.</td>
-<td width="50%" valign="top"><img src="assets/icons/sliders.svg" alt="" width="44" align="left">&nbsp;<b>Configurado pelo Discord</b><br>&nbsp;Canais, cargos e categorias escolhidos por comandos. Nada fica fixo no código.</td>
+<td width="50%" valign="top"><img src="assets/icons/globe.svg" alt="" width="44"><br><b>Feito em português</b><br>Textos pensados para o RP brasileiro: cidadão, recrutamento, farm, expediente.</td>
+<td width="50%" valign="top"><img src="assets/icons/sliders.svg" alt="" width="44"><br><b>Configurado pelo Discord</b><br>Canais, cargos e categorias escolhidos por comandos. Nada fica fixo no código.</td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/icons/palette.svg" alt="" width="44" align="left">&nbsp;<b>A cara do seu servidor</b><br>&nbsp;Cores, nome da organização, banner e painéis com a sua identidade.</td>
-<td valign="top"><img src="assets/icons/link.svg" alt="" width="44" align="left">&nbsp;<b>Sistemas integrados</b><br>&nbsp;O registro do Management alimenta o Atendimento e o Farm. As Encomendas entram no painel de atendimento.</td>
+<td valign="top"><img src="assets/icons/palette.svg" alt="" width="44"><br><b>A cara do seu servidor</b><br>Cores, nome da organização, banner e painéis com a sua identidade.</td>
+<td valign="top"><img src="assets/icons/link.svg" alt="" width="44"><br><b>Sistemas integrados</b><br>O registro do Management alimenta o Atendimento e o Farm. As Encomendas entram no painel de atendimento.</td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/icons/file.svg" alt="" width="44" align="left">&nbsp;<b>Tudo registrado</b><br>&nbsp;Moderação, mensagens, entradas, tickets e expediente ficam em canais de log.</td>
-<td valign="top"><img src="assets/icons/chart.svg" alt="" width="44" align="left">&nbsp;<b>Relatórios prontos</b><br>&nbsp;Horas e farm do mês saem em planilha .xlsx, prontas para a liderança.</td>
+<td valign="top"><img src="assets/icons/file.svg" alt="" width="44"><br><b>Tudo registrado</b><br>Moderação, mensagens, entradas, tickets e expediente ficam em canais de log.</td>
+<td valign="top"><img src="assets/icons/chart.svg" alt="" width="44"><br><b>Relatórios prontos</b><br>Horas e farm do mês saem em planilha .xlsx, prontas para a liderança.</td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/icons/grid.svg" alt="" width="44" align="left">&nbsp;<b>Modular</b><br>&nbsp;Contrate só o que precisa. Cada sistema funciona sozinho e se conecta aos outros.</td>
-<td valign="top"><img src="assets/icons/buoy.svg" alt="" width="44" align="left">&nbsp;<b>Suporte</b><br>&nbsp;Ajustes e atualizações durante o período do plano contratado.</td>
+<td valign="top"><img src="assets/icons/grid.svg" alt="" width="44"><br><b>Modular</b><br>Contrate só o que precisa. Cada sistema funciona sozinho e se conecta aos outros.</td>
+<td valign="top"><img src="assets/icons/buoy.svg" alt="" width="44"><br><b>Suporte</b><br>Ajustes e atualizações durante o período do plano contratado.</td>
 </tr>
 </table>
 
