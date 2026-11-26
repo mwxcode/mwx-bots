@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="120" viewBox="0 0 420 120" role="img" aria-label="Etapa 01 — Atendimento comercial" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>Etapa 01 — Atendimento comercial</title>
+<defs>
+<linearGradient id="bgs1" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
+</linearGradient>
+<radialGradient id="glows1" cx="0.1" cy="0.1" r=".6">
+  <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+</radialGradient>
+<pattern id="grids1" width="32" height="32" patternUnits="userSpaceOnUse">
+  <path d="M32 0H0V32" fill="none" stroke="#1E3A5F" stroke-width="1" opacity=".45"/>
+</pattern>
+<linearGradient id="edges1" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="txts1" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#2563EB"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#38BDF8"/>
+</linearGradient>
+<linearGradient id="fades1" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff"/>
+</linearGradient>
+<mask id="gms1"><rect width="420" height="120" fill="url(#fades1)"/></mask>
+<clipPath id="clips1"><rect width="420" height="120" rx="20"/></clipPath></defs>
+<g clip-path="url(#clips1)"><rect width="420" height="120" fill="url(#bgs1)"/><rect width="420" height="120" fill="url(#glows1)"/></g><rect x=".5" y=".5" width="419" height="119" rx="16" fill="none" stroke="#1E3A5F"/><rect x="76" y="0" width="269" height="1.2" fill="url(#edges1)"/>
+<text x="28" y="72" font-size="46" font-weight="900" fill="url(#txts1)" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace">01</text>
+<rect x="104" y="30" width="1" height="60" fill="#1E3A5F"/>
+<rect x="126" y="34" width="52" height="52" rx="14" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="136" y="34" width="31" height="1.2" fill="url(#edges1)"/><g transform="translate(140.04 48.04) scale(0.9967)" fill="none" stroke="#38BDF8" stroke-width="1.81" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></g>
+<text x="196" y="66" fill="#F1F5F9" font-size="18" font-weight="700">Atendimento comercial</text>
+<text x="28" y="100" fill="#94A3B8" font-size="11" font-weight="700" letter-spacing="3">ETAPA</text>
+</svg>

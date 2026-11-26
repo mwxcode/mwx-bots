@@ -1,32 +1,57 @@
-# ⚙️ Requisitos e instalação
+<img src="../assets/banners/doc-instalacao.svg" alt="Requisitos e instalação dos sistemas MWX" width="100%">
 
-## O que é preciso
+<p align="center"><a href="../README.md#nossos-sistemas">Catálogo</a> · <a href="../docs/comandos.md">Comandos</a> · <a href="../docs/planos.md">Planos</a> · <a href="../README.md#contato">Contato</a></p>
+
+## Apresentação
+
+Nos planos MWX a instalação e a configuração são feitas pela MWX. Esta página resume o que é preciso para os sistemas rodarem.
+
+<img src="../assets/branding/secao-requisitos.svg" alt="" width="100%">
+
+## Requisitos técnicos
 
 | Item | Detalhe |
 |---|---|
 | Node.js | 20 ou mais novo |
-| Banco | PostgreSQL 14+ só para **Bate-Ponto** e **Encomendas** (os dois podem dividir o mesmo banco). Os demais usam arquivo JSON. |
-| Hospedagem | PC ligado 24h, VPS ou painel de hospedagem de bots (ex.: Pterodactyl). 512 MB de RAM por bot é suficiente. |
-| Discord | Um aplicativo no Developer Portal para cada bot |
+| Banco de dados | PostgreSQL 14+ apenas para MWX Bate-Ponto e MWX Encomendas (os dois podem dividir o mesmo banco). Os demais usam arquivos JSON. |
+| Hospedagem | PC ligado 24h, VPS ou painel de hospedagem de bots. 512 MB de RAM por bot é suficiente. No MWX Cloud a hospedagem está inclusa. |
+| Discord | Um aplicativo no Discord Developer Portal para cada bot |
 
-## Passo a passo (resumo)
+### Intents por sistema
 
-1. Criar o aplicativo no Discord Developer Portal e ativar os intents indicados na página de cada bot.
-2. Colocar o token no arquivo `.env` (nunca compartilhe esse arquivo).
-3. Instalar e ligar (`npm install`, `npm run build`, `npm start`).
-4. No Discord, rodar o comando `/config-…` do bot e escolher canais e cargos.
+| Sistema | Intents privilegiados |
+|---|---|
+| MWX Management | Server Members e Message Content |
+| MWX Atendimento | Message Content |
+| MWX Farm | Server Members |
+| MWX Bate-Ponto | Nenhum |
+| MWX Encomendas | Nenhum |
+
+## Instalação
+
+1. Criar o aplicativo no Discord Developer Portal e ativar os intents do sistema.
+2. Colocar o token no arquivo `.env`. Esse arquivo nunca deve ser compartilhado.
+3. Instalar as dependências e iniciar o bot.
+4. No Discord, rodar o comando `/config-…` do sistema e escolher canais e cargos.
 5. Publicar os painéis.
 
-O cliente recebe um guia detalhado para cada bot junto com o pacote.
+O cliente recebe um guia detalhado de cada sistema junto com o pacote.
 
-## Integrações entre os bots
+## Integrações
 
-- **Atendimento + Management:** filtro de palavrões no assunto do ticket e nome/ID do registro no recrutamento.
-- **Farm + Management:** nome e ID preenchidos a partir do registro.
-- **Atendimento + Encomendas:** opção "Encomendas" dentro do painel de tickets.
+- **MWX Atendimento + MWX Management:** filtro de palavrões no assunto do ticket e nome/ID do registro no recrutamento.
+- **MWX Farm + MWX Management:** nome e ID preenchidos a partir do registro.
+- **MWX Atendimento + MWX Encomendas:** opção Encomendas dentro do painel de atendimento (os dois no mesmo aplicativo).
 
 ## Segurança
 
 - Nenhum ID de servidor, token ou senha fica no código.
-- Dados gravados de forma segura (sem corromper se o bot cair no meio).
-- Backup simples: pasta `data/` e banco PostgreSQL.
+- Backup simples: pasta `data/` dos bots sem banco e o banco PostgreSQL.
+
+<br>
+
+<img src="../assets/branding/divisor.svg" alt="" width="100%">
+
+<p align="center"><a href="../README.md#nossos-sistemas"><b>← Voltar ao catálogo</b></a> · <a href="../docs/planos.md">Conhecer os planos</a> · <a href="../README.md#contato">Falar com a MWX</a></p>
+
+<p align="center"><sub>© 2026 MWX Systems · Sua organização. Nossa tecnologia.</sub></p>

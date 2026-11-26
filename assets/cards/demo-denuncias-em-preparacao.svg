@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="360" viewBox="0 0 1240 360" role="img" aria-label="Demonstração do MWX Denúncias em preparação" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>Demonstração do MWX Denúncias em preparação</title>
+<defs>
+<linearGradient id="bgdp" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
+</linearGradient>
+<radialGradient id="glowdp" cx="0.5" cy="0.5" r=".6">
+  <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+</radialGradient>
+<pattern id="griddp" width="32" height="32" patternUnits="userSpaceOnUse">
+  <path d="M32 0H0V32" fill="none" stroke="#1E3A5F" stroke-width="1" opacity=".45"/>
+</pattern>
+<linearGradient id="edgedp" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="txtdp" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#2563EB"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#38BDF8"/>
+</linearGradient>
+<linearGradient id="fadedp" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff"/>
+</linearGradient>
+<mask id="gmdp"><rect width="1240" height="360" fill="url(#fadedp)"/></mask>
+<clipPath id="clipdp"><rect width="1240" height="360" rx="20"/></clipPath></defs>
+<g clip-path="url(#clipdp)"><rect width="1240" height="360" fill="url(#bgdp)"/><rect width="1240" height="360" fill="url(#griddp)" mask="url(#gmdp)"/><rect width="1240" height="360" fill="url(#glowdp)"/></g><rect x=".5" y=".5" width="1239" height="359" rx="18" fill="none" stroke="#1E3A5F"/><rect x="223" y="0" width="794" height="1.2" fill="url(#edgedp)"/>
+<rect x="40" y="40" width="1160" height="280" rx="14" fill="none" stroke="#1E3A5F" stroke-dasharray="8 8"/>
+<rect x="590.0" y="104" width="60" height="60" rx="16" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="602" y="104" width="36" height="1.2" fill="url(#edgedp)"/><g transform="translate(606.2 120.2) scale(1.1500)" fill="none" stroke="#38BDF8" stroke-width="1.57" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"/><path d="M12 9v4"/><path d="M12 17h.01"/></g>
+<text x="620.0" y="214" text-anchor="middle" fill="#F1F5F9" font-size="26" font-weight="700">Demonstração em preparação</text>
+<text x="620.0" y="250" text-anchor="middle" fill="#94A3B8" font-size="17">As telas do MWX Denúncias serão publicadas aqui.</text>
+</svg>

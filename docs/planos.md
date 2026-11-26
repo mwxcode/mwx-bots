@@ -1,23 +1,57 @@
-# 💰 Planos
+<img src="../assets/banners/doc-planos.svg" alt="Planos MWX: Essential, Complete, Cloud e Custom" width="100%">
 
-> Valores e condições são **exemplos**. Edite antes de publicar.
+<p align="center"><a href="../README.md#nossos-sistemas">Catálogo</a> · <a href="../docs/comandos.md">Comandos</a> · <a href="../docs/planos.md">Planos</a> · <a href="../README.md#contato">Contato</a></p>
 
-| | Bot avulso | Pacote completo | Aluguel mensal |
+Valores **sob consulta**. Fale com a MWX para receber uma proposta.
+
+<table>
+<tr>
+<td width="33%" valign="top"><img src="../assets/plans/plano-essential.svg" alt="MWX Essential" width="100%"></td>
+<td width="34%" valign="top"><img src="../assets/plans/plano-complete.svg" alt="MWX Complete" width="100%"></td>
+<td width="33%" valign="top"><img src="../assets/plans/plano-cloud.svg" alt="MWX Cloud" width="100%"></td>
+</tr>
+</table>
+
+## Comparativo
+
+| | Essential | **Complete** | Cloud |
 |---|:---:|:---:|:---:|
-| Bots incluídos | 1 à escolha | Os 6 | À escolha |
-| Instalação e configuração | ✅ | ✅ | ✅ |
-| Ajuste de cores, nome e textos | ✅ | ✅ | ✅ |
-| Hospedagem 24h | ❌ | ❌ | ✅ |
-| Atualizações | 30 dias | 90 dias | Enquanto ativo |
-| Suporte | 30 dias | 90 dias | Enquanto ativo |
-| Código-fonte com licença de uso | ✅ | ✅ | ❌ |
-| **Valor** | `R$ ___` | `R$ ___` | `R$ ___ /mês` |
+| Modelo | Pagamento único | Pagamento único | Assinatura mensal |
+| Sistemas | 1 à escolha | **Os 6** | À escolha |
+| Instalação e configuração | ✓ | ✓ | ✓ |
+| Personalização visual | ✓ | ✓ | ✓ |
+| Hospedagem 24/7 | Não inclusa | Não inclusa | ✓ |
+| Suporte | 30 dias | 90 dias | Enquanto ativa |
+| Atualizações | 30 dias | 90 dias | Enquanto ativa |
+| Código-fonte com licença de uso | ✓ | ✓ | Não entregue |
+| Valor | Sob consulta | Sob consulta | Sob consulta |
 
-**Personalizações** (função nova, módulo extra, visual exclusivo): sob orçamento.
+## MWX Essential
 
-## Formas de pagamento
-`PIX / CARTÃO / OUTRA` (preencher)
+Para quem precisa de um sistema. Um bot à escolha, instalado e configurado, com personalização visual, 30 dias de suporte e de atualizações e código-fonte com licença de uso. Hospedagem não inclusa.
 
-## Contato
-- Discord: `SEU_USUARIO`
-- Servidor de suporte: `https://discord.gg/SEU_CONVITE`
+## MWX Complete
+
+O ecossistema completo: os seis sistemas instalados e configurados, com personalização visual, 90 dias de suporte e de atualizações e código-fonte com licença de uso. Hospedagem não inclusa.
+
+## MWX Cloud
+
+Assinatura mensal com os bots à escolha, instalação, configuração, personalização visual e hospedagem 24/7. Suporte e atualizações enquanto a assinatura estiver ativa. O código-fonte não é entregue.
+
+## MWX Custom
+
+<img src="../assets/plans/plano-custom.svg" alt="MWX Custom: projetos personalizados sob orçamento" width="100%">
+
+Funções novas, [módulos adicionais](bots/extras.md) e visual exclusivo, desenvolvidos sob medida com orçamento individual.
+
+## Licença
+
+O código-fonte entregue nos planos Essential e Complete é de uso no servidor do cliente. Revenda, redistribuição e publicação não são permitidas. Veja a [licença](../LICENSE.md).
+
+<br>
+
+<img src="../assets/branding/divisor.svg" alt="" width="100%">
+
+<p align="center"><a href="../README.md#nossos-sistemas"><b>← Voltar ao catálogo</b></a> · <a href="../docs/planos.md">Conhecer os planos</a> · <a href="../README.md#contato">Falar com a MWX</a></p>
+
+<p align="center"><sub>© 2026 MWX Systems · Sua organização. Nossa tecnologia.</sub></p>
