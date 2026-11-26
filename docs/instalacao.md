@@ -1,4 +1,7 @@
-<img src="../assets/banners/doc-instalacao.svg" alt="Requisitos e instalação dos sistemas MWX" width="100%">
+<picture>
+  <source media="(max-width: 1103px)" srcset="../assets/banners/doc-instalacao-mobile.svg">
+  <img src="../assets/banners/doc-instalacao.svg" alt="Requisitos e instalação dos sistemas MWX" width="100%">
+</picture>
 
 <p align="center"><a href="../README.md#nossos-sistemas">Catálogo</a> · <a href="../docs/comandos.md">Comandos</a> · <a href="../docs/planos.md">Planos</a> · <a href="../README.md#contato">Contato</a></p>
 
@@ -16,7 +19,7 @@ Nos planos MWX a instalação e a configuração são feitas pela MWX. Esta pág
 |---|---|
 | Node.js | 20 ou mais novo |
 | Banco de dados | PostgreSQL apenas para MWX Bate-Ponto e MWX Encomendas (os dois podem dividir o mesmo banco). Os demais usam arquivos JSON. |
-| Hospedagem | PC ligado 24h, VPS ou painel de hospedagem de bots. Referência: a MWX usa planos de 512 MB de RAM por bot. Esse valor é a capacidade contratada, não um requisito mínimo medido; o consumo real varia com o servidor. No MWX Cloud a hospedagem está inclusa. |
+| Hospedagem | PC ligado 24h, VPS ou painel de hospedagem de bots. Referência: a MWX usa planos de 512 MB de RAM por bot. Esse valor é a capacidade contratada, não um requisito mínimo medido; o consumo real varia com o servidor. Nos planos de assinatura e nos sistemas individuais a hospedagem está inclusa. |
 | Discord | Um aplicativo no Discord Developer Portal para cada bot |
 
 ### Intents por sistema

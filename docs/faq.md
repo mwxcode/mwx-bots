@@ -1,4 +1,7 @@
-<img src="../assets/banners/doc-faq.svg" alt="Perguntas frequentes sobre os sistemas MWX" width="100%">
+<picture>
+  <source media="(max-width: 1103px)" srcset="../assets/banners/doc-faq-mobile.svg">
+  <img src="../assets/banners/doc-faq.svg" alt="Perguntas frequentes sobre os sistemas MWX" width="100%">
+</picture>
 
 <p align="center"><a href="../README.md#nossos-sistemas">Catálogo</a> · <a href="../docs/comandos.md">Comandos</a> · <a href="../docs/planos.md">Planos</a> · <a href="../README.md#contato">Contato</a></p>
 
@@ -25,9 +28,9 @@ Não. A licença é de uso no seu servidor. Revenda e redistribuição não são
 </details>
 
 <details>
-<summary><b>O que o pagamento único inclui?</b></summary>
+<summary><b>O que a licença em pagamento único inclui?</b></summary>
 <br>
-O direito de uso dos sistemas contratados, com instalação, configuração, personalização visual e o período de suporte e atualizações do plano. Não inclui hospedagem nem código-fonte. O prazo e as demais condições do direito de uso são confirmados no atendimento comercial.
+O direito de uso dos sistemas contratados por tempo indeterminado, conforme as condições comerciais e contratuais da MWX Systems. O valor é sob consulta e o período de suporte e atualizações é definido na contratação. Não inclui hospedagem, código-fonte nem propriedade intelectual, e não significa suporte ou atualizações vitalícios.
 </details>
 
 <details>
@@ -39,7 +42,7 @@ Não. Os planos não incluem o código-fonte. A aquisição só acontece após n
 <details>
 <summary><b>E se o Discord mudar algo?</b></summary>
 <br>
-As atualizações estão inclusas durante o período do plano: 30 dias no Essential, 90 dias no Complete e enquanto ativa no Cloud.
+Nas assinaturas, as atualizações estão inclusas enquanto a assinatura estiver ativa. Na licença em pagamento único, durante o período definido na contratação.
 </details>
 
 ## Técnico

@@ -1,4 +1,7 @@
-<img src="../../assets/banners/doc-management.svg" alt="MWX Management: moderação, registro, ausências e estrutura do servidor" width="100%">
+<picture>
+  <source media="(max-width: 1103px)" srcset="../../assets/banners/doc-management-mobile.svg">
+  <img src="../../assets/banners/doc-management.svg" alt="MWX Management: moderação, registro, ausências e estrutura do servidor" width="100%">
+</picture>
 
 <p align="center"><a href="../../README.md#nossos-sistemas">Catálogo</a> · <a href="../../docs/comandos.md">Comandos</a> · <a href="../../docs/planos.md">Planos</a> · <a href="../../README.md#contato">Contato</a></p>
 

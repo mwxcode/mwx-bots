@@ -1,18 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150" role="img" aria-label="Discord.js v14, Node.js 20+, TypeScript e JavaScript, PT-BR, licença comercial. Explore a MWX Systems." font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="154" viewBox="0 0 800 154" role="img" aria-label="Discord.js v14, Node.js 20+, TypeScript e JavaScript, PT-BR, licença comercial. Explore a MWX Systems." font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
 <title>Discord.js v14, Node.js 20+, TypeScript e JavaScript, PT-BR, licença comercial. Explore a MWX Systems.</title>
-<defs>
-<linearGradient id="bgnp" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
-</linearGradient>
-<radialGradient id="glownp" cx="0.5" cy="-0.4" r=".6">
-  <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
-</radialGradient>
-<linearGradient id="edgenp" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
-</linearGradient>
-<clipPath id="clipnp"><rect width="800" height="150" rx="20"/></clipPath></defs>
-<g clip-path="url(#clipnp)"><rect width="800" height="150" fill="url(#bgnp)"/><rect width="800" height="150" fill="url(#glownp)"/></g><rect x=".5" y=".5" width="799" height="149" rx="16" fill="none" stroke="#1E3A5F"/><rect x="144" y="0" width="512" height="1.2" fill="url(#edgenp)"/>
-<rect x="56.5" y="26" width="143" height="34" rx="9" fill="#102D58" stroke="#1E3A5F"/><text x="128.0" y="48.0" text-anchor="middle" fill="#F1F5F9" font-size="14" font-weight="600">Discord.js v14</text><rect x="208.5" y="26" width="119" height="34" rx="9" fill="#102D58" stroke="#1E3A5F"/><text x="268.0" y="48.0" text-anchor="middle" fill="#F1F5F9" font-size="14" font-weight="600">Node.js 20+</text><rect x="336.5" y="26" width="151" height="34" rx="9" fill="#102D58" stroke="#1E3A5F"/><text x="412.0" y="48.0" text-anchor="middle" fill="#F1F5F9" font-size="14" font-weight="600">TypeScript + JS</text><rect x="496.5" y="26" width="70" height="34" rx="9" fill="#102D58" stroke="#1E3A5F"/><text x="531.5" y="48.0" text-anchor="middle" fill="#F1F5F9" font-size="14" font-weight="600">PT-BR</text><rect x="575.5" y="26" width="168" height="34" rx="9" fill="#102D58" stroke="#1E3A5F"/><text x="659.5" y="48.0" text-anchor="middle" fill="#F1F5F9" font-size="14" font-weight="600">Licença comercial</text>
-<rect x="28" y="88" width="744" height="1" fill="#1E3A5F"/>
-<text x="400.0" y="124" text-anchor="middle" fill="#94A3B8" font-size="13" font-weight="700" letter-spacing="2.5">EXPLORE A MWX SYSTEMS</text>
+<defs><linearGradient id="gnp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1628"/><stop offset="1" stop-color="#0D1B2E"/></linearGradient><radialGradient id="rnp" cx=".5" cy="0" r=".9"><stop offset="0" stop-color="#2563EB" stop-opacity=".16"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient></defs>
+<rect x="2.5" y="2.5" width="795" height="145" rx="14" fill="url(#gnp)" stroke="#1D3859"/><rect x="3" y="3" width="794" height="144" rx="13.5" fill="url(#rnp)"/>
+<rect x="57.0" y="26.5" width="142" height="33" rx="9" fill="#102D58" fill-opacity=".55" stroke="#1D3859"/><text x="128.0" y="48.0" text-anchor="middle" fill="#F1F5F9" font-size="14" font-weight="600">Discord.js v14</text><rect x="209.0" y="26.5" width="118" height="33" rx="9" fill="#102D58" fill-opacity=".55" stroke="#1D3859"/><text x="268.0" y="48.0" text-anchor="middle" fill="#F1F5F9" font-size="14" font-weight="600">Node.js 20+</text><rect x="337.0" y="26.5" width="150" height="33" rx="9" fill="#102D58" fill-opacity=".55" stroke="#1D3859"/><text x="412.0" y="48.0" text-anchor="middle" fill="#F1F5F9" font-size="14" font-weight="600">TypeScript + JS</text><rect x="497.0" y="26.5" width="69" height="33" rx="9" fill="#102D58" fill-opacity=".55" stroke="#1D3859"/><text x="531.5" y="48.0" text-anchor="middle" fill="#F1F5F9" font-size="14" font-weight="600">PT-BR</text><rect x="576.0" y="26.5" width="167" height="33" rx="9" fill="#102D58" fill-opacity=".55" stroke="#1D3859"/><text x="659.5" y="48.0" text-anchor="middle" fill="#F1F5F9" font-size="14" font-weight="600">Licença comercial</text>
+<rect x="30" y="86" width="740" height="1" fill="#1D3859"/>
+<text x="400.0" y="122" text-anchor="middle" fill="#B0C0D4" font-size="13" font-weight="700" letter-spacing="2.5">EXPLORE A MWX SYSTEMS</text>
 </svg>

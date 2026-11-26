@@ -1,4 +1,7 @@
-<img src="../../assets/banners/doc-atendimento.svg" alt="MWX Atendimento: tickets por assunto e recrutamento completo" width="100%">
+<picture>
+  <source media="(max-width: 1103px)" srcset="../../assets/banners/doc-atendimento-mobile.svg">
+  <img src="../../assets/banners/doc-atendimento.svg" alt="MWX Atendimento: tickets por assunto e recrutamento completo" width="100%">
+</picture>
 
 <p align="center"><a href="../../README.md#nossos-sistemas">Catálogo</a> · <a href="../../docs/comandos.md">Comandos</a> · <a href="../../docs/planos.md">Planos</a> · <a href="../../README.md#contato">Contato</a></p>
 
