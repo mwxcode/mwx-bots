@@ -11,7 +11,7 @@ O MWX Bate-Ponto controla o expediente de polícia, hospital, mecânica, facçã
 
 <br>
 
-<img src="../../assets/branding/secao-funcionalidades.svg" alt="" width="100%">
+<picture><img src="../../assets/branding/secao-funcionalidades.svg" alt="" width="100%"></picture>
 
 ## Funcionalidades
 
@@ -55,7 +55,7 @@ O MWX Bate-Ponto controla o expediente de polícia, hospital, mecânica, facçã
 
 <br>
 
-<img src="../../assets/branding/secao-comandos.svg" alt="" width="100%">
+<picture><img src="../../assets/branding/secao-comandos.svg" alt="" width="100%"></picture>
 
 ## Comandos
 
@@ -70,7 +70,7 @@ O MWX Bate-Ponto controla o expediente de polícia, hospital, mecânica, facçã
 
 <br>
 
-<img src="../../assets/branding/secao-requisitos.svg" alt="" width="100%">
+<picture><img src="../../assets/branding/secao-requisitos.svg" alt="" width="100%"></picture>
 
 ## Requisitos técnicos
 
@@ -84,7 +84,7 @@ Funciona de forma independente.
 
 <br>
 
-<img src="../../assets/branding/divisor.svg" alt="" width="100%">
+<picture><img src="../../assets/branding/divisor.svg" alt="" width="100%"></picture>
 
 <p align="center"><a href="../../README.md#nossos-sistemas"><b>← Voltar ao catálogo</b></a> · <a href="../../docs/planos.md">Conhecer os planos</a> · <a href="../../README.md#contato">Falar com a MWX</a></p>
 
