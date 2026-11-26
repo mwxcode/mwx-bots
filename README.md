@@ -211,7 +211,7 @@ No Essential e no Complete você recebe o código-fonte com licença de uso no s
 
 <div align="center">
 
-<a href="https://discord.gg/YBJmv9hKG"><img src="assets/branding/botao-discord.svg" alt="Servidor da MWX no Discord" height="44"></a>
+<a href="https://discord.gg/xbDNJy6mtC"><img src="assets/branding/botao-discord.svg" alt="Servidor da MWX no Discord" height="44"></a>
 <a href="https://github.com/MWXCODE"><img src="assets/branding/botao-github.svg" alt="GitHub da MWX" height="44"></a>
 <a href="https://discord.com/users/493569236380418079"><img src="assets/branding/botao-responsavel.svg" alt="Responsável no Discord: niklausx_" height="44"></a>
 
