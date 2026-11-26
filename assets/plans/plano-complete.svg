@@ -1,38 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="262" viewBox="0 0 360 262" role="img" aria-label="MWX COMPLETE: Ecossistema completo, Pagamento único. Valor sob consulta." font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
-<title>MWX COMPLETE: Ecossistema completo, Pagamento único. Valor sob consulta.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="432" viewBox="0 0 400 432" role="img" aria-label="MWX COMPLETE, Ecossistema · Pagamento único: Os seis sistemas; Instalação e configuração; Personalização visual; 90 dias de suporte; 90 dias de atualizações; Código-fonte licenciado; Hospedagem não inclusa. Sob consulta." font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>MWX COMPLETE, Ecossistema · Pagamento único: Os seis sistemas; Instalação e configuração; Personalização visual; 90 dias de suporte; 90 dias de atualizações; Código-fonte licenciado; Hospedagem não inclusa. Sob consulta.</title>
 <defs>
-<linearGradient id="bgpcomplete" x1="0" y1="0" x2="1" y2="1">
+<linearGradient id="bgpvcomplete" x1="0" y1="0" x2="1" y2="1">
   <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
 </linearGradient>
-<radialGradient id="glowpcomplete" cx="0.5" cy="0.0" r=".6">
+<radialGradient id="glowpvcomplete" cx="0.5" cy="-0.1" r=".6">
   <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
 </radialGradient>
-<pattern id="gridpcomplete" width="32" height="32" patternUnits="userSpaceOnUse">
+<pattern id="gridpvcomplete" width="32" height="32" patternUnits="userSpaceOnUse">
   <path d="M32 0H0V32" fill="none" stroke="#1E3A5F" stroke-width="1" opacity=".45"/>
 </pattern>
-<linearGradient id="edgepcomplete" x1="0" y1="0" x2="1" y2="0">
+<linearGradient id="edgepvcomplete" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="txtpcomplete" x1="0" y1="0" x2="1" y2="0">
+<linearGradient id="txtpvcomplete" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0" stop-color="#2563EB"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#38BDF8"/>
 </linearGradient>
-<linearGradient id="fadepcomplete" x1="0" y1="0" x2="1" y2="0">
+<linearGradient id="fadepvcomplete" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff"/>
 </linearGradient>
-<mask id="gmpcomplete"><rect width="360" height="262" fill="url(#fadepcomplete)"/></mask>
-<clipPath id="clippcomplete"><rect width="360" height="262" rx="20"/></clipPath><linearGradient id="hlpcomplete" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#2563EB"/></linearGradient></defs>
-<g clip-path="url(#clippcomplete)"><rect width="360" height="262" fill="url(#bgpcomplete)"/><rect width="360" height="262" fill="url(#gridpcomplete)" mask="url(#gmpcomplete)"/><rect width="360" height="262" fill="url(#glowpcomplete)"/></g><rect x=".5" y=".5" width="359" height="261" rx="18" fill="none" stroke="#1E3A5F"/><rect x="65" y="0" width="230" height="1.2" fill="url(#edgepcomplete)"/>
-<rect x="1.5" y="1.5" width="357" height="259" rx="17" fill="none" stroke="url(#hlpcomplete)" stroke-width="2.5"/>
-<rect x="134" y="24" width="204" height="30" rx="15" fill="#2563EB"/><text x="236" y="44" text-anchor="middle" fill="#fff" font-size="12" font-weight="800" letter-spacing="1">ECOSSISTEMA COMPLETO</text>
+<mask id="gmpvcomplete"><rect width="400" height="432" fill="url(#fadepvcomplete)"/></mask>
+<clipPath id="clippvcomplete"><rect width="400" height="432" rx="20"/></clipPath><linearGradient id="hlpvcomplete" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#2563EB"/></linearGradient></defs>
+<g clip-path="url(#clippvcomplete)"><rect width="400" height="432" fill="url(#bgpvcomplete)"/><rect width="400" height="432" fill="url(#gridpvcomplete)" mask="url(#gmpvcomplete)"/><rect width="400" height="432" fill="url(#glowpvcomplete)"/></g><rect x=".5" y=".5" width="399" height="431" rx="18" fill="none" stroke="#1E3A5F"/><rect x="72" y="0" width="256" height="1.2" fill="url(#edgepvcomplete)"/>
+<rect x="1.5" y="1.5" width="397" height="429" rx="17" fill="none" stroke="url(#hlpvcomplete)" stroke-width="2.5"/>
+<rect x="164" y="24" width="212" height="30" rx="15" fill="#2563EB"/><text x="270" y="44" text-anchor="middle" fill="#fff" font-size="12" font-weight="800" letter-spacing="1">ECOSSISTEMA COMPLETO</text>
 <g transform="translate(26 22) scale(0.7083)">
-<path d="M24 2 43 13v22L24 46 5 35V13Z" fill="#0D1B2E" stroke="url(#txtpcomplete)" stroke-width="2"/>
+<path d="M24 2 43 13v22L24 46 5 35V13Z" fill="#0D1B2E" stroke="url(#txtpvcomplete)" stroke-width="2"/>
 <path d="M14 33V15l10 12 10-12v18" fill="none" stroke="#F1F5F9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="14" cy="33" r="2.6" fill="#38BDF8"/><circle cx="34" cy="33" r="2.6" fill="#38BDF8"/><circle cx="24" cy="27" r="2.2" fill="#3B82F6"/>
 </g>
-<text x="28" y="94" fill="#38BDF8" font-size="14" font-weight="700" letter-spacing="4">MWX</text>
-<text x="26" y="132" fill="#F1F5F9" font-size="36" font-weight="900" letter-spacing="1">COMPLETE</text>
-<text x="28" y="164" fill="#F1F5F9" font-size="17" font-weight="600">Ecossistema completo</text>
-<text x="28" y="188" fill="#94A3B8" font-size="15">Pagamento único</text>
-<rect x="28" y="206" width="304" height="1" fill="#1E3A5F"/>
-<text x="28" y="240" fill="#38BDF8" font-size="21" font-weight="800">Sob consulta</text>
+<text x="28" y="92" fill="#38BDF8" font-size="13" font-weight="700" letter-spacing="4">MWX</text>
+<text x="26" y="128" fill="#F1F5F9" font-size="34" font-weight="900" letter-spacing="1">COMPLETE</text>
+<text x="28" y="156" fill="#94A3B8" font-size="15">Ecossistema · Pagamento único</text>
+<g transform="translate(28 179) scale(0.6667)" fill="none" stroke="#38BDF8" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M20 6 9 17l-5-5"/></g>
+<text x="54" y="192" fill="#F1F5F9" font-size="14.5">Os seis sistemas</text>
+<g transform="translate(28 204) scale(0.6667)" fill="none" stroke="#38BDF8" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M20 6 9 17l-5-5"/></g>
+<text x="54" y="217" fill="#F1F5F9" font-size="14.5">Instalação e configuração</text>
+<g transform="translate(28 229) scale(0.6667)" fill="none" stroke="#38BDF8" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M20 6 9 17l-5-5"/></g>
+<text x="54" y="242" fill="#F1F5F9" font-size="14.5">Personalização visual</text>
+<g transform="translate(28 254) scale(0.6667)" fill="none" stroke="#38BDF8" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M20 6 9 17l-5-5"/></g>
+<text x="54" y="267" fill="#F1F5F9" font-size="14.5">90 dias de suporte</text>
+<g transform="translate(28 279) scale(0.6667)" fill="none" stroke="#38BDF8" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M20 6 9 17l-5-5"/></g>
+<text x="54" y="292" fill="#F1F5F9" font-size="14.5">90 dias de atualizações</text>
+<g transform="translate(28 304) scale(0.6667)" fill="none" stroke="#38BDF8" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M20 6 9 17l-5-5"/></g>
+<text x="54" y="317" fill="#F1F5F9" font-size="14.5">Código-fonte licenciado</text>
+<g transform="translate(28 329) scale(0.6667)" fill="none" stroke="#94A3B8" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round" color="#94A3B8"><circle cx="12" cy="12" r="10"/><path d="m4.9 4.9 14.2 14.2"/></g>
+<text x="54" y="342" fill="#94A3B8" font-size="14.5">Hospedagem não inclusa</text>
+<rect x="28" y="370" width="344" height="1" fill="#1E3A5F"/>
+<text x="28" y="404" fill="#38BDF8" font-size="20" font-weight="800">Sob consulta</text>
 </svg>

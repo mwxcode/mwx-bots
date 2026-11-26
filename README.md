@@ -13,7 +13,7 @@ Atendimento, recrutamento, expediente, produção, vendas e moderação, em port
 
 <img src="assets/branding/badge-discordjs.svg" alt="discord.js v14" height="28">&nbsp;
 <img src="assets/branding/badge-node.svg" alt="Node.js 20+" height="28">&nbsp;
-<img src="assets/branding/badge-typescript.svg" alt="TypeScript" height="28">&nbsp;
+<img src="assets/branding/badge-typescript.svg" alt="TypeScript e JavaScript" height="28">&nbsp;
 <img src="assets/branding/badge-idioma.svg" alt="Idioma PT-BR" height="28">&nbsp;
 <img src="assets/branding/badge-licenca.svg" alt="Licença comercial" height="28">
 
@@ -39,94 +39,16 @@ Atendimento, recrutamento, expediente, produção, vendas e moderação, em port
 
 ## Nossos sistemas
 
-Seis sistemas independentes que trabalham juntos. Contrate um ou o ecossistema completo.
+Seis sistemas independentes que trabalham juntos. Clique em um card para ver funções, comandos e requisitos.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="docs/bots/management.md"><img src="assets/cards/sistema-management.svg" alt="MWX Management: administração e moderação" width="100%"></a>
-<p>Moderação, registro de membros, ausências e organização do servidor em um único sistema.</p>
-<ul>
-<li>Advertências com cargos e ação automática ao atingir o limite</li>
-<li>Filtros de convites, links, palavrões e ofensas graves</li>
-<li>Registro com apelido padronizado e aprovação da staff</li>
-<li>Ausências com aprovação e encerramento automático</li>
-<li>Anúncios com prévia e montagem da estrutura do servidor</li>
-</ul>
-<p><b>Para a organização:</b> moderação com histórico de cada membro e menos trabalho manual para a liderança.</p>
-<p><a href="docs/bots/management.md"><b>Ver documentação →</b></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="docs/bots/atendimento.md"><img src="assets/cards/sistema-atendimento.svg" alt="MWX Atendimento: tickets e recrutamento" width="100%"></a>
-<p>Atendimento privado por assunto e recrutamento completo, do formulário à entrevista.</p>
-<ul>
-<li>Painéis público e interno, com um tipo de ticket por categoria</li>
-<li>Transcript HTML no canal de registros, no log e na DM do cliente</li>
-<li>Recrutamento com perguntas abertas e prova de regras A–E</li>
-<li>Card para a staff com a porcentagem de acertos</li>
-<li>Cargo de espera e ticket de entrevista abertos sozinhos</li>
-</ul>
-<p><b>Para a organização:</b> todo atendimento fica registrado e todo candidato passa pelo mesmo processo.</p>
-<p><a href="docs/bots/atendimento.md"><b>Ver documentação →</b></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="docs/bots/ponto.md"><img src="assets/cards/sistema-ponto.svg" alt="MWX Bate-Ponto: controle de expediente" width="100%"></a>
-<p>Controle de expediente para polícia, hospital, mecânica, facção ou empresa.</p>
-<ul>
-<li>Painel com Iniciar, Pausar / Retornar e Encerrar</li>
-<li>Cargo "em serviço" dado e retirado automaticamente</li>
-<li>Log em tempo real de cada início, pausa e fim</li>
-<li>Ranking, relatórios e histórico por período</li>
-<li>Horas por membro com planilha .xlsx</li>
-</ul>
-<p><b>Para a organização:</b> a liderança sabe quem está em serviço e quanto cada membro trabalhou.</p>
-<p><a href="docs/bots/ponto.md"><b>Ver documentação →</b></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="docs/bots/farm.md"><img src="assets/cards/sistema-farm.svg" alt="MWX Farm: registro e análise de farm" width="100%"></a>
-<p>Registro de produção com prova, conferência da equipe e ranking automático.</p>
-<ul>
-<li>Categoria, canais e permissões criados com um comando</li>
-<li>Registro com material, quantidade e print</li>
-<li>Equipe aceita, recusa ou corrige, com aviso por DM</li>
-<li>Metas semanais com cargo de meta concluída</li>
-<li>TOP do mês e planilha .xlsx automáticos</li>
-</ul>
-<p><b>Para a organização:</b> o controle de produção deixa de depender de prints soltos e contas à mão.</p>
-<p><a href="docs/bots/farm.md"><b>Ver documentação →</b></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="docs/bots/encomendas.md"><img src="assets/cards/sistema-encomendas.svg" alt="MWX Encomendas: pedidos com catálogo" width="100%"></a>
-<p>A loja da organização dentro do Discord, do pedido à entrega.</p>
-<ul>
-<li>Painel fixo com catálogo, preços e quantidades</li>
-<li>Resumo com valor total antes de confirmar</li>
-<li>Ticket do pedido aberto e numerado automaticamente</li>
-<li>Equipe aceita, nega e conclui a entrega, com aviso ao cliente</li>
-<li>Limite de quantidade por produto</li>
-</ul>
-<p><b>Para a organização:</b> pedidos com valor certo e um responsável do início ao fim.</p>
-<p><a href="docs/bots/encomendas.md"><b>Ver documentação →</b></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="docs/bots/denuncias.md"><img src="assets/cards/sistema-denuncias.svg" alt="MWX Denúncias: ouvidoria com protocolo" width="100%"></a>
-<p>Denúncias organizadas, com prova, análise da staff e resposta ao denunciante.</p>
-<ul>
-<li>Painel com Denunciar e Acompanhar</li>
-<li>Protocolo para cada denúncia (DEN-0001)</li>
-<li>Card de análise com Aceitar ou Negar</li>
-<li>Canais separados para aceitas e negadas</li>
-<li>Decisão enviada por DM e limite contra spam</li>
-</ul>
-<p><b>Para a organização:</b> toda denúncia tem número, registro e resposta.</p>
-<p><a href="docs/bots/denuncias.md"><b>Ver documentação →</b></a></p>
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="docs/bots/management.md"><img src="assets/cards/sistema-management.svg" alt="MWX Management: moderação, registro, ausências e estrutura do servidor" width="400"></a>
+<a href="docs/bots/atendimento.md"><img src="assets/cards/sistema-atendimento.svg" alt="MWX Atendimento: tickets por assunto e recrutamento do formulário à entrevista" width="400"></a>
+<a href="docs/bots/ponto.md"><img src="assets/cards/sistema-ponto.svg" alt="MWX Bate-Ponto: expediente, cargo em serviço, ranking e planilha de horas" width="400"></a>
+<a href="docs/bots/farm.md"><img src="assets/cards/sistema-farm.svg" alt="MWX Farm: registro com prova, análise da equipe, metas e TOP do mês" width="400"></a>
+<a href="docs/bots/encomendas.md"><img src="assets/cards/sistema-encomendas.svg" alt="MWX Encomendas: catálogo, valor total e pedido acompanhado até a entrega" width="400"></a>
+<a href="docs/bots/denuncias.md"><img src="assets/cards/sistema-denuncias.svg" alt="MWX Denúncias: protocolo, análise da staff e resposta por DM" width="400"></a>
+</p>
 
 <br>
 
@@ -134,24 +56,16 @@ Seis sistemas independentes que trabalham juntos. Contrate um ou o ecossistema c
 
 ## Módulos adicionais
 
-Soluções que se somam ao MWX Management, **disponíveis sob orçamento**.
+Soluções que se somam ao MWX Management, **sob orçamento**. [Ver detalhes](docs/bots/extras.md)
 
-<table>
-<tr>
-<td width="50%" valign="top"><img src="assets/icons/users.svg" alt="" width="44"><br><b>Controle de Efetivo</b><br>Quem entrou, quem recrutou, quem saiu e por quê, com pendências para a liderança conferir.</td>
-<td width="50%" valign="top"><img src="assets/icons/calcheck.svg" alt="" width="44"><br><b>Confirmação de Presença</b><br>Confirmação por DM com formulário e resumo de confirmados, desistentes e sem resposta.</td>
-</tr>
-<tr>
-<td valign="top"><img src="assets/icons/send.svg" alt="" width="44"><br><b>DM em Massa</b><br>Mensagens para um cargo inteiro, com prévia e relatório de DMs fechadas.</td>
-<td valign="top"><img src="assets/icons/updown.svg" alt="" width="44"><br><b>Promoção e Rebaixamento</b><br>Troca de cargo com aviso por DM e registro em log.</td>
-</tr>
-<tr>
-<td valign="top"><img src="assets/icons/userminus.svg" alt="" width="44"><br><b>Desligamento de Membros</b><br>Remove cargos, registra o motivo e avisa o membro.</td>
-<td valign="top"><img src="assets/icons/ban.svg" alt="" width="44"><br><b>Blacklist</b><br>Pessoas barradas por ID do jogo, consultadas no recrutamento.</td>
-</tr>
-</table>
-
-<p><a href="docs/bots/extras.md">Detalhes dos módulos</a> · <a href="#contato">Solicitar orçamento</a></p>
+<p align="center">
+<a href="docs/bots/extras.md"><img src="assets/cards/modulo-efetivo.svg" alt="Controle de Efetivo" width="400"></a>
+<a href="docs/bots/extras.md"><img src="assets/cards/modulo-presenca.svg" alt="Confirmação de Presença" width="400"></a>
+<a href="docs/bots/extras.md"><img src="assets/cards/modulo-dm.svg" alt="DM Personalizada: embed com prévia antes do envio" width="400"></a>
+<a href="docs/bots/extras.md"><img src="assets/cards/modulo-promocao.svg" alt="Promoção e Rebaixamento" width="400"></a>
+<a href="docs/bots/extras.md"><img src="assets/cards/modulo-desligamento.svg" alt="Desligamento de Membros" width="400"></a>
+<a href="docs/bots/extras.md"><img src="assets/cards/modulo-blacklist.svg" alt="Blacklist" width="400"></a>
+</p>
 
 <br>
 
@@ -159,54 +73,22 @@ Soluções que se somam ao MWX Management, **disponíveis sob orçamento**.
 
 ## Demonstrações
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<b>MWX Atendimento · Painel</b><br><br>
-<img src="assets/telas/atendimento-painel.png" alt="Painel de atendimento com seleção de assunto" width="100%"><br>
-<sub>O membro escolhe o assunto e recebe um canal privado, já com a equipe certa.</sub>
-</td>
-<td width="50%" valign="top">
-<b>MWX Atendimento · Recrutamento</b><br><br>
-<img src="assets/telas/recrutamento-card.png" alt="Card de recrutamento com a nota da prova" width="100%"><br>
-<sub>A staff vê respostas e nota da prova antes de decidir, com um clique para aceitar ou recusar.</sub>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<b>MWX Bate-Ponto</b><br><br>
-<img src="assets/telas/ponto-painel.png" alt="Painel do bate-ponto com ranking semanal" width="100%"><br>
-<sub>Expediente em três botões e ranking de horas sempre à vista.</sub>
-</td>
-<td valign="top">
-<b>MWX Farm</b><br><br>
-<img src="assets/telas/farm-card.png" alt="Card de registro de farm em análise" width="100%"><br>
-<sub>Cada registro chega com prova e progresso da meta para a equipe conferir.</sub>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<b>MWX Encomendas</b><br><br>
-<img src="assets/telas/encomenda-resumo.png" alt="Resumo de encomenda com valor total" width="100%"><br>
-<sub>Itens, valor total, status e responsável do pedido em um só lugar.</sub>
-</td>
-<td valign="top">
-<b>MWX Management</b><br><br>
-<img src="assets/telas/management-log.png" alt="Log de ofensa grave bloqueada e advertência aplicada" width="100%"><br>
-<sub>Filtro automático e advertências registrados com punição e histórico.</sub>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<b>MWX Denúncias</b><br><br>
-<img src="assets/cards/demo-denuncias-em-preparacao.svg" alt="Demonstração do MWX Denúncias em preparação" width="100%">
-</td>
-</tr>
-</table>
+Atendimento · Recrutamento · Bate-Ponto · Farm · Encomendas · Management
+
+<p align="center">
+<a href="docs/bots/atendimento.md"><img src="assets/telas/atendimento-painel.png" alt="Painel do MWX Atendimento" width="400"></a>
+<a href="docs/bots/atendimento.md"><img src="assets/telas/recrutamento-card.png" alt="Recrutamento do MWX Atendimento com nota da prova" width="400"></a>
+<a href="docs/bots/ponto.md"><img src="assets/telas/ponto-painel.png" alt="Painel do MWX Bate-Ponto com ranking" width="400"></a>
+<a href="docs/bots/farm.md"><img src="assets/telas/farm-card.png" alt="Registro do MWX Farm em análise" width="400"></a>
+<a href="docs/bots/encomendas.md"><img src="assets/telas/encomenda-resumo.png" alt="Resumo de pedido do MWX Encomendas" width="400"></a>
+<a href="docs/bots/management.md"><img src="assets/telas/management-log.png" alt="Log de moderação do MWX Management" width="400"></a>
+</p>
+
+<p align="center"><img src="assets/cards/demo-denuncias-em-preparacao.svg" alt="Demonstração do MWX Denúncias em preparação" width="808"></p>
 
 <sub>Imagens ilustrativas das interfaces, com dados fictícios. Cores, nome e ícone mudam conforme o servidor.</sub>
 
-<!-- GIFs: salve em assets/telas/gifs/<sistema>.gif e troque a imagem do card correspondente. Veja assets/telas/gifs/README.md. -->
+<!-- GIFs: salve em assets/telas/gifs/<sistema>.gif e troque a imagem correspondente. Veja assets/telas/gifs/README.md. -->
 
 <br>
 
@@ -214,24 +96,16 @@ Soluções que se somam ao MWX Management, **disponíveis sob orçamento**.
 
 ## Diferenciais
 
-<table>
-<tr>
-<td width="50%" valign="top"><img src="assets/icons/globe.svg" alt="" width="44"><br><b>Feito em português</b><br>Textos pensados para o RP brasileiro: cidadão, recrutamento, farm, expediente.</td>
-<td width="50%" valign="top"><img src="assets/icons/sliders.svg" alt="" width="44"><br><b>Configurado pelo Discord</b><br>Canais, cargos e categorias escolhidos por comandos. Nada fica fixo no código.</td>
-</tr>
-<tr>
-<td valign="top"><img src="assets/icons/palette.svg" alt="" width="44"><br><b>A cara do seu servidor</b><br>Cores, nome da organização, banner e painéis com a sua identidade.</td>
-<td valign="top"><img src="assets/icons/link.svg" alt="" width="44"><br><b>Sistemas integrados</b><br>O registro do Management alimenta o Atendimento e o Farm. As Encomendas entram no painel de atendimento.</td>
-</tr>
-<tr>
-<td valign="top"><img src="assets/icons/file.svg" alt="" width="44"><br><b>Tudo registrado</b><br>Moderação, mensagens, entradas, tickets e expediente ficam em canais de log.</td>
-<td valign="top"><img src="assets/icons/chart.svg" alt="" width="44"><br><b>Relatórios prontos</b><br>Horas e farm do mês saem em planilha .xlsx, prontas para a liderança.</td>
-</tr>
-<tr>
-<td valign="top"><img src="assets/icons/grid.svg" alt="" width="44"><br><b>Modular</b><br>Contrate só o que precisa. Cada sistema funciona sozinho e se conecta aos outros.</td>
-<td valign="top"><img src="assets/icons/buoy.svg" alt="" width="44"><br><b>Suporte</b><br>Ajustes e atualizações durante o período do plano contratado.</td>
-</tr>
-</table>
+<p align="center">
+<img src="assets/cards/diferencial-portugues.svg" alt="Feito em português: Textos pensados para o RP brasileiro" width="400">
+<img src="assets/cards/diferencial-discord.svg" alt="Configurado pelo Discord: Canais e cargos definidos por comando" width="400">
+<img src="assets/cards/diferencial-visual.svg" alt="A cara do seu servidor: Cores, nome, banner e painéis seus" width="400">
+<img src="assets/cards/diferencial-integracao.svg" alt="Sistemas integrados: Registro compartilhado entre os bots" width="400">
+<img src="assets/cards/diferencial-logs.svg" alt="Tudo registrado: Logs de moderação, tickets e ponto" width="400">
+<img src="assets/cards/diferencial-relatorios.svg" alt="Relatórios prontos: Horas e farm do mês em .xlsx" width="400">
+<img src="assets/cards/diferencial-modular.svg" alt="Modular: Contrate só o que precisa" width="400">
+<img src="assets/cards/diferencial-suporte.svg" alt="Suporte: Ajustes e atualizações no plano" width="400">
+</p>
 
 <br>
 
@@ -239,54 +113,14 @@ Soluções que se somam ao MWX Management, **disponíveis sob orçamento**.
 
 ## Planos
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<img src="assets/plans/plano-essential.svg" alt="MWX Essential: bot individual, pagamento único. Sob consulta." width="100%">
-<ul>
-<li>Um bot à escolha</li>
-<li>Instalação e configuração</li>
-<li>Personalização visual</li>
-<li>30 dias de suporte</li>
-<li>30 dias de atualizações</li>
-<li>Código-fonte com licença de uso</li>
-<li>Hospedagem não inclusa</li>
-</ul>
-</td>
-<td width="34%" valign="top">
-<img src="assets/plans/plano-complete.svg" alt="MWX Complete: ecossistema completo, pagamento único. Sob consulta." width="100%">
-<ul>
-<li><b>Os seis sistemas</b></li>
-<li>Instalação e configuração</li>
-<li>Personalização visual</li>
-<li>90 dias de suporte</li>
-<li>90 dias de atualizações</li>
-<li>Código-fonte com licença de uso</li>
-<li>Hospedagem não inclusa</li>
-</ul>
-</td>
-<td width="33%" valign="top">
-<img src="assets/plans/plano-cloud.svg" alt="MWX Cloud: assinatura mensal com hospedagem 24/7. Sob consulta." width="100%">
-<ul>
-<li>Bots à escolha</li>
-<li>Instalação e configuração</li>
-<li>Personalização visual</li>
-<li><b>Hospedagem 24/7</b></li>
-<li>Suporte enquanto ativa</li>
-<li>Atualizações enquanto ativa</li>
-<li>Sem entrega do código-fonte</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<img src="assets/plans/plano-custom.svg" alt="MWX Custom: projetos personalizados sob orçamento" width="100%">
-<p>Precisa de uma função nova, de um módulo adicional ou de um visual exclusivo? O <b>MWX Custom</b> é desenvolvido sob medida para a sua organização, com orçamento individual.</p>
-</td>
-</tr>
-</table>
+Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orçamento](#contato)
 
-<p><a href="docs/planos.md">Comparativo completo dos planos</a> · <a href="#contato">Solicitar orçamento</a></p>
+<p align="center">
+<a href="docs/planos.md"><img src="assets/plans/plano-essential.svg" alt="MWX ESSENTIAL, Bot individual · Pagamento único: Um bot à escolha; Instalação e configuração; Personalização visual; 30 dias de suporte; 30 dias de atualizações; Código-fonte licenciado; Hospedagem não inclusa. Sob consulta." width="400"></a>
+<a href="docs/planos.md"><img src="assets/plans/plano-complete.svg" alt="MWX COMPLETE, Ecossistema · Pagamento único: Os seis sistemas; Instalação e configuração; Personalização visual; 90 dias de suporte; 90 dias de atualizações; Código-fonte licenciado; Hospedagem não inclusa. Sob consulta." width="400"></a>
+<a href="docs/planos.md"><img src="assets/plans/plano-cloud.svg" alt="MWX CLOUD, Assinatura mensal: Bots à escolha; Instalação e configuração; Personalização visual; Hospedagem 24/7; Suporte enquanto ativa; Atualizações enquanto ativa; Sem entrega do código-fonte. Sob consulta." width="400"></a>
+<a href="docs/planos.md"><img src="assets/plans/plano-custom.svg" alt="MWX CUSTOM, Projetos sob medida: Funções novas; Módulos adicionais; Visual exclusivo; Orçamento individual. Sob orçamento." width="400"></a>
+</p>
 
 <br>
 
@@ -294,16 +128,12 @@ Soluções que se somam ao MWX Management, **disponíveis sob orçamento**.
 
 ## Como contratar
 
-<table>
-<tr>
-<td width="50%" valign="top"><img src="assets/cards/etapa-01.svg" alt="Etapa 01: atendimento comercial" width="100%"><br>Você conta como é a sua organização e o que ela precisa.</td>
-<td width="50%" valign="top"><img src="assets/cards/etapa-02.svg" alt="Etapa 02: escolha e contratação" width="100%"><br>Definimos juntos os sistemas e o plano.</td>
-</tr>
-<tr>
-<td valign="top"><img src="assets/cards/etapa-03.svg" alt="Etapa 03: instalação e personalização" width="100%"><br>Os sistemas entram no seu servidor com canais, cargos, cores e textos ajustados.</td>
-<td valign="top"><img src="assets/cards/etapa-04.svg" alt="Etapa 04: suporte e acompanhamento" width="100%"><br>Ajustes e atualizações durante o período do plano.</td>
-</tr>
-</table>
+<p align="center">
+<img src="assets/cards/etapa-01.svg" alt="Etapa 01, Atendimento comercial: Você conta o que a sua organização precisa." width="400">
+<img src="assets/cards/etapa-02.svg" alt="Etapa 02, Escolha e contratação: Definimos os sistemas e o plano." width="400">
+<img src="assets/cards/etapa-03.svg" alt="Etapa 03, Instalação e personalização: Canais, cargos, cores e textos ajustados." width="400">
+<img src="assets/cards/etapa-04.svg" alt="Etapa 04, Suporte e acompanhamento: Ajustes e atualizações durante o plano." width="400">
+</p>
 
 <br>
 
@@ -311,19 +141,9 @@ Soluções que se somam ao MWX Management, **disponíveis sob orçamento**.
 
 ## Documentação
 
-| Página | Conteúdo |
-|---|---|
-| [MWX Management](docs/bots/management.md) | Moderação, filtros, registro, ausências e estrutura |
-| [MWX Atendimento](docs/bots/atendimento.md) | Tickets, transcripts e recrutamento |
-| [MWX Bate-Ponto](docs/bots/ponto.md) | Expediente, ranking, relatórios e planilha |
-| [MWX Farm](docs/bots/farm.md) | Registro, análise, metas e TOP do mês |
-| [MWX Encomendas](docs/bots/encomendas.md) | Catálogo, pedidos e entrega |
-| [MWX Denúncias](docs/bots/denuncias.md) | Protocolo, análise e resposta |
-| [Módulos adicionais](docs/bots/extras.md) | Soluções sob orçamento |
-| [Comandos](docs/comandos.md) | Todos os comandos em um só lugar |
-| [Requisitos e instalação](docs/instalacao.md) | O que é preciso para colocar no ar |
-| [Planos](docs/planos.md) | Comparativo comercial |
-| [Perguntas frequentes](docs/faq.md) | Dúvidas técnicas e comerciais |
+**Sistemas:** [Management](docs/bots/management.md) · [Atendimento](docs/bots/atendimento.md) · [Bate-Ponto](docs/bots/ponto.md) · [Farm](docs/bots/farm.md) · [Encomendas](docs/bots/encomendas.md) · [Denúncias](docs/bots/denuncias.md) · [Módulos adicionais](docs/bots/extras.md)
+
+**Guias:** [Comandos](docs/comandos.md) · [Requisitos e instalação](docs/instalacao.md) · [Planos](docs/planos.md) · [Perguntas frequentes](docs/faq.md)
 
 <br>
 
@@ -334,19 +154,19 @@ Soluções que se somam ao MWX Management, **disponíveis sob orçamento**.
 <details>
 <summary><b>Funciona em qualquer servidor de RP?</b></summary>
 <br>
-Sim. Facção, polícia, hospital, mecânica ou empresa. Os textos, canais e cargos são configuráveis.
+Sim. Facção, polícia, hospital, mecânica ou empresa. Textos, canais e cargos são configuráveis.
+</details>
+
+<details>
+<summary><b>Preciso saber programar?</b></summary>
+<br>
+Não. A instalação e a configuração fazem parte dos planos, e os ajustes do dia a dia são feitos por comandos no Discord.
 </details>
 
 <details>
 <summary><b>Onde os bots ficam hospedados?</b></summary>
 <br>
-Nos planos Essential e Complete, em um PC ligado 24h, uma VPS ou um painel de hospedagem de bots, à sua escolha. No MWX Cloud a hospedagem 24/7 já está inclusa.
-</details>
-
-<details>
-<summary><b>Como é feita a instalação?</b></summary>
-<br>
-Instalação e configuração fazem parte de todos os planos. Os requisitos técnicos estão em <a href="docs/instalacao.md">Requisitos e instalação</a>.
+No Essential e no Complete, em um PC ligado 24h, VPS ou painel de hospedagem de bots, à sua escolha. No Cloud a hospedagem 24/7 está inclusa.
 </details>
 
 <details>
@@ -358,25 +178,13 @@ Sim. Os painéis usam o nome, as cores e o banner da sua organização.
 <details>
 <summary><b>Como funciona a licença?</b></summary>
 <br>
-Nos planos Essential e Complete você recebe o código-fonte com licença de uso no seu servidor. Revenda, redistribuição e publicação do código não são permitidas. No MWX Cloud o código não é entregue.
+No Essential e no Complete você recebe o código-fonte com licença de uso no seu servidor, sem direito de revenda, redistribuição ou publicação. No Cloud o código não é entregue.
 </details>
 
 <details>
-<summary><b>Por quanto tempo tenho suporte?</b></summary>
+<summary><b>Por quanto tempo tenho suporte e atualizações?</b></summary>
 <br>
 30 dias no Essential, 90 dias no Complete e enquanto a assinatura estiver ativa no Cloud.
-</details>
-
-<details>
-<summary><b>E as atualizações?</b></summary>
-<br>
-Seguem o mesmo período do suporte de cada plano.
-</details>
-
-<details>
-<summary><b>Preciso saber programar?</b></summary>
-<br>
-Não. Tudo é configurado por comandos no próprio Discord, e a instalação é feita por nós.
 </details>
 
 <p><a href="docs/faq.md">Mais perguntas, incluindo as técnicas</a></p>
@@ -389,13 +197,11 @@ Não. Tudo é configurado por comandos no próprio Discord, e a instalação é 
 
 <img src="assets/branding/contato.svg" alt="Conecte-se com a MWX. O próximo nível da sua organização começa aqui." width="100%">
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top"><img src="assets/icons/bag.svg" alt="" width="48"><br><b>Comercial</b><br><sub>Aquisição de bots, planos, assinaturas e orçamentos.</sub></td>
-<td width="34%" align="center" valign="top"><img src="assets/icons/headset.svg" alt="" width="48"><br><b>Suporte técnico</b><br><sub>Instalação, configurações, dúvidas e assistência.</sub></td>
-<td width="33%" align="center" valign="top"><img src="assets/icons/code.svg" alt="" width="48"><br><b>Projetos exclusivos</b><br><sub>Desenvolvimento de sistemas personalizados.</sub></td>
-</tr>
-</table>
+<p align="center">
+<img src="assets/cards/contato-comercial.svg" alt="Comercial: Bots, planos, assinaturas e orçamentos" width="260">
+<img src="assets/cards/contato-suporte.svg" alt="Suporte técnico: Instalação, configuração, dúvidas e assistência" width="260">
+<img src="assets/cards/contato-projetos.svg" alt="Projetos exclusivos: Sistemas desenvolvidos sob medida" width="260">
+</p>
 
 <div align="center">
 

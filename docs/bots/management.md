@@ -97,7 +97,7 @@ O MWX Management é o braço direito da liderança. Modera o chat, guarda o hist
 
 ## Integrações
 
-- Fornece nome, ID e lista de palavras bloqueadas para o [MWX Atendimento](atendimento.md) e o [MWX Farm](farm.md)
+- Fornece nome e ID do registro para o [MWX Atendimento](atendimento.md) e o [MWX Farm](farm.md), e a lista de palavrões para o assunto dos tickets do Atendimento
 - Base dos [módulos adicionais](extras.md)
 
 <br>
