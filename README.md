@@ -1,15 +1,13 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/banners/banner-mobile.png">
+  <source media="(max-width: 1011px)" srcset="assets/banners/banner-mobile.png">
   <img src="assets/banners/banner-principal.png" alt="MWX Bots: tecnologia que transforma a gestão do seu Roleplay. Sistemas completos para organizações, corporações e empresas no Discord. Arte de apresentação com painel ilustrativo." width="100%">
 </picture>
 
 <br>
 
-A **MWX Systems** desenvolve sistemas para organizações de GTA Roleplay no Discord.<br>
-Atendimento, recrutamento, expediente, farm, encomendas, denúncias e moderação organizados no próprio servidor,<br>
-com registro de cada ação, em português e com a identidade da sua organização.
+A **MWX Systems** desenvolve sistemas para organizações de GTA Roleplay no Discord. Atendimento, recrutamento, expediente, farm, encomendas, denúncias e moderação organizados no próprio servidor, com registro de cada ação, em português e com a identidade da sua organização.
 
 <br>
 
@@ -171,7 +169,7 @@ Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orça
 <br>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/branding/faq-topo-mobile.svg">
+  <source media="(max-width: 1011px)" srcset="assets/branding/faq-topo-mobile.svg">
   <img src="assets/branding/faq-topo.svg" alt="MWX Systems, central de ajuda: perguntas frequentes. Tudo o que você precisa saber antes de contratar nossos sistemas." width="100%">
 </picture>
 
@@ -224,7 +222,7 @@ Não. A instalação e a configuração fazem parte dos planos, e os ajustes do 
 ## Contato
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/branding/contato-mobile.svg">
+  <source media="(max-width: 1011px)" srcset="assets/branding/contato-mobile.svg">
   <img src="assets/branding/contato.svg" alt="Conecte-se com a MWX. O próximo nível da sua organização começa aqui." width="100%">
 </picture>
 
@@ -248,7 +246,7 @@ Não. A instalação e a configuração fazem parte dos planos, e os ajustes do 
 <br>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/branding/rodape-mobile.svg">
+  <source media="(max-width: 1011px)" srcset="assets/branding/rodape-mobile.svg">
   <img src="assets/branding/rodape.svg" alt="MWX Systems. Sua organização. Nossa tecnologia. Desenvolvimento, automação e inovação." width="100%">
 </picture>
 
