@@ -211,14 +211,16 @@ No Essential e no Complete você recebe o código-fonte com licença de uso no s
 
 <div align="center">
 
+<a href="https://discord.gg/YBJmv9hKG"><img src="assets/branding/botao-discord.svg" alt="Servidor da MWX no Discord" height="44"></a>
 <a href="https://github.com/MWXCODE"><img src="assets/branding/botao-github.svg" alt="GitHub da MWX" height="44"></a>
+<a href="https://discord.com/users/493569236380418079"><img src="assets/branding/botao-responsavel.svg" alt="Responsável no Discord: niklausx_" height="44"></a>
+
+<sub>Responsável: <b>niklausx_</b> no Discord · Atendimento em português · Brasil</sub>
+
 <!-- Canais pendentes: quando houver os dados oficiais, descomente e preencha.
-<a href="https://discord.gg/CONVITE"><img src="assets/branding/botao-discord.svg" alt="Discord" height="44"></a>
 <a href="mailto:EMAIL"><img src="assets/branding/botao-email.svg" alt="E-mail" height="44"></a>
 <a href="https://wa.me/NUMERO"><img src="assets/branding/botao-whatsapp.svg" alt="WhatsApp" height="44"></a>
 -->
-
-<sub>Atendimento em português · Brasil</sub>
 
 </div>
 
