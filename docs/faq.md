@@ -22,6 +22,24 @@ Não. A instalação e a configuração fazem parte dos planos, e os ajustes do 
 </details>
 
 <details>
+<summary><b>Posso contratar só os sistemas de que preciso?</b></summary>
+<br>
+Sim. Cada sistema pode ser assinado individualmente, com valor mensal por servidor. Para uma combinação que não corresponde a um dos planos, existe o MWX Personalizado: o atendimento comercial define a composição e o valor. Veja <a href="planos.md#outras-modalidades">Planos</a>.
+</details>
+
+<details>
+<summary><b>Como funcionam cancelamento, renovação e reembolso?</b></summary>
+<br>
+Essas condições ainda não têm regra publicada e são combinadas no atendimento comercial antes da contratação. Veja <a href="politicas-comerciais.md#condições-combinadas-na-contratação">Políticas comerciais</a>.
+</details>
+
+<details>
+<summary><b>Quais dados os sistemas guardam?</b></summary>
+<br>
+Cada sistema guarda só o necessário para funcionar, como registros, tickets, expediente, farm, pedidos e denúncias. O detalhe por sistema está em <a href="privacidade-e-dados.md">Privacidade e dados</a>.
+</details>
+
+<details>
 <summary><b>Posso revender os bots?</b></summary>
 <br>
 Não. A licença é de uso no seu servidor. Revenda e redistribuição não são permitidas.
@@ -68,7 +86,7 @@ O MWX Bate-Ponto atende vários servidores no mesmo bot. O MWX Atendimento funci
 <details>
 <summary><b>Como faço backup?</b></summary>
 <br>
-Copie a pasta <code>data/</code> dos bots sem banco e faça o backup do PostgreSQL.
+Os sistemas não fazem backup automático. Na hospedagem própria (licença em pagamento único), copie a pasta <code>data/</code> dos bots sem banco e faça o backup do PostgreSQL. Na hospedagem MWX, a rotina de backup ainda está em definição: consulte o atendimento.
 </details>
 
 <details>
