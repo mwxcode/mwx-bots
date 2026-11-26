@@ -16,4 +16,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python3 tools/validar.py
+      - name: Instalar Pillow
+        run: python3 -m pip install --disable-pip-version-check pillow==11.3.0
+      - name: Autoteste do validador
+        run: python3 tools/validar.py --autoteste
+      - name: Validar páginas e recursos
+        run: python3 tools/validar.py
+      - name: Links externos (informativo, não bloqueia)
+        continue-on-error: true
+        timeout-minutes: 3
+        run: python3 tools/validar.py --externos
