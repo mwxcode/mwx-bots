@@ -6,6 +6,8 @@
 
 O MWX Denúncias organiza denúncias com prova, análise da staff e resposta ao denunciante, sem depender de ticket aberto.
 
+<br>
+
 <img src="../../assets/branding/secao-funcionalidades.svg" alt="" width="100%">
 
 ## Funcionalidades
@@ -36,11 +38,15 @@ O MWX Denúncias organiza denúncias com prova, análise da staff e resposta ao 
 
 <img src="../../assets/cards/demo-denuncias-em-preparacao.svg" alt="Demonstração em preparação" width="100%">
 
+<br>
+
 <img src="../../assets/branding/secao-comandos.svg" alt="" width="100%">
 
 ## Comandos
 
 O MWX Denúncias funciona pelos botões do painel (**Denunciar** e **Acompanhar**) e pelos cards da staff. Não há comandos para o membro decorar.
+
+<br>
 
 <img src="../../assets/branding/secao-requisitos.svg" alt="" width="100%">
 

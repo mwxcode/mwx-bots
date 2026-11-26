@@ -6,6 +6,8 @@
 
 O MWX Farm acaba com as planilhas manuais: o membro registra com prova, a equipe confere e o ranking sai sozinho.
 
+<br>
+
 <img src="../../assets/branding/secao-funcionalidades.svg" alt="" width="100%">
 
 ## Funcionalidades
@@ -42,6 +44,8 @@ O MWX Farm acaba com as planilhas manuais: o membro registra com prova, a equipe
 
 <sub>Imagens ilustrativas da interface, com dados fictícios.</sub>
 
+<br>
+
 <img src="../../assets/branding/secao-comandos.svg" alt="" width="100%">
 
 ## Comandos
@@ -52,6 +56,8 @@ O MWX Farm acaba com as planilhas manuais: o membro registra com prova, a equipe
 | `/config-farm ver\|canais\|analisadores\|membros\|lideranca\|categoria-logs\|materiais\|top\|reenviar-painel` | Configuração |
 | `/painelfarm` | Reenvia o painel |
 | `/farm-planilha` | Planilha do mês |
+
+<br>
 
 <img src="../../assets/branding/secao-requisitos.svg" alt="" width="100%">
 

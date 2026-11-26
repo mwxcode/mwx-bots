@@ -6,6 +6,8 @@
 
 Nos planos MWX a instalação e a configuração são feitas pela MWX. Esta página resume o que é preciso para os sistemas rodarem.
 
+<br>
+
 <img src="../assets/branding/secao-requisitos.svg" alt="" width="100%">
 
 ## Requisitos técnicos
