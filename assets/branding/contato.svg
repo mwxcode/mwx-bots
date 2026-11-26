@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="250" viewBox="0 0 1240 250" role="img" aria-label="Conecte-se com a MWX. O próximo nível da sua organização começa aqui." font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>Conecte-se com a MWX. O próximo nível da sua organização começa aqui.</title>
+<defs>
+<linearGradient id="bgch" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
+</linearGradient>
+<radialGradient id="glowch" cx="0.5" cy="-0.15" r=".6">
+  <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+</radialGradient>
+<pattern id="gridch" width="32" height="32" patternUnits="userSpaceOnUse">
+  <path d="M32 0H0V32" fill="none" stroke="#1E3A5F" stroke-width="1" opacity=".45"/>
+</pattern>
+<linearGradient id="edgech" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="txtch" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#2563EB"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#38BDF8"/>
+</linearGradient>
+<linearGradient id="fadech" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff"/>
+</linearGradient>
+<mask id="gmch"><rect width="1240" height="250" fill="url(#fadech)"/></mask>
+<clipPath id="clipch"><rect width="1240" height="250" rx="20"/></clipPath></defs>
+<g clip-path="url(#clipch)"><rect width="1240" height="250" fill="url(#bgch)"/><rect width="1240" height="250" fill="url(#gridch)" mask="url(#gmch)"/><rect width="1240" height="250" fill="url(#glowch)"/></g><rect x=".5" y=".5" width="1239" height="249" rx="20" fill="none" stroke="#1E3A5F"/><rect x="223" y="0" width="794" height="1.2" fill="url(#edgech)"/>
+<path d="M40 170 h72.0 l21.599999999999998 21.599999999999998 h84.0" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.35"/><path d="M40 201.2 h48.0 l21.599999999999998 -21.599999999999998 h43.199999999999996" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.35"/><path d="M64.0 232.4 h93.6 l16.8 -16.8 h69.6" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.35"/><circle cx="217.6" cy="191.6" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.6"/><circle cx="152.8" cy="179.6" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.6"/><circle cx="244.0" cy="215.6" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.6"/>
+<path d="M980 40 h66.0 l19.8 19.8 h77.0" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.35"/><path d="M980 68.6 h44.0 l19.8 -19.8 h39.6" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.35"/><path d="M1002.0 97.2 h85.80000000000001 l15.400000000000002 -15.400000000000002 h63.800000000000004" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.35"/><circle cx="1142.8" cy="59.8" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.6"/><circle cx="1083.4" cy="48.8" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.6"/><circle cx="1167.0" cy="81.8" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.6"/>
+<rect x="590.0" y="34" width="60" height="60" rx="16" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="602" y="34" width="36" height="1.2" fill="url(#edgech)"/><g transform="translate(606.2 50.2) scale(1.1500)" fill="none" stroke="#38BDF8" stroke-width="1.57" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></g>
+<text x="620.0" y="146" text-anchor="middle" fill="#F1F5F9" font-size="40" font-weight="900" letter-spacing="2">CONECTE-SE COM A MWX</text>
+<text x="620.0" y="186" text-anchor="middle" fill="#F1F5F9" font-size="20">O próximo nível da sua organização começa aqui.</text>
+<text x="620.0" y="218" text-anchor="middle" fill="#94A3B8" font-size="15">Soluções inteligentes, atendimento especializado e tecnologia desenvolvida para o Roleplay.</text>
+</svg>

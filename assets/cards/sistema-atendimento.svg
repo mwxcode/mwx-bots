@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="230" viewBox="0 0 560 230" role="img" aria-label="MWX Atendimento — Tickets e recrutamento" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>MWX Atendimento — Tickets e recrutamento</title>
+<defs>
+<linearGradient id="bgcatendimento" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
+</linearGradient>
+<radialGradient id="glowcatendimento" cx="0.95" cy="0.05" r=".6">
+  <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+</radialGradient>
+<pattern id="gridcatendimento" width="32" height="32" patternUnits="userSpaceOnUse">
+  <path d="M32 0H0V32" fill="none" stroke="#1E3A5F" stroke-width="1" opacity=".45"/>
+</pattern>
+<linearGradient id="edgecatendimento" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="txtcatendimento" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#2563EB"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#38BDF8"/>
+</linearGradient>
+<linearGradient id="fadecatendimento" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff"/>
+</linearGradient>
+<mask id="gmcatendimento"><rect width="560" height="230" fill="url(#fadecatendimento)"/></mask>
+<clipPath id="clipcatendimento"><rect width="560" height="230" rx="20"/></clipPath></defs>
+<g clip-path="url(#clipcatendimento)"><rect width="560" height="230" fill="url(#bgcatendimento)"/><rect width="560" height="230" fill="url(#gridcatendimento)" mask="url(#gmcatendimento)"/><rect width="560" height="230" fill="url(#glowcatendimento)"/></g><rect x=".5" y=".5" width="559" height="229" rx="18" fill="none" stroke="#1E3A5F"/><rect x="101" y="0" width="358" height="1.2" fill="url(#edgecatendimento)"/>
+<path d="M370 34 h48.0 l14.4 14.4 h56.0" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.4"/><path d="M370 54.8 h32.0 l14.4 -14.4 h28.8" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.4"/><path d="M386.0 75.6 h62.400000000000006 l11.200000000000001 -11.200000000000001 h46.400000000000006" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.4"/><circle cx="488.4" cy="48.4" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.65"/><circle cx="445.2" cy="40.4" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.65"/><circle cx="506.0" cy="64.4" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.65"/>
+<rect x="32" y="32" width="60" height="60" rx="16" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="44" y="32" width="36" height="1.2" fill="url(#edgecatendimento)"/><g transform="translate(48.2 48.2) scale(1.1500)" fill="none" stroke="#38BDF8" stroke-width="1.57" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3"/></g>
+<text x="112" y="56" fill="#38BDF8" font-size="13" font-weight="700" letter-spacing="4">MWX</text>
+<text x="111" y="90" fill="#F1F5F9" font-size="32" font-weight="800" letter-spacing="-.5">Atendimento</text>
+<text x="34" y="134" fill="#94A3B8" font-size="16">Tickets e recrutamento</text>
+<rect x="34" y="160" width="72" height="28" rx="14" fill="#102D58" fill-opacity=".55" stroke="#1E3A5F"/><text x="70" y="179" text-anchor="middle" fill="#F1F5F9" font-size="12.5" font-weight="600">Tickets</text>
+<rect x="114.4" y="160" width="130" height="28" rx="14" fill="#102D58" fill-opacity=".55" stroke="#1E3A5F"/><text x="179" y="179" text-anchor="middle" fill="#F1F5F9" font-size="12.5" font-weight="600">Transcript HTML</text>
+<rect x="252.4" y="160" width="108" height="28" rx="14" fill="#102D58" fill-opacity=".55" stroke="#1E3A5F"/><text x="307" y="179" text-anchor="middle" fill="#F1F5F9" font-size="12.5" font-weight="600">Recrutamento</text>
+</svg>

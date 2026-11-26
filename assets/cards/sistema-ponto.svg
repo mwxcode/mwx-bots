@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="230" viewBox="0 0 560 230" role="img" aria-label="MWX Bate-Ponto — Controle de expediente" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>MWX Bate-Ponto — Controle de expediente</title>
+<defs>
+<linearGradient id="bgcponto" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
+</linearGradient>
+<radialGradient id="glowcponto" cx="0.95" cy="0.05" r=".6">
+  <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+</radialGradient>
+<pattern id="gridcponto" width="32" height="32" patternUnits="userSpaceOnUse">
+  <path d="M32 0H0V32" fill="none" stroke="#1E3A5F" stroke-width="1" opacity=".45"/>
+</pattern>
+<linearGradient id="edgecponto" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="txtcponto" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#2563EB"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#38BDF8"/>
+</linearGradient>
+<linearGradient id="fadecponto" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff"/>
+</linearGradient>
+<mask id="gmcponto"><rect width="560" height="230" fill="url(#fadecponto)"/></mask>
+<clipPath id="clipcponto"><rect width="560" height="230" rx="20"/></clipPath></defs>
+<g clip-path="url(#clipcponto)"><rect width="560" height="230" fill="url(#bgcponto)"/><rect width="560" height="230" fill="url(#gridcponto)" mask="url(#gmcponto)"/><rect width="560" height="230" fill="url(#glowcponto)"/></g><rect x=".5" y=".5" width="559" height="229" rx="18" fill="none" stroke="#1E3A5F"/><rect x="101" y="0" width="358" height="1.2" fill="url(#edgecponto)"/>
+<path d="M370 34 h48.0 l14.4 14.4 h56.0" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.4"/><path d="M370 54.8 h32.0 l14.4 -14.4 h28.8" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.4"/><path d="M386.0 75.6 h62.400000000000006 l11.200000000000001 -11.200000000000001 h46.400000000000006" fill="none" stroke="#2563EB" stroke-width="1.4" opacity="0.4"/><circle cx="488.4" cy="48.4" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.65"/><circle cx="445.2" cy="40.4" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.65"/><circle cx="506.0" cy="64.4" r="3" fill="#050B14" stroke="#38BDF8" stroke-width="1.4" opacity="0.65"/>
+<rect x="32" y="32" width="60" height="60" rx="16" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="44" y="32" width="36" height="1.2" fill="url(#edgecponto)"/><g transform="translate(48.2 48.2) scale(1.1500)" fill="none" stroke="#38BDF8" stroke-width="1.57" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></g>
+<text x="112" y="56" fill="#38BDF8" font-size="13" font-weight="700" letter-spacing="4">MWX</text>
+<text x="111" y="90" fill="#F1F5F9" font-size="32" font-weight="800" letter-spacing="-.5">Bate-Ponto</text>
+<text x="34" y="134" fill="#94A3B8" font-size="16">Controle de expediente</text>
+<rect x="34" y="160" width="94" height="28" rx="14" fill="#102D58" fill-opacity=".55" stroke="#1E3A5F"/><text x="81" y="179" text-anchor="middle" fill="#F1F5F9" font-size="12.5" font-weight="600">Em serviço</text>
+<rect x="136.0" y="160" width="72" height="28" rx="14" fill="#102D58" fill-opacity=".55" stroke="#1E3A5F"/><text x="172" y="179" text-anchor="middle" fill="#F1F5F9" font-size="12.5" font-weight="600">Ranking</text>
+<rect x="216.4" y="160" width="123" height="28" rx="14" fill="#102D58" fill-opacity=".55" stroke="#1E3A5F"/><text x="278" y="179" text-anchor="middle" fill="#F1F5F9" font-size="12.5" font-weight="600">Planilha .xlsx</text>
+</svg>
