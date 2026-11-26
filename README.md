@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="MWX Bots" width="100%">
+  <img src="assets/banner-v2.png" alt="MWX Bots" width="100%">
 </p>
 
 <h1 align="center">MWX Bots · Sistemas para organizações de RP no Discord</h1>
