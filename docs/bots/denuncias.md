@@ -62,6 +62,7 @@ O MWX Denúncias funciona pelos botões do painel (**Denunciar** e **Acompanhar*
 
 - Node.js 20 ou mais novo
 - Sem banco de dados: dados em arquivo JSON
+- Intents privilegiados: a confirmar com a MWX
 
 ## Integrações
 

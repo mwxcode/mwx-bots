@@ -63,7 +63,7 @@ O MWX Encomendas coloca a loja da organização dentro do Discord: o cliente esc
 ## Requisitos técnicos
 
 - Node.js 20 ou mais novo
-- PostgreSQL 14 ou mais novo
+- PostgreSQL
 - Sem intents privilegiados
 
 ## Integrações
