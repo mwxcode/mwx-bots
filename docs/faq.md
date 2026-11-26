@@ -9,7 +9,7 @@ As perguntas comerciais principais também estão no [README](../README.md#pergu
 <details>
 <summary><b>Funciona em qualquer servidor de RP?</b></summary>
 <br>
-Sim. Facção, polícia, hospital, mecânica ou empresa. Os textos, canais e cargos são configuráveis.
+Os sistemas foram feitos para organizações de RP no Discord, como facção, polícia, hospital, mecânica ou empresa. Textos, canais e cargos são configuráveis. Para um caso específico, confirme no atendimento comercial.
 </details>
 
 <details>
@@ -22,6 +22,12 @@ Não. Tudo é configurado por comandos no Discord, e a instalação faz parte do
 <summary><b>Posso revender os bots?</b></summary>
 <br>
 Não. A licença é de uso no seu servidor. Revenda e redistribuição não são permitidas.
+</details>
+
+<details>
+<summary><b>O que o pagamento único inclui?</b></summary>
+<br>
+O direito de uso dos sistemas contratados, com instalação, configuração, personalização visual e o período de suporte e atualizações do plano. Não inclui hospedagem nem código-fonte. O prazo e as demais condições do direito de uso são confirmados no atendimento comercial.
 </details>
 
 <details>
@@ -41,13 +47,13 @@ As atualizações estão inclusas durante o período do plano: 30 dias no Essent
 <details>
 <summary><b>Quais sistemas precisam de banco de dados?</b></summary>
 <br>
-Só o MWX Bate-Ponto e o MWX Encomendas, que usam PostgreSQL 14+ e podem dividir o mesmo banco. Os demais guardam os dados em arquivos JSON.
+Só o MWX Bate-Ponto e o MWX Encomendas, que usam PostgreSQL e podem dividir o mesmo banco. Os demais guardam os dados em arquivos JSON.
 </details>
 
 <details>
 <summary><b>Quanto de memória cada bot usa?</b></summary>
 <br>
-512 MB de RAM por bot é suficiente.
+Os sistemas são hospedados em planos de 512 MB de RAM por bot. O consumo varia com o tamanho do servidor e o volume de uso, então a MWX indica a hospedagem adequada no atendimento.
 </details>
 
 <details>
@@ -65,7 +71,7 @@ Copie a pasta <code>data/</code> dos bots sem banco e faça o backup do PostgreS
 <details>
 <summary><b>O token do bot fica no código?</b></summary>
 <br>
-Não. O token fica só no arquivo <code>.env</code> do cliente, que nunca deve ser compartilhado.
+Não. O token fica só no arquivo <code>.env</code> da instalação, que nunca deve ser compartilhado.
 </details>
 
 <br>

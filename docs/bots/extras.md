@@ -4,7 +4,7 @@
 
 ## Apresentação
 
-Funções já em uso no MWX Management que podem ser somadas ao [MWX Management](management.md). Cada módulo é **orçado à parte** pelo [MWX Custom](../planos.md#mwx-custom).
+Funções já em uso no MWX Management que podem ser somadas ao [MWX Management](management.md). Os módulos **não fazem parte dos planos** Essential, Complete e Cloud: cada um é **orçado à parte** pelo [MWX Custom](../planos.md#mwx-custom). Eles funcionam dentro do MWX Management, não como bots independentes.
 
 <br>
 

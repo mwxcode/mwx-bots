@@ -43,7 +43,7 @@ Projetos personalizados, com funcionalidades desenvolvidas sob medida e [módulo
 
 ## Licença
 
-Os planos dão direito ao uso dos sistemas no servidor do cliente e não incluem o código-fonte. A aquisição do código-fonte só acontece após negociação com o setor responsável da MWX ([contato](../README.md#contato)). Revenda, redistribuição e publicação não são permitidas. Veja a [licença](../LICENSE.md).
+Os planos dão direito ao uso dos sistemas no servidor do cliente e não incluem o código-fonte. Pagamento único e assinatura se referem ao direito de uso; o prazo e as demais condições são confirmados no atendimento comercial. A aquisição do código-fonte só acontece após negociação com o setor responsável da MWX ([contato](../README.md#contato)). Revenda, redistribuição e publicação não são permitidas. Veja a [licença](../LICENSE.md).
 
 <br>
 

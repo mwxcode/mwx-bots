@@ -72,7 +72,7 @@ O MWX Bate-Ponto controla o expediente de polícia, hospital, mecânica, facçã
 ## Requisitos técnicos
 
 - Node.js 20 ou mais novo
-- PostgreSQL 14 ou mais novo (pode ser o mesmo banco do MWX Encomendas)
+- PostgreSQL (pode ser o mesmo banco do MWX Encomendas)
 - Sem intents privilegiados
 
 ## Integrações
