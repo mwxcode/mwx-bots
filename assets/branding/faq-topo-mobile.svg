@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220" role="img" aria-label="Central de ajuda. Tudo o que você precisa saber antes de contratar nossos sistemas." font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>Central de ajuda. Tudo o que você precisa saber antes de contratar nossos sistemas.</title>
+<defs>
+<linearGradient id="bgfqm" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
+</linearGradient>
+<radialGradient id="glowfqm" cx="0.9" cy="-0.2" r=".6">
+  <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="edgefqm" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clipfqm"><rect width="720" height="220" rx="20"/></clipPath></defs>
+<g clip-path="url(#clipfqm)"><rect width="720" height="220" fill="url(#bgfqm)"/><rect width="720" height="220" fill="url(#glowfqm)"/></g><rect x=".5" y=".5" width="719" height="219" rx="18" fill="none" stroke="#1E3A5F"/><rect x="130" y="0" width="461" height="1.2" fill="url(#edgefqm)"/>
+<g transform="translate(36 36.79) scale(0.3279)"><g fill="#F2F5F8">
+<path d="M 71,55 L 48,56 L 6,100 L 27,100 Z"/><path d="M 5,5 L 48,49 L 72,50 L 27,5 Z"/>
+</g>
+<g fill="#1E6BFF">
+<path d="M 65,70 L 93,100 L 117,100 L 77,59 Z"/><path d="M 116,5 L 93,5 L 65,34 L 77,45 Z"/>
+</g></g>
+<text x="92" y="64" fill="#38BDF8" font-size="19" font-weight="800" letter-spacing="3">CENTRAL DE AJUDA</text>
+<text x="36" y="136.0" fill="#F1F5F9" font-size="30" font-weight="600" text-anchor="start">Tudo o que você precisa saber antes</text><text x="36" y="176.0" fill="#F1F5F9" font-size="30" font-weight="600" text-anchor="start">de contratar nossos sistemas.</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="470" viewBox="0 0 400 470" role="img" aria-label="MWX OPERATION, assinatura mensal por servidor com Management, Farm, Bate-Ponto. Hospedagem, suporte e atualizações inclusos. R$ 59,90 por mês, economia de R$ 29,80 por mês." font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>MWX OPERATION, assinatura mensal por servidor com Management, Farm, Bate-Ponto. Hospedagem, suporte e atualizações inclusos. R$ 59,90 por mês, economia de R$ 29,80 por mês.</title>
+<defs>
+<linearGradient id="bgpsoperation" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
+</linearGradient>
+<radialGradient id="glowpsoperation" cx="0.5" cy="-0.1" r=".6">
+  <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="edgepsoperation" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clippsoperation"><rect width="400" height="470" rx="20"/></clipPath></defs>
+<g clip-path="url(#clippsoperation)"><rect width="400" height="470" fill="url(#bgpsoperation)"/><rect width="400" height="470" fill="url(#glowpsoperation)"/></g><rect x=".5" y=".5" width="399" height="469" rx="18" fill="none" stroke="#1E3A5F"/><rect x="72" y="0" width="256" height="1.2" fill="url(#edgepsoperation)"/>
+<g transform="translate(26 24.37) scale(0.2787)"><g fill="#F2F5F8">
+<path d="M 71,55 L 48,56 L 6,100 L 27,100 Z"/><path d="M 5,5 L 48,49 L 72,50 L 27,5 Z"/>
+</g>
+<g fill="#1E6BFF">
+<path d="M 65,70 L 93,100 L 117,100 L 77,59 Z"/><path d="M 116,5 L 93,5 L 65,34 L 77,45 Z"/>
+</g></g>
+<text x="28" y="92" fill="#38BDF8" font-size="13" font-weight="700" letter-spacing="4">MWX</text>
+<text x="26" y="128" fill="#F1F5F9" font-size="34" font-weight="900" letter-spacing="1">OPERATION</text>
+<text x="28" y="156" fill="#B0C0D4" font-size="15">3 sistemas · Assinatura mensal por servidor</text>
+<g transform="translate(28 177) scale(0.6667)" fill="none" stroke="#38BDF8" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M20 6 9 17l-5-5"/></g>
+<text x="54" y="190" fill="#F1F5F9" font-size="14.5">Management</text>
+<g transform="translate(28 201) scale(0.6667)" fill="none" stroke="#38BDF8" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M20 6 9 17l-5-5"/></g>
+<text x="54" y="214" fill="#F1F5F9" font-size="14.5">Farm</text>
+<g transform="translate(28 225) scale(0.6667)" fill="none" stroke="#38BDF8" stroke-width="3.30" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M20 6 9 17l-5-5"/></g>
+<text x="54" y="238" fill="#F1F5F9" font-size="14.5">Bate-Ponto</text>
+<text x="28" y="358" fill="#B0C0D4" font-size="13.5">Hospedagem, suporte e atualizações inclusos</text>
+<rect x="28" y="376" width="344" height="1" fill="#1E3A5F"/>
+<text x="28" y="420" fill="#38BDF8" font-size="30" font-weight="800">R$ 59,90<tspan font-size="16" font-weight="600" fill="#B0C0D4">/mês</tspan></text>
+<text x="28" y="446" fill="#F1F5F9" font-size="13.5" font-weight="700">Economize R$ 29,80/mês</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" role="img" aria-label="ban" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>ban</title>
+<defs>
+<linearGradient id="edgeiban" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect x="2" y="2" width="52" height="52" rx="14" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="12" y="2" width="31" height="1.2" fill="url(#edgeiban)"/><g transform="translate(16.04 16.04) scale(0.9967)" fill="none" stroke="#38BDF8" stroke-width="1.81" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><circle cx="12" cy="12" r="10"/><path d="m4.9 4.9 14.2 14.2"/></g>
+</svg>

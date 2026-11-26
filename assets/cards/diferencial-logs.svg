@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="96" viewBox="0 0 400 96" role="img" aria-label="Tudo registrado: Logs de moderação, tickets e ponto" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>Tudo registrado: Logs de moderação, tickets e ponto</title>
+<defs>
+<linearGradient id="bgmcardsdiferenciallogs" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
+</linearGradient>
+<radialGradient id="glowmcardsdiferenciallogs" cx="1.0" cy="0.0" r=".6">
+  <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="edgemcardsdiferenciallogs" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clipmcardsdiferenciallogs"><rect width="400" height="96" rx="20"/></clipPath></defs>
+<g clip-path="url(#clipmcardsdiferenciallogs)"><rect width="400" height="96" fill="url(#bgmcardsdiferenciallogs)"/><rect width="400" height="96" fill="url(#glowmcardsdiferenciallogs)"/></g><rect x=".5" y=".5" width="399" height="95" rx="16" fill="none" stroke="#1E3A5F"/><rect x="72" y="0" width="256" height="1.2" fill="url(#edgemcardsdiferenciallogs)"/>
+<rect x="20" y="20" width="52" height="52" rx="14" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="30" y="20" width="31" height="1.2" fill="url(#edgemcardsdiferenciallogs)"/><g transform="translate(34.04 34.04) scale(0.9967)" fill="none" stroke="#38BDF8" stroke-width="1.81" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></g>
+<text x="88" y="44" fill="#F1F5F9" font-size="17" font-weight="700">Tudo registrado</text>
+<text x="88" y="68.0" fill="#94A3B8" font-size="14" font-weight="400" text-anchor="start">Logs de moderação, tickets e ponto</text>
+</svg>

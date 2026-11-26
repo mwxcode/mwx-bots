@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="424" height="260" viewBox="0 0 424 260" role="img" aria-label="MWX Management: Moderação, registro, ausências e estrutura do servidor." font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>MWX Management: Moderação, registro, ausências e estrutura do servidor.</title>
+<defs>
+<linearGradient id="bggmanagement" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071226"/><stop offset=".6" stop-color="#06101F"/><stop offset="1" stop-color="#0A1B38"/></linearGradient>
+<radialGradient id="glgmanagement" cx=".92" cy="0" r=".75"><stop offset="0" stop-color="#2563EB" stop-opacity=".35"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+<radialGradient id="gbgmanagement" cx=".05" cy="1" r=".6"><stop offset="0" stop-color="#3B82F6" stop-opacity=".22"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+<linearGradient id="bdgmanagement" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset=".5" stop-color="#2563EB"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+<linearGradient id="swgmanagement" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7CC4FF" stop-opacity="0"/><stop offset=".5" stop-color="#7CC4FF" stop-opacity=".10"/><stop offset="1" stop-color="#7CC4FF" stop-opacity="0"/></linearGradient>
+<linearGradient id="higmanagement" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#BFE6FF" stop-opacity="0"/><stop offset=".5" stop-color="#E0F4FF" stop-opacity="1"/><stop offset="1" stop-color="#BFE6FF" stop-opacity="0"/></linearGradient>
+<linearGradient id="dvgmanagement" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B82F6" stop-opacity=".7"/><stop offset="1" stop-color="#3B82F6" stop-opacity=".15"/></linearGradient>
+<filter id="blgmanagement" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="4"/></filter>
+<clipPath id="clgmanagement"><rect x="12" y="12" width="400" height="236" rx="20"/></clipPath></defs>
+<rect x="12" y="12" width="400" height="236" rx="20" fill="none" stroke="#3B82F6" stroke-width="3" opacity=".45" filter="url(#blgmanagement)"/>
+<g clip-path="url(#clgmanagement)"><rect x="12" y="12" width="400" height="236" fill="url(#bggmanagement)"/><rect x="12" y="12" width="400" height="236" fill="url(#glgmanagement)"/><rect x="12" y="12" width="400" height="236" fill="url(#gbgmanagement)"/><path d="M232.00000000000003 248 C 312.0 141.8, 372.0 82.8, 432 22" fill="none" stroke="url(#swgmanagement)" stroke-width="26"/><path d="M2 158.32 C 60.0 200.8, 100.0 236.2, 132.0 258" fill="none" stroke="url(#swgmanagement)" stroke-width="18"/></g>
+<rect x="12.75" y="12.75" width="398.5" height="234.5" rx="19.5" fill="none" stroke="url(#bdgmanagement)" stroke-width="1.5"/>
+<rect x="132" y="12" width="160" height="1.2" fill="url(#higmanagement)"/>
+<rect x="40" y="36" width="56" height="56" rx="14" fill="#0B1E3D" stroke="#3B82F6" stroke-opacity=".75"/><rect x="52" y="36" width="32" height="1.2" fill="url(#higmanagement)" opacity=".8"/><g transform="translate(55 51) scale(1.0833)" fill="none" stroke="#38BDF8" stroke-width="1.85" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></g>
+<text x="112" y="58" fill="#38BDF8" font-size="12" font-weight="800" letter-spacing="5">MWX</text>
+<text x="111" y="88" fill="#FFFFFF" font-size="27" font-weight="800">Management</text>
+<text x="42" y="126.0" fill="#DCE6F2" font-size="15" font-weight="400" text-anchor="start">Moderação, registro, ausências e</text><text x="42" y="147.0" fill="#DCE6F2" font-size="15" font-weight="400" text-anchor="start">estrutura do servidor.</text>
+<rect x="42" y="170" width="121" height="27" rx="13.5" fill="#081730" stroke="#2A5BA8" stroke-opacity=".9"/><text x="103" y="188" text-anchor="middle" fill="#F1F5F9" font-size="12.5" font-weight="600">Advertências</text>
+<rect x="171" y="170" width="83" height="27" rx="13.5" fill="#081730" stroke="#2A5BA8" stroke-opacity=".9"/><text x="213" y="188" text-anchor="middle" fill="#F1F5F9" font-size="12.5" font-weight="600">Filtros</text>
+<rect x="262" y="170" width="91" height="27" rx="13.5" fill="#081730" stroke="#2A5BA8" stroke-opacity=".9"/><text x="308" y="188" text-anchor="middle" fill="#F1F5F9" font-size="12.5" font-weight="600">Registro</text>
+<rect x="42" y="210" width="340" height="1" fill="url(#dvgmanagement)"/>
+<text x="42" y="234" fill="#38BDF8" font-size="13.5" font-weight="700">Ver documentação  →</text>
+</svg>

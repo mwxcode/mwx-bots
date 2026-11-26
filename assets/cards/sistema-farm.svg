@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="424" height="260" viewBox="0 0 424 260" role="img" aria-label="MWX Farm: Registro com prova, análise da equipe, metas e TOP do mês." font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>MWX Farm: Registro com prova, análise da equipe, metas e TOP do mês.</title>
+<defs>
+<linearGradient id="bggfarm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071226"/><stop offset=".6" stop-color="#06101F"/><stop offset="1" stop-color="#0A1B38"/></linearGradient>
+<radialGradient id="glgfarm" cx=".92" cy="0" r=".75"><stop offset="0" stop-color="#2563EB" stop-opacity=".35"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+<radialGradient id="gbgfarm" cx=".05" cy="1" r=".6"><stop offset="0" stop-color="#3B82F6" stop-opacity=".22"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+<linearGradient id="bdgfarm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset=".5" stop-color="#2563EB"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+<linearGradient id="swgfarm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7CC4FF" stop-opacity="0"/><stop offset=".5" stop-color="#7CC4FF" stop-opacity=".10"/><stop offset="1" stop-color="#7CC4FF" stop-opacity="0"/></linearGradient>
+<linearGradient id="higfarm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#BFE6FF" stop-opacity="0"/><stop offset=".5" stop-color="#E0F4FF" stop-opacity="1"/><stop offset="1" stop-color="#BFE6FF" stop-opacity="0"/></linearGradient>
+<linearGradient id="dvgfarm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B82F6" stop-opacity=".7"/><stop offset="1" stop-color="#3B82F6" stop-opacity=".15"/></linearGradient>
+<filter id="blgfarm" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="4"/></filter>
+<clipPath id="clgfarm"><rect x="12" y="12" width="400" height="236" rx="20"/></clipPath></defs>
+<rect x="12" y="12" width="400" height="236" rx="20" fill="none" stroke="#3B82F6" stroke-width="3" opacity=".45" filter="url(#blgfarm)"/>
+<g clip-path="url(#clgfarm)"><rect x="12" y="12" width="400" height="236" fill="url(#bggfarm)"/><rect x="12" y="12" width="400" height="236" fill="url(#glgfarm)"/><rect x="12" y="12" width="400" height="236" fill="url(#gbgfarm)"/><path d="M232.00000000000003 248 C 312.0 141.8, 372.0 82.8, 432 22" fill="none" stroke="url(#swgfarm)" stroke-width="26"/><path d="M2 158.32 C 60.0 200.8, 100.0 236.2, 132.0 258" fill="none" stroke="url(#swgfarm)" stroke-width="18"/></g>
+<rect x="12.75" y="12.75" width="398.5" height="234.5" rx="19.5" fill="none" stroke="url(#bdgfarm)" stroke-width="1.5"/>
+<rect x="132" y="12" width="160" height="1.2" fill="url(#higfarm)"/>
+<rect x="40" y="36" width="56" height="56" rx="14" fill="#0B1E3D" stroke="#3B82F6" stroke-opacity=".75"/><rect x="52" y="36" width="32" height="1.2" fill="url(#higfarm)" opacity=".8"/><g transform="translate(55 51) scale(1.0833)" fill="none" stroke="#38BDF8" stroke-width="1.85" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M7 20h10"/><path d="M10 20c5.5-2.5.8-6.4 3-10"/><path d="M9.5 9.4c1.1.8 1.8 2.2 2.3 3.7-2 .4-3.5.4-4.8-.3-1.2-.6-2.3-1.9-3-4.2 2.8-.5 4.4 0 5.5.8z"/><path d="M14.1 6a7 7 0 0 0-1.1 4c1.9-.1 3.3-.6 4.3-1.4 1-1 1.6-2.3 1.7-4.6-2.7.1-4 1-4.9 2z"/></g>
+<text x="112" y="58" fill="#38BDF8" font-size="12" font-weight="800" letter-spacing="5">MWX</text>
+<text x="111" y="88" fill="#FFFFFF" font-size="27" font-weight="800">Farm</text>
+<text x="42" y="126.0" fill="#DCE6F2" font-size="15" font-weight="400" text-anchor="start">Registro com prova, análise da</text><text x="42" y="147.0" fill="#DCE6F2" font-size="15" font-weight="400" text-anchor="start">equipe, metas e TOP do mês.</text>
+<rect x="42" y="170" width="68" height="27" rx="13.5" fill="#081730" stroke="#2A5BA8" stroke-opacity=".9"/><text x="76" y="188" text-anchor="middle" fill="#F1F5F9" font-size="12.5" font-weight="600">Prova</text>
+<rect x="118" y="170" width="68" height="27" rx="13.5" fill="#081730" stroke="#2A5BA8" stroke-opacity=".9"/><text x="152" y="188" text-anchor="middle" fill="#F1F5F9" font-size="12.5" font-weight="600">Metas</text>
+<rect x="194" y="170" width="106" height="27" rx="13.5" fill="#081730" stroke="#2A5BA8" stroke-opacity=".9"/><text x="247" y="188" text-anchor="middle" fill="#F1F5F9" font-size="12.5" font-weight="600">TOP do mês</text>
+<rect x="42" y="210" width="340" height="1" fill="url(#dvgfarm)"/>
+<text x="42" y="234" fill="#38BDF8" font-size="13.5" font-weight="700">Ver documentação  →</text>
+</svg>

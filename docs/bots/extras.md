@@ -1,12 +1,69 @@
-# ➕ Módulos extras
+<picture>
+  <source media="(max-width: 1103px)" srcset="../../assets/banners/doc-extras-mobile.svg">
+  <img src="../../assets/banners/doc-extras.svg" alt="Módulos adicionais MWX, disponíveis sob orçamento" width="100%">
+</picture>
 
-Funções que já rodam em servidores de clientes e podem ser adicionadas ao Management sob encomenda.
+<p align="center"><a href="../../README.md#nossos-sistemas">Catálogo</a> · <a href="../../docs/comandos.md">Comandos</a> · <a href="../../docs/planos.md">Planos</a> · <a href="../../README.md#contato">Contato</a></p>
 
-| Módulo | O que faz |
-|---|---|
-| **Controle de Efetivo** | Registra quem entrou, quem recrutou, quem saiu e por quê (saída, expulsão, banimento), com pendências para a liderança conferir. Comandos `/efetivo`, `/membro`, `/historico`, `/saidas`, `/pendencias`. |
-| **Confirmação de presença** | Envia por DM a cada membro uma confirmação ("Vou continuar" / "Não vou continuar") com formulário. A liderança vê o resumo: confirmados, desistentes e sem resposta. |
-| **DM em massa** | Mensagens para um cargo inteiro, com prévia do embed e relatório de quem está com DM fechada. |
-| **Promover / Rebaixar** | Troca de cargo com aviso por DM e log. |
-| **Desligamento** | Remove cargos, registra o motivo e avisa o membro. |
-| **Blacklist** | Lista de pessoas barradas por ID do jogo, consultada no recrutamento. |
+## Apresentação
+
+Funções já em uso no MWX Management que podem ser somadas ao [MWX Management](management.md). Os módulos **não fazem parte dos planos de assinatura nem dos sistemas individuais**: cada um é **orçado à parte** pelo MWX Custom ([outras modalidades](../planos.md#outras-modalidades)). Eles funcionam dentro do MWX Management, não como bots independentes.
+
+<br>
+
+<picture><img src="../../assets/branding/secao-funcionalidades.svg" alt="" width="100%"></picture>
+
+## Módulos
+
+### <picture><img src="../../assets/icons/users.svg" alt="" width="32" align="center"></picture> Controle de Efetivo
+
+Registra quem entrou, quem recrutou, quem saiu e por quê (saída, expulsão ou banimento), com pendências para a liderança conferir.
+
+Comandos: `/efetivo` `/membro` `/saidas` `/pendencias` `/registrar-saida` `/registrar-retorno`
+
+### <picture><img src="../../assets/icons/calcheck.svg" alt="" width="32" align="center"></picture> Confirmação de Presença
+
+Envia por DM a cada membro uma confirmação (Vou continuar ou Não vou continuar) com formulário. A liderança vê o resumo de confirmados, desistentes e sem resposta.
+
+Comandos: `/presenca enviar` `/presenca resumo`
+
+### <picture><img src="../../assets/icons/send.svg" alt="" width="32" align="center"></picture> DM Personalizada
+
+Mensagem em embed para um membro, com cor e imagem, prévia antes do envio e aviso quando a DM está fechada.
+
+Comandos: `/dm enviar`
+
+### <picture><img src="../../assets/icons/updown.svg" alt="" width="32" align="center"></picture> Promoção e Rebaixamento
+
+Troca de cargo com aviso por DM e registro em log.
+
+Comandos: `/promover` `/rebaixar`
+
+### <picture><img src="../../assets/icons/userminus.svg" alt="" width="32" align="center"></picture> Desligamento de Membros
+
+Envia DM de agradecimento com o motivo, remove os cargos da organização e devolve o cargo de cidadão.
+
+Comandos: `/desligamento`
+
+### <picture><img src="../../assets/icons/ban.svg" alt="" width="32" align="center"></picture> Blacklist
+
+Lista de pessoas barradas por ID do jogo, consultada no recrutamento e no registro.
+
+Comandos: `/blacklist adicionar\|remover\|ver\|lista`
+
+## Benefícios
+
+- O Management cresce junto com a organização, sem trocar de sistema
+- Cada módulo resolve uma rotina que hoje é feita à mão pela liderança
+
+## Requisitos técnicos
+
+- Requer o [MWX Management](management.md) instalado
+
+<br>
+
+<picture><img src="../../assets/branding/divisor.svg" alt="" width="100%"></picture>
+
+<p align="center"><a href="../../README.md#nossos-sistemas"><b>← Voltar ao catálogo</b></a> · <a href="../../docs/planos.md">Conhecer os planos</a> · <a href="../../README.md#contato">Falar com a MWX</a></p>
+
+<p align="center"><sub>© 2026 MWX Systems · Sua organização. Nossa tecnologia.</sub></p>

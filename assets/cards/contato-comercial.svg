@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="172" viewBox="0 0 260 172" role="img" aria-label="Comercial: Bots, planos, assinaturas e orçamentos" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>Comercial: Bots, planos, assinaturas e orçamentos</title>
+<defs>
+<linearGradient id="bgvccardscontatocomercial" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
+</linearGradient>
+<radialGradient id="glowvccardscontatocomercial" cx="0.5" cy="-0.1" r=".6">
+  <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="edgevccardscontatocomercial" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clipvccardscontatocomercial"><rect width="260" height="172" rx="20"/></clipPath></defs>
+<g clip-path="url(#clipvccardscontatocomercial)"><rect width="260" height="172" fill="url(#bgvccardscontatocomercial)"/><rect width="260" height="172" fill="url(#glowvccardscontatocomercial)"/></g><rect x=".5" y=".5" width="259" height="171" rx="16" fill="none" stroke="#1E3A5F"/><rect x="47" y="0" width="166" height="1.2" fill="url(#edgevccardscontatocomercial)"/>
+<rect x="104.0" y="22" width="52" height="52" rx="14" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="114" y="22" width="31" height="1.2" fill="url(#edgevccardscontatocomercial)"/><g transform="translate(118.04 36.04) scale(0.9967)" fill="none" stroke="#38BDF8" stroke-width="1.81" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></g>
+<text x="130.0" y="106" text-anchor="middle" fill="#F1F5F9" font-size="17" font-weight="700">Comercial</text>
+<text x="130.0" y="132.0" fill="#94A3B8" font-size="13.5" font-weight="400" text-anchor="middle">Bots, planos, assinaturas</text><text x="130.0" y="152.0" fill="#94A3B8" font-size="13.5" font-weight="400" text-anchor="middle">e orçamentos</text>
+</svg>
