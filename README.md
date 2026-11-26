@@ -9,6 +9,9 @@
 
 A **MWX Systems** desenvolve sistemas para organizações de GTA Roleplay no Discord. Atendimento, recrutamento, expediente, farm, encomendas, denúncias e moderação organizados no próprio servidor, com registro de cada ação, em português e com a identidade da sua organização.
 
+<a href="#nossos-sistemas"><img src="assets/branding/cta-sistemas.svg" alt="Conhecer os sistemas" height="44"></a>
+<a href="https://discord.gg/xbDNJy6mtC"><img src="assets/branding/cta-contratar.svg" alt="Solicitar contratação no Discord da MWX" height="44"></a>
+
 <br>
 
 <picture>
@@ -113,7 +116,7 @@ Atendimento · Recrutamento · Bate-Ponto · Farm · Encomendas · Management ·
 
 ### Planos de assinatura
 
-Soluções integradas para sua organização. Valores mensais por servidor, com hospedagem, suporte e atualizações inclusos. [Detalhes dos planos](docs/planos.md) · [Contratar](#contato)
+Soluções integradas para sua organização. Valores mensais por servidor, com hospedagem, suporte e atualizações inclusos. [Detalhes dos planos](docs/planos.md) · [Solicitar contratação](#solicitar-contratação)
 
 <p align="center">
 <a href="docs/planos.md"><img src="assets/plans/plano-essential.svg" alt="MWX ESSENTIAL, assinatura mensal por servidor com Management e Atendimento / Ticket. Hospedagem, suporte e atualizações inclusos. R$ 49,90 por mês, economia de R$ 9,90 por mês." width="400"></a>
@@ -122,20 +125,14 @@ Soluções integradas para sua organização. Valores mensais por servidor, com 
 <a href="docs/planos.md"><img src="assets/plans/plano-complete.svg" alt="MWX COMPLETE, assinatura mensal por servidor com Management, Atendimento / Ticket, Encomendas, Farm, Bate-Ponto e Denúncias. Hospedagem, suporte e atualizações inclusos. R$ 99,90 por mês, economia de R$ 49,50 por mês." width="400"></a>
 </p>
 
-<details>
-<summary><b>Ver os planos de assinatura em texto</b></summary>
-<br>
+| Plano | Indicado para | Sistemas | Valor mensal | Economia por mês |
+|---|---|---|---|---|
+| MWX Essential | Estruturar a gestão e o atendimento | Management · Atendimento / Ticket | R$&nbsp;49,90 | R$&nbsp;9,90 |
+| MWX Operation | Acompanhar expediente e farm | Management · Farm · Bate-Ponto | R$&nbsp;59,90 | R$&nbsp;29,80 |
+| MWX Professional | Integrar gestão, atendimento e operação | Management · Atendimento / Ticket · Farm · Bate-Ponto | R$&nbsp;79,90 | R$&nbsp;34,70 |
+| **MWX&nbsp;Complete** | Usar todo o ecossistema, com encomendas e denúncias | Os seis sistemas | **R$&nbsp;99,90** | R$&nbsp;49,50 |
 
-| Plano | Sistemas | Valor mensal | Economia |
-|---|---|---|---|
-| MWX Essential | Management · Atendimento / Ticket | R$ 49,90 | R$ 9,90/mês |
-| MWX Operation | Management · Farm · Bate-Ponto | R$ 59,90 | R$ 29,80/mês |
-| MWX Professional | Management · Atendimento / Ticket · Farm · Bate-Ponto | R$ 79,90 | R$ 34,70/mês |
-| **MWX Complete** | Os seis sistemas | **R$ 99,90** | R$ 49,50/mês |
-
-A economia é a diferença para a soma dos mesmos sistemas contratados individualmente.
-
-</details>
+A economia é a diferença para a soma dos mesmos sistemas contratados individualmente. [Qual plano escolher](docs/planos.md#qual-plano-escolher)
 
 ### Sistemas individuais
 
@@ -156,8 +153,26 @@ Assinatura mensal por servidor, para contratar só o sistema que precisa.
 <a href="#contato"><img src="assets/plans/plano-custom.svg" alt="MWX CUSTOM, projetos personalizados: funcionalidades sob medida, módulos adicionais e orçamento individual. Sob orçamento." width="400"></a>
 </p>
 
-- **Licença em pagamento único:** valor sob consulta. Concede direito de uso por tempo indeterminado, conforme as condições comerciais e contratuais da MWX Systems.
-- **MWX Custom:** projetos personalizados sob orçamento, com condições definidas individualmente.
+- **Licença em pagamento único:** valor sob consulta. Concede direito de uso por tempo indeterminado, conforme as condições comerciais e contratuais da MWX Systems. Hospedagem não inclusa.
+- **MWX Personalizado:** você escolhe quais sistemas existentes quer contratar, e o atendimento comercial define a composição e o valor final. Sem desconto automático nem valor pré-definido.
+- **MWX Custom:** desenvolvimento de funcionalidades, módulos ou projetos sob medida. Sob orçamento, conforme o escopo, com condições definidas individualmente.
+- **Aquisição do código-fonte:** negociação comercial separada, não inclusa em nenhuma das modalidades acima.
+
+### Solicitar contratação
+
+Todos os pedidos começam no atendimento comercial, no Discord da MWX. Informe o que deseja:
+
+| Quero | O que informar |
+|---|---|
+| Assinar um plano ou sistema individual | O plano ou os sistemas escolhidos |
+| Licença em pagamento único | Os sistemas que deseja licenciar |
+| MWX Personalizado | Os sistemas existentes que deseja combinar |
+| MWX Custom | A funcionalidade, o módulo ou o projeto que precisa |
+| Código-fonte | Os sistemas de interesse, para abrir a negociação separada |
+
+<p align="center"><a href="https://discord.gg/xbDNJy6mtC"><img src="assets/branding/cta-contratar.svg" alt="Solicitar contratação no Discord da MWX" height="44"></a></p>
+
+<p align="center"><sub><a href="docs/planos.md#como-funciona-a-contratação-personalizada">Como funciona a contratação personalizada</a> · <a href="docs/politicas-comerciais.md">Políticas comerciais</a></sub></p>
 
 > [!IMPORTANT]
 > **Código-fonte não incluso.** Nenhum plano inclui o código-fonte ou a propriedade intelectual dos sistemas, e o direito de uso não autoriza revenda ou redistribuição. Nas assinaturas, o uso vale enquanto a assinatura estiver ativa. Na licença em pagamento único, o direito de uso por tempo indeterminado não significa suporte, hospedagem ou atualizações vitalícios. O código-fonte só é adquirido mediante negociação comercial separada, inclusive em projetos Custom. [Falar com a MWX](#contato)
@@ -184,6 +199,8 @@ Assinatura mensal por servidor, para contratar só o sistema que precisa.
 **Sistemas:** [Management](docs/bots/management.md) · [Atendimento](docs/bots/atendimento.md) · [Bate-Ponto](docs/bots/ponto.md) · [Farm](docs/bots/farm.md) · [Encomendas](docs/bots/encomendas.md) · [Denúncias](docs/bots/denuncias.md) · [Módulos adicionais](docs/bots/extras.md)
 
 **Guias:** [Comandos](docs/comandos.md) · [Requisitos e instalação](docs/instalacao.md) · [Planos](docs/planos.md) · [Perguntas frequentes](docs/faq.md)
+
+**Transparência:** [Políticas comerciais](docs/politicas-comerciais.md) · [Privacidade e dados](docs/privacidade-e-dados.md)
 
 <br>
 
@@ -250,6 +267,12 @@ Não. A instalação e a configuração fazem parte dos planos, e os ajustes do 
 <a href="https://discord.gg/xbDNJy6mtC"><img src="assets/cards/contato-suporte.svg" alt="Suporte técnico: Instalação, configuração, dúvidas e assistência" width="260"></a>
 <a href="https://discord.gg/xbDNJy6mtC"><img src="assets/cards/contato-projetos.svg" alt="Projetos exclusivos: Sistemas desenvolvidos sob medida" width="260"></a>
 </p>
+
+Os três atendimentos começam no mesmo servidor da MWX no Discord. Ao chamar, informe o assunto:
+
+- **Comercial:** contratação, assinaturas, licenças, orçamentos e planos personalizados.
+- **Suporte técnico:** instalação, configuração, dúvidas e problemas técnicos de clientes.
+- **Projetos exclusivos:** desenvolvimento personalizado, novos sistemas e funcionalidades exclusivas.
 
 <div align="center">
 

@@ -7,6 +7,8 @@
 
 Valores mensais por servidor. Hospedagem, suporte e atualizações inclusos nas assinaturas.
 
+<p align="center"><a href="https://discord.gg/xbDNJy6mtC"><img src="../assets/branding/cta-contratar.svg" alt="Solicitar contratação no Discord da MWX" height="44"></a></p>
+
 ## Planos de assinatura
 
 <p align="center">
@@ -24,6 +26,13 @@ Valores mensais por servidor. Hospedagem, suporte e atualizações inclusos nas 
 | **MWX Complete** | Os seis sistemas | **R$ 99,90** | R$ 49,50/mês |
 
 A economia é a diferença para a soma dos mesmos sistemas contratados individualmente.
+
+### Qual plano escolher
+
+- **MWX Essential:** para organizações que precisam estruturar a administração do servidor (registro, moderação, advertências e ausências) e o atendimento por tickets, com recrutamento.
+- **MWX Operation:** para organizações que precisam acompanhar o expediente e o farm dos membros, com metas e ranking, além da administração do servidor.
+- **MWX Professional:** para organizações que precisam integrar administração, atendimento e acompanhamento de expediente e farm.
+- **MWX Complete:** para organizações que querem todo o ecossistema, incluindo vendas por encomenda e denúncias com protocolo.
 
 ## Sistemas individuais
 
@@ -44,8 +53,36 @@ Assinatura mensal por servidor.
 <img src="../assets/plans/plano-custom.svg" alt="MWX Custom: projetos personalizados sob orçamento" width="400">
 </p>
 
-- **Licença em pagamento único:** valor sob consulta. Direito de uso por tempo indeterminado, conforme as condições comerciais e contratuais da MWX Systems. Hospedagem não inclusa.
-- **MWX Custom:** projetos personalizados, com funcionalidades sob medida e [módulos adicionais](bots/extras.md). Orçamento individual e condições definidas em cada projeto.
+| Modalidade | O que é | Valor |
+|---|---|---|
+| **Licença em pagamento único** | Direito de uso dos sistemas contratados por tempo indeterminado, conforme as condições comerciais e contratuais da MWX Systems. Hospedagem não inclusa. | Sob consulta |
+| **MWX Personalizado** | Você escolhe quais sistemas existentes quer contratar, numa composição que não corresponde a um dos planos. O atendimento comercial define a composição e o valor final. | Sob consulta |
+| **MWX Custom** | Desenvolvimento de funcionalidades, [módulos adicionais](bots/extras.md) ou projetos sob medida. | Sob orçamento, conforme o escopo |
+| **Aquisição do código-fonte** | Negociação comercial separada. Não está inclusa em assinaturas, licenças em pagamento único, no MWX Personalizado nem no MWX Custom. | Negociação separada |
+
+### Como funciona a contratação personalizada
+
+1. Escolha os sistemas de que precisa (ou descreva o projeto, no caso do MWX Custom).
+2. Informe a sua necessidade ao atendimento comercial no [Discord da MWX](https://discord.gg/xbDNJy6mtC).
+3. Receba uma proposta personalizada, com composição, valor e condições.
+4. Aprove a contratação.
+5. Receba os sistemas conforme as condições acordadas.
+
+Não há desconto automático nem valor pré-definido para combinações personalizadas: tudo é definido na proposta.
+
+## Como solicitar
+
+Todos os pedidos começam no atendimento comercial, no [servidor da MWX no Discord](https://discord.gg/xbDNJy6mtC). Informe o que deseja:
+
+| Quero | O que informar |
+|---|---|
+| Assinar um plano ou sistema individual | O plano ou os sistemas escolhidos |
+| Licença em pagamento único | Os sistemas que deseja licenciar |
+| MWX Personalizado | Os sistemas existentes que deseja combinar |
+| MWX Custom | A funcionalidade, o módulo ou o projeto que precisa |
+| Código-fonte | Os sistemas de interesse, para abrir a negociação separada |
+
+As condições de contratação estão em [Políticas comerciais](politicas-comerciais.md).
 
 ## Licença
 

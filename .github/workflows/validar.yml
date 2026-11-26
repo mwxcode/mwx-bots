@@ -3,7 +3,7 @@ name: Validar vitrine
 on:
   pull_request:
   push:
-    branches: [main, redesign/mwx-bots-v2]
+    branches: [main, 'enhancement/**', 'redesign/**']
 
 permissions:
   contents: read

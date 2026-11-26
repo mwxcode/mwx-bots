@@ -1,0 +1,17 @@
+{
+  "_sobre": "Fonte única dos valores comerciais publicados na vitrine. Valores mensais por servidor, em reais. Ao mudar um valor aqui, atualize README.md, docs/planos.md e assets/plans/plano-<id>.svg; o validador (tools/validar.py) aponta qualquer divergência. Veja tools/MANUTENCAO.md.",
+  "sistemas": [
+    {"id": "management", "nome": "MWX Management", "rotulo": "Management", "valor": "34,90", "doc": "docs/bots/management.md"},
+    {"id": "atendimento", "nome": "MWX Atendimento / Ticket", "rotulo": "Atendimento / Ticket", "valor": "24,90", "doc": "docs/bots/atendimento.md"},
+    {"id": "encomendas", "nome": "MWX Encomendas", "rotulo": "Encomendas", "valor": "19,90", "doc": "docs/bots/encomendas.md"},
+    {"id": "farm", "nome": "MWX Farm", "rotulo": "Farm", "valor": "24,90", "doc": "docs/bots/farm.md"},
+    {"id": "ponto", "nome": "MWX Bate-Ponto", "rotulo": "Bate-Ponto", "valor": "29,90", "doc": "docs/bots/ponto.md"},
+    {"id": "denuncias", "nome": "MWX Denúncias", "rotulo": "Denúncias", "valor": "14,90", "doc": "docs/bots/denuncias.md"}
+  ],
+  "planos": [
+    {"id": "essential", "nome": "MWX Essential", "sistemas": ["management", "atendimento"], "valor": "49,90", "economia": "9,90"},
+    {"id": "operation", "nome": "MWX Operation", "sistemas": ["management", "farm", "ponto"], "valor": "59,90", "economia": "29,80"},
+    {"id": "professional", "nome": "MWX Professional", "sistemas": ["management", "atendimento", "farm", "ponto"], "valor": "79,90", "economia": "34,70"},
+    {"id": "complete", "nome": "MWX Complete", "sistemas": ["management", "atendimento", "encomendas", "farm", "ponto", "denuncias"], "valor": "99,90", "economia": "49,50"}
+  ]
+}

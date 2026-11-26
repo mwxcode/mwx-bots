@@ -8,6 +8,11 @@ Confere:
 - SVG: XML válido, raiz <svg>, viewBox, dimensões, IDs duplicados,
   referências url(#id) / href="#id" sem destino e dependências externas.
 - Arquivos vazios em assets/.
+- Dados comerciais (dados/comercial.json): economia de cada plano igual à soma
+  dos sistemas individuais menos o valor do plano, e os mesmos valores no README,
+  em docs/planos.md e nos cards de plano (SVG e texto alternativo).
+- Recursos em assets/ que nenhuma página usa, arquivos temporários e padrões
+  de credenciais (tokens do Discord e do GitHub, chaves, URLs de banco com senha).
 
 Uso:
   python3 tools/validar.py              validação local (sai com 1 se houver problema)
@@ -156,6 +161,108 @@ def validar_assets(erros):
     return total
 
 
+# ---------------------------------------------------------------- dados comerciais
+def ler_texto(f):
+    """Lê a página tratando espaço não separável (&nbsp;) como espaço comum."""
+    return open(f, encoding="utf-8").read().replace("&nbsp;", " ").replace("\u00a0", " ")
+
+
+def centavos(v):
+    return int(v.replace(",", ""))
+
+
+def reais(c):
+    return f"{c // 100},{c % 100:02d}"
+
+
+def validar_comercial(erros):
+    """Confere dados/comercial.json contra as páginas e os cards de plano."""
+    if not os.path.exists("dados/comercial.json"):
+        return
+    import json
+    dados = json.load(open("dados/comercial.json", encoding="utf-8"))
+    sistemas = {s["id"]: s for s in dados["sistemas"]}
+    permitidos = {s["valor"] for s in sistemas.values()}
+    for p in dados["planos"]:
+        permitidos |= {p["valor"], p["economia"]}
+        soma = sum(centavos(sistemas[i]["valor"]) for i in p["sistemas"])
+        economia = soma - centavos(p["valor"])
+        if economia <= 0:
+            erros.append(f"comercial: {p['nome']} não é mais barato que os sistemas individuais")
+        if economia != centavos(p["economia"]):
+            erros.append(f"comercial: economia do {p['nome']} deveria ser R$ {reais(economia)} (soma R$ {reais(soma)} − R$ {p['valor']}), está R$ {p['economia']}")
+        svg = f"assets/plans/plano-{p['id']}.svg"
+        if os.path.exists(svg):
+            texto = re.sub(r"<[^>]+>", " ", open(svg, encoding="utf-8").read())
+            texto = re.sub(r"\s+", " ", texto)
+            for trecho in (f"R$ {p['valor']}", f"Economize R$ {p['economia']}/mês"):
+                if trecho not in texto:
+                    erros.append(f"{svg}: falta '{trecho}' (dados/comercial.json)")
+            for i in p["sistemas"]:
+                if sistemas[i]["rotulo"] not in texto:
+                    erros.append(f"{svg}: falta o sistema '{sistemas[i]['rotulo']}'")
+    for md in ("README.md", "docs/planos.md"):
+        if not os.path.exists(md):
+            continue
+        texto = ler_texto(md)
+        linhas = texto.splitlines()
+        for p in dados["planos"]:
+            linha = next((l for l in linhas if re.match(rf"\|\s*(\*\*)?{re.escape(p['nome'])}(\*\*)?\s*\|", l)), None)
+            if linha is None:
+                erros.append(f"{md}: plano {p['nome']} fora da tabela")
+            elif f"R$ {p['valor']}" not in linha or f"R$ {p['economia']}" not in linha:
+                erros.append(f"{md}: valores do {p['nome']} diferentes de dados/comercial.json")
+            for alt in re.findall(rf'src="[^"]*plano-{p["id"]}\.svg"[^>]*alt="([^"]*)"|alt="([^"]*)"[^>]*src="[^"]*plano-{p["id"]}\.svg"', texto):
+                alt = "".join(alt)
+                if f"R$ {p['valor']}" not in alt:
+                    erros.append(f"{md}: texto alternativo do card {p['id']} sem R$ {p['valor']}")
+        for s_ in sistemas.values():
+            linha = next((l for l in linhas if l.startswith("|") and f"{s_['nome']}]" in l), None)
+            if linha is None:
+                erros.append(f"{md}: sistema {s_['nome']} fora da tabela de sistemas individuais")
+            elif f"R$ {s_['valor']}" not in linha:
+                erros.append(f"{md}: valor do {s_['nome']} diferente de dados/comercial.json")
+    for md in sorted(glob.glob("**/*.md", recursive=True)):
+        for v in re.findall(r"R\$ ?(\d+,\d{2})", ler_texto(md)):
+            if v not in permitidos:
+                erros.append(f"{md}: valor R$ {v} não cadastrado em dados/comercial.json")
+
+
+# ---------------------------------------------------------------- higiene do repositório
+FONTES_DA_MARCA = ("assets/branding/marca/",)  # vetores oficiais: origem das artes, não aparecem nas páginas
+TEMPORARIOS = re.compile(r"(~$|\.(tmp|temp|bak|orig|rej|swp|log)$|^\.DS_Store$|^Thumbs\.db$|^desktop\.ini$)", re.I)
+SEGREDOS = {
+    "token do Discord": r"\b[MN][A-Za-z\d_-]{23,25}\.[A-Za-z\d_-]{6}\.[A-Za-z\d_-]{27,38}\b",
+    "token do GitHub": r"\b(gh[pousr]_[A-Za-z\d]{36}|github_pat_[A-Za-z\d_]{40,})\b",
+    "chave AWS": r"\bAKIA[0-9A-Z]{16}\b",
+    "chave Google": r"\bAIza[\dA-Za-z_-]{35}\b",
+    "chave privada": r"-----BEGIN [A-Z ]*PRIVATE KEY-----",
+    "URL de banco com senha": r"\b(postgres(ql)?|mysql|mongodb(\+srv)?)://[^\s:/@]+:[^\s@/]+@(?!HOST\b)",
+    "webhook do Discord": r"discord(app)?\.com/api/webhooks/\d+/[\w-]{20,}",
+}
+TEXTO = (".md", ".json", ".svg", ".yml", ".yaml", ".py", ".txt", ".js", ".ts", ".env", "")
+
+
+def validar_higiene(erros):
+    corpo = ""
+    for md in glob.glob("**/*.md", recursive=True):
+        corpo += open(md, encoding="utf-8").read()
+    for f in sorted(glob.glob("assets/**/*", recursive=True)):
+        if os.path.isfile(f) and not f.startswith(FONTES_DA_MARCA) and os.path.basename(f) not in corpo:
+            erros.append(f"{f}: recurso não utilizado por nenhuma página")
+    for pasta, dirs, arquivos in os.walk("."):
+        dirs[:] = [d for d in dirs if d not in (".git", "node_modules", "__pycache__")]
+        for a in arquivos:
+            f = os.path.relpath(os.path.join(pasta, a))
+            if TEMPORARIOS.search(a):
+                erros.append(f"{f}: arquivo temporário")
+            if os.path.splitext(a)[1].lower() in TEXTO and os.path.getsize(f) < 2_000_000:
+                texto = open(f, encoding="utf-8", errors="ignore").read()
+                for nome, padrao in SEGREDOS.items():
+                    if re.search(padrao, texto):
+                        erros.append(f"{f}: possível credencial exposta ({nome})")
+
+
 def validar(raiz):
     anterior = os.getcwd()
     os.chdir(raiz)
@@ -163,6 +270,8 @@ def validar(raiz):
         erros = []
         paginas = validar_md(erros)
         recursos = validar_assets(erros)
+        validar_comercial(erros)
+        validar_higiene(erros)
         return erros, paginas, recursos
     finally:
         os.chdir(anterior)
@@ -187,6 +296,14 @@ def autoteste():
         escrever("assets/ids.svg", '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1 1"><g id="a"/><g id="a"/><rect fill="url(#nada)"/></svg>')
         escrever("assets/externo.svg", '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1 1"><image href="https://exemplo.com/x.png"/></svg>')
         escrever("assets/vazio.svg", "")
+        os.makedirs(os.path.join(tmp, "dados"))
+        escrever("dados/comercial.json", '{"sistemas": [{"id": "a", "nome": "MWX A", "rotulo": "A", "valor": "10,00"},'
+                 ' {"id": "b", "nome": "MWX B", "rotulo": "B", "valor": "20,00"}],'
+                 ' "planos": [{"id": "ab", "nome": "MWX AB", "sistemas": ["a", "b"], "valor": "25,00", "economia": "4,00"}]}')
+        escrever("precos.md", "| MWX AB | A · B | R$ 25,00 | R$ 4,00/mês |\n\nPromoção: R$ 19,99\n")
+        escrever("notas.md~", "rascunho")
+        escrever("config.md", "DISCORD_TOKEN=" + "M" + "A" * 23 + "." + "B" * 6 + "." + "C" * 27 + "\n")
+        escrever("assets/orfao.svg", '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"/>')
         erros, _, _ = validar(tmp)
         texto = "\n".join(erros)
         esperados = {
@@ -205,6 +322,11 @@ def autoteste():
             "url(#id) sem destino": "ids.svg: referências sem destino",
             "dependência externa": "externo.svg: dependência externa",
             "SVG vazio": "vazio.svg: arquivo vazio",
+            "economia que não fecha com a soma": "economia do MWX AB deveria ser R$ 5,00",
+            "preço fora dos dados comerciais": "valor R$ 19,99 não cadastrado",
+            "arquivo temporário": "notas.md~: arquivo temporário",
+            "credencial exposta": "config.md: possível credencial exposta (token do Discord)",
+            "recurso não utilizado": "orfao.svg: recurso não utilizado",
         }
         falhas = [n for n, trecho in esperados.items() if trecho not in texto]
         falsos = [e for e in erros if "ok.svg:" in e]
