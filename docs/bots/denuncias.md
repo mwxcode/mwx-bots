@@ -11,7 +11,7 @@ O MWX Denúncias organiza denúncias com prova, análise da staff e resposta ao 
 
 <br>
 
-<img src="../../assets/branding/secao-funcionalidades.svg" alt="" width="100%">
+<picture><img src="../../assets/branding/secao-funcionalidades.svg" alt="" width="100%"></picture>
 
 ## Funcionalidades
 
@@ -51,7 +51,7 @@ O MWX Denúncias organiza denúncias com prova, análise da staff e resposta ao 
 
 <br>
 
-<img src="../../assets/branding/secao-comandos.svg" alt="" width="100%">
+<picture><img src="../../assets/branding/secao-comandos.svg" alt="" width="100%"></picture>
 
 ## Comandos
 
@@ -59,7 +59,7 @@ O MWX Denúncias funciona pelos botões do painel (**Denunciar** e **Acompanhar*
 
 <br>
 
-<img src="../../assets/branding/secao-requisitos.svg" alt="" width="100%">
+<picture><img src="../../assets/branding/secao-requisitos.svg" alt="" width="100%"></picture>
 
 ## Requisitos técnicos
 
@@ -73,7 +73,7 @@ Funciona de forma independente.
 
 <br>
 
-<img src="../../assets/branding/divisor.svg" alt="" width="100%">
+<picture><img src="../../assets/branding/divisor.svg" alt="" width="100%"></picture>
 
 <p align="center"><a href="../../README.md#nossos-sistemas"><b>← Voltar ao catálogo</b></a> · <a href="../../docs/planos.md">Conhecer os planos</a> · <a href="../../README.md#contato">Falar com a MWX</a></p>
 

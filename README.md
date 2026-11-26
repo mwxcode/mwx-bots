@@ -17,8 +17,8 @@ A **MWX Systems** desenvolve sistemas para organizações de GTA Roleplay no Dis
 </picture>
 <br>
 <a href="#nossos-sistemas"><img src="assets/branding/nav-card-sistemas.svg" alt="Sistemas: conheça nossas soluções" width="264"></a>
-<a href="#demonstrações"><img src="assets/branding/nav-card-demonstracoes.svg" alt="Demonstrações: veja os sistemas" width="264"></a>
-<a href="#diferenciais"><img src="assets/branding/nav-card-diferenciais.svg" alt="Diferenciais: tecnologia MWX" width="264"></a>
+<a href="#demonstrações"><img src="assets/branding/nav-card-demonstracoes.svg" alt="Demonstrações: explore as interfaces" width="264"></a>
+<a href="#diferenciais"><img src="assets/branding/nav-card-diferenciais.svg" alt="Diferenciais: conheça nossas vantagens" width="264"></a>
 <a href="#planos"><img src="assets/branding/nav-card-planos.svg" alt="Planos: modalidades de contratação" width="264"></a>
 <a href="#documentação"><img src="assets/branding/nav-card-documentacao.svg" alt="Documentação: guias e informações" width="264"></a>
 <a href="#contato"><img src="assets/branding/nav-card-contato.svg" alt="Contato: fale com nossa equipe" width="264"></a>
@@ -32,7 +32,7 @@ A **MWX Systems** desenvolve sistemas para organizações de GTA Roleplay no Dis
 
 <br>
 
-<img src="assets/branding/secao-sistemas.svg" alt="" width="100%">
+<picture><img src="assets/branding/secao-sistemas.svg" alt="" width="100%"></picture>
 
 ## Nossos sistemas
 
@@ -49,7 +49,7 @@ Seis sistemas independentes que trabalham juntos. Clique em um card para ver fun
 
 <br>
 
-<img src="assets/branding/secao-modulos.svg" alt="" width="100%">
+<picture><img src="assets/branding/secao-modulos.svg" alt="" width="100%"></picture>
 
 ## Módulos adicionais
 
@@ -66,7 +66,7 @@ Funções extras que se somam ao MWX Management. **Não fazem parte dos planos**
 
 <br>
 
-<img src="assets/branding/secao-demonstracoes.svg" alt="" width="100%">
+<picture><img src="assets/branding/secao-demonstracoes.svg" alt="" width="100%"></picture>
 
 ## Demonstrações
 
@@ -92,7 +92,7 @@ Atendimento · Recrutamento · Bate-Ponto · Farm · Encomendas · Management ·
 
 <br>
 
-<img src="assets/branding/secao-diferenciais.svg" alt="" width="100%">
+<picture><img src="assets/branding/secao-diferenciais.svg" alt="" width="100%"></picture>
 
 ## Diferenciais
 
@@ -107,7 +107,7 @@ Atendimento · Recrutamento · Bate-Ponto · Farm · Encomendas · Management ·
 
 <br>
 
-<img src="assets/branding/secao-planos.svg" alt="" width="100%">
+<picture><img src="assets/branding/secao-planos.svg" alt="" width="100%"></picture>
 
 ## Planos
 
@@ -164,7 +164,7 @@ Assinatura mensal por servidor, para contratar só o sistema que precisa.
 
 <br>
 
-<img src="assets/branding/secao-processo.svg" alt="" width="100%">
+<picture><img src="assets/branding/secao-processo.svg" alt="" width="100%"></picture>
 
 ## Como contratar
 
@@ -177,7 +177,7 @@ Assinatura mensal por servidor, para contratar só o sistema que precisa.
 
 <br>
 
-<img src="assets/branding/secao-documentacao.svg" alt="" width="100%">
+<picture><img src="assets/branding/secao-documentacao.svg" alt="" width="100%"></picture>
 
 ## Documentação
 
@@ -236,7 +236,7 @@ Não. A instalação e a configuração fazem parte dos planos, e os ajustes do 
 
 <br>
 
-<img src="assets/branding/secao-contato.svg" alt="" width="100%">
+<picture><img src="assets/branding/secao-contato.svg" alt="" width="100%"></picture>
 
 ## Contato
 
