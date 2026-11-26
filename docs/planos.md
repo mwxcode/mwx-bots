@@ -1,48 +1,55 @@
-<img src="../assets/banners/doc-planos.svg" alt="Planos MWX: Essential, Complete, Cloud e Custom" width="100%">
+<picture>
+  <source media="(max-width: 1103px)" srcset="../assets/banners/doc-planos-mobile.svg">
+  <img src="../assets/banners/doc-planos.svg" alt="Planos MWX: assinaturas, sistemas individuais e projetos sob medida" width="100%">
+</picture>
 
 <p align="center"><a href="../README.md#nossos-sistemas">Catálogo</a> · <a href="../docs/comandos.md">Comandos</a> · <a href="../docs/planos.md">Planos</a> · <a href="../README.md#contato">Contato</a></p>
 
-Valores **sob consulta**. Fale com a MWX para receber uma proposta.
+Valores mensais por servidor. Hospedagem, suporte e atualizações inclusos nas assinaturas.
+
+## Planos de assinatura
 
 <p align="center">
-<img src="../assets/plans/plano-essential.svg" alt="MWX Essential: um sistema, pagamento único" width="400">
-<img src="../assets/plans/plano-complete.svg" alt="MWX Complete: os seis sistemas, pagamento único" width="400">
-<img src="../assets/plans/plano-cloud.svg" alt="MWX Cloud: sistemas à escolha, assinatura mensal" width="400">
+<img src="../assets/plans/plano-essential.svg" alt="MWX Essential: Management e Atendimento / Ticket. R$ 49,90 por mês, economia de R$ 9,90 por mês." width="400">
+<img src="../assets/plans/plano-operation.svg" alt="MWX Operation: Management, Farm e Bate-Ponto. R$ 59,90 por mês, economia de R$ 29,80 por mês." width="400">
+<img src="../assets/plans/plano-professional.svg" alt="MWX Professional: Management, Atendimento / Ticket, Farm e Bate-Ponto. R$ 79,90 por mês, economia de R$ 34,70 por mês." width="400">
+<img src="../assets/plans/plano-complete.svg" alt="MWX Complete: Management, Atendimento / Ticket, Encomendas, Farm, Bate-Ponto e Denúncias. R$ 99,90 por mês, economia de R$ 49,50 por mês." width="400">
+</p>
+
+| Plano | Sistemas | Valor mensal | Economia |
+|---|---|---|---|
+| MWX Essential | Management · Atendimento / Ticket | R$ 49,90 | R$ 9,90/mês |
+| MWX Operation | Management · Farm · Bate-Ponto | R$ 59,90 | R$ 29,80/mês |
+| MWX Professional | Management · Atendimento / Ticket · Farm · Bate-Ponto | R$ 79,90 | R$ 34,70/mês |
+| **MWX Complete** | Os seis sistemas | **R$ 99,90** | R$ 49,50/mês |
+
+A economia é a diferença para a soma dos mesmos sistemas contratados individualmente.
+
+## Sistemas individuais
+
+Assinatura mensal por servidor.
+
+| Sistema | Valor mensal |
+|---|---|
+| [MWX Management](bots/management.md) | R$ 34,90 |
+| [MWX Atendimento / Ticket](bots/atendimento.md) | R$ 24,90 |
+| [MWX Encomendas](bots/encomendas.md) | R$ 19,90 |
+| [MWX Farm](bots/farm.md) | R$ 24,90 |
+| [MWX Bate-Ponto](bots/ponto.md) | R$ 29,90 |
+| [MWX Denúncias](bots/denuncias.md) | R$ 14,90 |
+
+## Outras modalidades
+
+<p align="center">
 <img src="../assets/plans/plano-custom.svg" alt="MWX Custom: projetos personalizados sob orçamento" width="400">
 </p>
 
-## Comparativo
-
-| | Essential | Complete | Cloud | Custom |
-|---|---|---|---|---|
-| Sistemas | Um à escolha | Os seis | À escolha | Projeto sob medida |
-| Modelo | Pagamento único | Pagamento único | Assinatura mensal | Orçamento individual |
-| Instalação e configuração | Sim | Sim | Sim | Sob orçamento |
-| Personalização visual | Sim | Sim | Sim | Sob orçamento |
-| Suporte e atualizações | 30 dias | 90 dias | Enquanto ativa | Sob orçamento |
-| Hospedagem | Não inclusa | Não inclusa | Inclusa (24/7) | Sob orçamento |
-| Código-fonte | Não incluso | Não incluso | Não incluso | Negociação comercial separada |
-| Valor | Sob consulta | Sob consulta | Sob consulta | Sob orçamento |
-
-## MWX Essential
-
-Para quem precisa de um sistema. Um sistema à escolha, instalado e configurado, com personalização visual, 30 dias de suporte e de atualizações. Hospedagem e código-fonte não inclusos.
-
-## MWX Complete
-
-O ecossistema completo: os seis sistemas instalados e configurados, com personalização visual, 90 dias de suporte e de atualizações. Hospedagem e código-fonte não inclusos.
-
-## MWX Cloud
-
-Assinatura mensal com os sistemas à escolha, instalação, configuração, personalização visual e hospedagem 24/7. Suporte e atualizações enquanto a assinatura estiver ativa. Código-fonte não incluso.
-
-## MWX Custom
-
-Projetos personalizados, com funcionalidades desenvolvidas sob medida e [módulos adicionais](bots/extras.md). Orçamento individual.
+- **Licença em pagamento único:** valor sob consulta. Direito de uso por tempo indeterminado, conforme as condições comerciais e contratuais da MWX Systems. Hospedagem não inclusa.
+- **MWX Custom:** projetos personalizados, com funcionalidades sob medida e [módulos adicionais](bots/extras.md). Orçamento individual e condições definidas em cada projeto.
 
 ## Licença
 
-Os planos dão direito ao uso dos sistemas no servidor do cliente e não incluem o código-fonte. Pagamento único e assinatura se referem ao direito de uso; o prazo e as demais condições são confirmados no atendimento comercial. A aquisição do código-fonte só acontece após negociação com o setor responsável da MWX ([contato](../README.md#contato)). Revenda, redistribuição e publicação não são permitidas. Veja a [licença](../LICENSE.md).
+Nas assinaturas, o direito de uso vale enquanto a assinatura estiver ativa. Na licença em pagamento único, o direito de uso é por tempo indeterminado e não significa suporte, hospedagem ou atualizações vitalícios. Em nenhum caso há aquisição da propriedade intelectual, o código-fonte não está incluso e revenda ou redistribuição não são permitidas. A aquisição do código-fonte só acontece mediante negociação comercial separada com a MWX Systems, inclusive em projetos Custom ([contato](../README.md#contato)). Veja a [licença](../LICENSE.md).
 
 <br>
 

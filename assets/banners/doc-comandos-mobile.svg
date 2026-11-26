@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="330" viewBox="0 0 720 330" role="img" aria-label="Comandos — Todos os comandos dos sistemas MWX" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>Comandos — Todos os comandos dos sistemas MWX</title>
+<defs>
+<linearGradient id="bgdmcomandos" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
+</linearGradient>
+<radialGradient id="glowdmcomandos" cx="0.9" cy="0.1" r=".6">
+  <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="edgedmcomandos" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clipdmcomandos"><rect width="720" height="330" rx="20"/></clipPath></defs>
+<g clip-path="url(#clipdmcomandos)"><rect width="720" height="330" fill="url(#bgdmcomandos)"/><rect width="720" height="330" fill="url(#glowdmcomandos)"/></g><rect x=".5" y=".5" width="719" height="329" rx="20" fill="none" stroke="#1E3A5F"/><rect x="130" y="0" width="461" height="1.2" fill="url(#edgedmcomandos)"/>
+<rect x="40" y="40" width="72" height="72" rx="19" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="54" y="40" width="43" height="1.2" fill="url(#edgedmcomandos)"/><g transform="translate(59.44 59.44) scale(1.3800)" fill="none" stroke="#38BDF8" stroke-width="1.30" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><polyline points="4 17 10 11 4 5"/><line x1="12" x2="20" y1="19" y2="19"/></g>
+<g transform="translate(628 55.34) scale(0.3934)"><g fill="#F2F5F8">
+<path d="M 71,55 L 48,56 L 6,100 L 27,100 Z"/><path d="M 5,5 L 48,49 L 72,50 L 27,5 Z"/>
+</g>
+<g fill="#1E6BFF">
+<path d="M 65,70 L 93,100 L 117,100 L 77,59 Z"/><path d="M 116,5 L 93,5 L 65,34 L 77,45 Z"/>
+</g></g>
+<text x="40" y="164" fill="#38BDF8" font-size="22" font-weight="700" letter-spacing="3">REFERÊNCIA</text>
+<text x="38" y="218" fill="#F1F5F9" font-size="50" font-weight="800" letter-spacing="-1">Comandos</text>
+<text x="40" y="264.0" fill="#B0C0D4" font-size="29" font-weight="400" text-anchor="start">Todos os comandos dos sistemas MWX</text>
+</svg>

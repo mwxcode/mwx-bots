@@ -1,15 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="264" height="96" viewBox="0 0 264 96" role="img" aria-label="Planos: Modalidades de contratação" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
-<title>Planos: Modalidades de contratação</title>
-<defs>
-<linearGradient id="bgncpla" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
-</linearGradient>
-<radialGradient id="glowncpla" cx="0.5" cy="-0.6" r=".6">
-  <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
-</radialGradient>
-<linearGradient id="edgencpla" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
-</linearGradient>
-<clipPath id="clipncpla"><rect width="264" height="96" rx="20"/></clipPath></defs>
-<g clip-path="url(#clipncpla)"><rect width="264" height="96" fill="url(#bgncpla)"/><rect width="264" height="96" fill="url(#glowncpla)"/></g><rect x=".5" y=".5" width="263" height="95" rx="10" fill="none" stroke="#1E3A5F"/><rect x="48" y="0" width="169" height="1.2" fill="url(#edgencpla)"/><g transform="translate(121.0 16) scale(0.9167)" fill="none" stroke="#38BDF8" stroke-width="1.96" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/><path d="m3.3 7 8.7 5 8.7-5"/><path d="M12 22V12"/></g><text x="132.0" y="60" text-anchor="middle" fill="#F1F5F9" font-size="16" font-weight="700">Planos</text><text x="132.0" y="81" text-anchor="middle" fill="#94A3B8" font-size="12.5">Modalidades de contratação</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="100" viewBox="0 0 264 100" role="img" aria-label="Planos: Modalidades de contratação." font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>Planos: Modalidades de contratação.</title>
+<defs><linearGradient id="gncplan" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1628"/><stop offset="1" stop-color="#0D1B2E"/></linearGradient><radialGradient id="rncplan" cx=".5" cy="0" r=".9"><stop offset="0" stop-color="#2563EB" stop-opacity=".16"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient></defs>
+<rect x="2.5" y="2.5" width="259" height="95" rx="10" fill="url(#gncplan)" stroke="#1D3859"/><rect x="3" y="3" width="258" height="94" rx="9.5" fill="url(#rncplan)"/><g transform="translate(121.0 17) scale(0.9167)" fill="none" stroke="#38BDF8" stroke-width="1.96" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/><path d="m3.3 7 8.7 5 8.7-5"/><path d="M12 22V12"/></g><text x="132.0" y="61" text-anchor="middle" fill="#F1F5F9" font-size="16" font-weight="700">Planos</text><text x="132.0" y="82" text-anchor="middle" fill="#B0C0D4" font-size="13">Modalidades de contratação.</text>
 </svg>

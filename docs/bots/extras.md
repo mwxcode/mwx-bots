@@ -1,10 +1,13 @@
-<img src="../../assets/banners/doc-extras.svg" alt="Módulos adicionais MWX, disponíveis sob orçamento" width="100%">
+<picture>
+  <source media="(max-width: 1103px)" srcset="../../assets/banners/doc-extras-mobile.svg">
+  <img src="../../assets/banners/doc-extras.svg" alt="Módulos adicionais MWX, disponíveis sob orçamento" width="100%">
+</picture>
 
 <p align="center"><a href="../../README.md#nossos-sistemas">Catálogo</a> · <a href="../../docs/comandos.md">Comandos</a> · <a href="../../docs/planos.md">Planos</a> · <a href="../../README.md#contato">Contato</a></p>
 
 ## Apresentação
 
-Funções já em uso no MWX Management que podem ser somadas ao [MWX Management](management.md). Os módulos **não fazem parte dos planos** Essential, Complete e Cloud: cada um é **orçado à parte** pelo [MWX Custom](../planos.md#mwx-custom). Eles funcionam dentro do MWX Management, não como bots independentes.
+Funções já em uso no MWX Management que podem ser somadas ao [MWX Management](management.md). Os módulos **não fazem parte dos planos de assinatura nem dos sistemas individuais**: cada um é **orçado à parte** pelo MWX Custom ([outras modalidades](../planos.md#outras-modalidades)). Eles funcionam dentro do MWX Management, não como bots independentes.
 
 <br>
 

@@ -1,4 +1,7 @@
-<img src="../../assets/banners/doc-ponto.svg" alt="MWX Bate-Ponto: controle de expediente, ranking e planilha de horas" width="100%">
+<picture>
+  <source media="(max-width: 1103px)" srcset="../../assets/banners/doc-ponto-mobile.svg">
+  <img src="../../assets/banners/doc-ponto.svg" alt="MWX Bate-Ponto: controle de expediente, ranking e planilha de horas" width="100%">
+</picture>
 
 <p align="center"><a href="../../README.md#nossos-sistemas">Catálogo</a> · <a href="../../docs/comandos.md">Comandos</a> · <a href="../../docs/planos.md">Planos</a> · <a href="../../README.md#contato">Contato</a></p>
 
