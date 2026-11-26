@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/banners/banner-mobile.png">
-  <img src="assets/banners/banner-principal.png" alt="MWX Bots: tecnologia que transforma a gestão do seu Roleplay. Sistemas completos para organizações, corporações e empresas no Discord." width="100%">
+  <img src="assets/banners/banner-principal.png" alt="MWX Bots: tecnologia que transforma a gestão do seu Roleplay. Sistemas completos para organizações, corporações e empresas no Discord. Arte de apresentação com painel ilustrativo." width="100%">
 </picture>
 
 <br>
@@ -62,12 +62,12 @@ Seis sistemas independentes que trabalham juntos. Clique em um card para ver fun
 Soluções que se somam ao MWX Management, **sob orçamento**. [Ver detalhes](docs/bots/extras.md)
 
 <p align="center">
-<a href="docs/bots/extras.md"><img src="assets/cards/modulo-efetivo.svg" alt="Controle de Efetivo" width="400"></a>
-<a href="docs/bots/extras.md"><img src="assets/cards/modulo-presenca.svg" alt="Confirmação de Presença" width="400"></a>
-<a href="docs/bots/extras.md"><img src="assets/cards/modulo-dm.svg" alt="DM Personalizada: embed com prévia antes do envio" width="400"></a>
-<a href="docs/bots/extras.md"><img src="assets/cards/modulo-promocao.svg" alt="Promoção e Rebaixamento" width="400"></a>
-<a href="docs/bots/extras.md"><img src="assets/cards/modulo-desligamento.svg" alt="Desligamento de Membros" width="400"></a>
-<a href="docs/bots/extras.md"><img src="assets/cards/modulo-blacklist.svg" alt="Blacklist" width="400"></a>
+<a href="docs/bots/extras.md"><img src="assets/cards/modulo-efetivo.svg" alt="Módulo Controle de Efetivo: entradas, saídas e quem recrutou" width="264"></a>
+<a href="docs/bots/extras.md"><img src="assets/cards/modulo-presenca.svg" alt="Módulo Confirmação de Presença: confirmação por DM com resumo" width="264"></a>
+<a href="docs/bots/extras.md"><img src="assets/cards/modulo-dm.svg" alt="Módulo DM Personalizada: embed com prévia antes do envio" width="264"></a>
+<a href="docs/bots/extras.md"><img src="assets/cards/modulo-promocao.svg" alt="Módulo Promoção e Rebaixamento: troca de cargo com aviso e log" width="264"></a>
+<a href="docs/bots/extras.md"><img src="assets/cards/modulo-desligamento.svg" alt="Módulo Desligamento de Membros: cargos removidos e motivo salvo" width="264"></a>
+<a href="docs/bots/extras.md"><img src="assets/cards/modulo-blacklist.svg" alt="Módulo Blacklist: barrados por ID do jogo" width="264"></a>
 </p>
 
 <br>
@@ -109,8 +109,6 @@ Atendimento · Recrutamento · Bate-Ponto · Farm · Encomendas · Management ·
 <img src="assets/cards/diferencial-integracao.svg" alt="Sistemas integrados: Registro compartilhado entre os bots" width="400">
 <img src="assets/cards/diferencial-logs.svg" alt="Tudo registrado: Logs de moderação, tickets e ponto" width="400">
 <img src="assets/cards/diferencial-relatorios.svg" alt="Relatórios prontos: Horas e farm do mês em .xlsx" width="400">
-<img src="assets/cards/diferencial-modular.svg" alt="Modular: Contrate só o que precisa" width="400">
-<img src="assets/cards/diferencial-suporte.svg" alt="Suporte: Ajustes e atualizações no plano" width="400">
 </p>
 
 <br>
@@ -122,10 +120,10 @@ Atendimento · Recrutamento · Bate-Ponto · Farm · Encomendas · Management ·
 Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orçamento](#contato)
 
 <p align="center">
-<a href="docs/planos.md"><img src="assets/plans/plano-essential.svg" alt="MWX ESSENTIAL, Bot individual · Pagamento único: Um bot à escolha; Instalação e configuração; Personalização visual; 30 dias de suporte; 30 dias de atualizações; Código-fonte não incluso; Hospedagem não inclusa. Sob consulta." width="400"></a>
-<a href="docs/planos.md"><img src="assets/plans/plano-complete.svg" alt="MWX COMPLETE, Ecossistema · Pagamento único: Os seis sistemas; Instalação e configuração; Personalização visual; 90 dias de suporte; 90 dias de atualizações; Código-fonte não incluso; Hospedagem não inclusa. Sob consulta." width="400"></a>
-<a href="docs/planos.md"><img src="assets/plans/plano-cloud.svg" alt="MWX CLOUD, Assinatura mensal: Bots à escolha; Instalação e configuração; Personalização visual; Hospedagem 24/7; Suporte enquanto ativa; Atualizações enquanto ativa; Código-fonte não incluso. Sob consulta." width="400"></a>
-<a href="docs/planos.md"><img src="assets/plans/plano-custom.svg" alt="MWX CUSTOM, Projetos sob medida: Funções novas; Módulos adicionais; Visual exclusivo; Orçamento individual. Sob orçamento." width="400"></a>
+<a href="docs/planos.md"><img src="assets/plans/plano-essential.svg" alt="MWX ESSENTIAL, Um sistema · Pagamento único: Um sistema à escolha; Instalação e configuração; Personalização visual; 30 dias de suporte e atualizações; Hospedagem não inclusa; Código-fonte não incluso. Sob consulta." width="400"></a>
+<a href="docs/planos.md"><img src="assets/plans/plano-complete.svg" alt="MWX COMPLETE, Seis sistemas · Pagamento único: Os seis sistemas; Instalação e configuração; Personalização visual; 90 dias de suporte e atualizações; Hospedagem não inclusa; Código-fonte não incluso. Sob consulta." width="400"></a>
+<a href="docs/planos.md"><img src="assets/plans/plano-cloud.svg" alt="MWX CLOUD, Sistemas à escolha · Assinatura mensal: Sistemas à escolha; Instalação e configuração; Personalização visual; Hospedagem 24/7 inclusa; Suporte e atualizações enquanto a assinatura estiver ativa; Código-fonte não incluso. Sob consulta." width="400"></a>
+<a href="docs/planos.md"><img src="assets/plans/plano-custom.svg" alt="MWX CUSTOM, Projetos personalizados: Projetos personalizados; Funcionalidades sob medida; Módulos adicionais; Orçamento individual. Sob orçamento." width="400"></a>
 </p>
 
 > [!IMPORTANT]
@@ -138,8 +136,8 @@ Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orça
 ## Como contratar
 
 <p align="center">
-<img src="assets/cards/etapa-01.svg" alt="Etapa 01, Atendimento comercial: Chame no Discord ou pelo e-mail e conte o que precisa." width="400">
-<img src="assets/cards/etapa-02.svg" alt="Etapa 02, Escolha e contratação: Definimos os sistemas e o plano." width="400">
+<img src="assets/cards/etapa-01.svg" alt="Etapa 01, Atendimento comercial: Chame no Discord e conte o que precisa." width="400">
+<img src="assets/cards/etapa-02.svg" alt="Etapa 02, Escolha e contratação: Definimos juntos os sistemas e o plano." width="400">
 <img src="assets/cards/etapa-03.svg" alt="Etapa 03, Instalação e personalização: Canais, cargos, cores e textos ajustados." width="400">
 <img src="assets/cards/etapa-04.svg" alt="Etapa 04, Suporte e acompanhamento: Ajustes e atualizações durante o plano." width="400">
 </p>
@@ -161,7 +159,7 @@ Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orça
   <img src="assets/branding/faq-topo.svg" alt="MWX Systems, central de ajuda: perguntas frequentes. Tudo o que você precisa saber antes de contratar nossos sistemas." width="100%">
 </picture>
 
-## Perguntas frequentes
+<a name="perguntas-frequentes"></a>
 
 <details open>
 <summary><b>Funciona em qualquer servidor de RP?</b></summary>
@@ -225,13 +223,9 @@ Os planos dão direito ao uso dos sistemas no seu servidor e não incluem o cód
 <a href="https://discord.gg/xbDNJy6mtC"><img src="assets/branding/botao-discord.svg" alt="Servidor da MWX no Discord" height="44"></a>
 <a href="mailto:contato.mwxsystems@gmail.com"><img src="assets/branding/botao-email.svg" alt="E-mail: contato.mwxsystems@gmail.com" height="44"></a>
 <a href="https://github.com/MWXCODE"><img src="assets/branding/botao-github.svg" alt="GitHub da MWX" height="44"></a>
-<a href="https://discord.com/users/493569236380418079"><img src="assets/branding/botao-responsavel.svg" alt="niklausx_ no Discord" height="44"></a>
+<a href="https://discord.com/users/493569236380418079"><img src="assets/branding/botao-responsavel.svg" alt="Responsável: niklausx_ no Discord" height="44"></a>
 
-<sub>Discord: <b>niklausx_</b> · E-mail: <b>contato.mwxsystems@gmail.com</b> · Atendimento em português · Brasil</sub>
-
-<!-- Canais pendentes: quando houver os dados oficiais, descomente e preencha.
-<a href="https://wa.me/NUMERO"><img src="assets/branding/botao-whatsapp.svg" alt="WhatsApp" height="44"></a>
--->
+<sub>O Discord é o canal principal para orçamentos e suporte.<br>Responsável: <b>niklausx_</b> · E-mail: <b>contato.mwxsystems@gmail.com</b> · Atendimento em português</sub>
 
 </div>
 
@@ -239,7 +233,7 @@ Os planos dão direito ao uso dos sistemas no seu servidor e não incluem o cód
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/branding/rodape-mobile.svg">
-  <img src="assets/branding/rodape.svg" alt="MWX Systems. Sua organização. Nossa tecnologia. Desenvolvimento, automação e inovação. © 2026 MWX Systems. Todos os direitos reservados." width="100%">
+  <img src="assets/branding/rodape.svg" alt="MWX Systems. Sua organização. Nossa tecnologia. Desenvolvimento, automação e inovação." width="100%">
 </picture>
 
 <p align="center"><sub>© 2026 MWX Systems. Todos os direitos reservados. Veja a <a href="LICENSE.md">licença</a>.<br>Discord é marca da Discord Inc. A MWX Systems não é afiliada ao Discord.</sub></p>

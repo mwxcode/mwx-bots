@@ -8,3 +8,5 @@ sem direito de revenda ou redistribuição. A aquisição do código-fonte só a
 responsável da MWX.
 
 É proibido copiar ou reutilizar as imagens e textos desta vitrine para fins comerciais sem autorização.
+
+Créditos dos recursos gráficos: [assets/CREDITOS.md](assets/CREDITOS.md).
