@@ -13,17 +13,16 @@ Valores **sob consulta**. Fale com a MWX para receber uma proposta.
 
 ## Comparativo
 
-| | Essential | **Complete** | Cloud |
-|---|:---:|:---:|:---:|
-| Modelo | Pagamento único | Pagamento único | Assinatura mensal |
-| Sistemas | 1 à escolha | **Os 6** | À escolha |
-| Instalação e configuração | ✓ | ✓ | ✓ |
-| Personalização visual | ✓ | ✓ | ✓ |
-| Hospedagem 24/7 | Não inclusa | Não inclusa | Inclusa |
-| Suporte | 30 dias | 90 dias | Enquanto ativa |
-| Atualizações | 30 dias | 90 dias | Enquanto ativa |
-| Código-fonte | Não incluso | Não incluso | Não incluso |
-| Valor | Sob consulta | Sob consulta | Sob consulta |
+| | Essential | Complete | Cloud | Custom |
+|---|---|---|---|---|
+| Sistemas | Um à escolha | Os seis | À escolha | Projeto sob medida |
+| Modelo | Pagamento único | Pagamento único | Assinatura mensal | Orçamento individual |
+| Instalação e configuração | Sim | Sim | Sim | Sob orçamento |
+| Personalização visual | Sim | Sim | Sim | Sob orçamento |
+| Suporte e atualizações | 30 dias | 90 dias | Enquanto ativa | Sob orçamento |
+| Hospedagem | Não inclusa | Não inclusa | Inclusa (24/7) | Sob orçamento |
+| Código-fonte | Não incluso | Não incluso | Não incluso | Sob negociação |
+| Valor | Sob consulta | Sob consulta | Sob consulta | Sob orçamento |
 
 ## MWX Essential
 

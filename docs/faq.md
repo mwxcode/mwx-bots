@@ -7,15 +7,15 @@ As perguntas comerciais principais também estão no [README](../README.md#pergu
 ## Comercial
 
 <details>
-<summary><b>Funciona em qualquer servidor de RP?</b></summary>
+<summary><b>Os sistemas servem para o meu servidor de RP?</b></summary>
 <br>
-Os sistemas foram feitos para organizações de RP no Discord, como facção, polícia, hospital, mecânica ou empresa. Textos, canais e cargos são configuráveis. Para um caso específico, confirme no atendimento comercial.
+Foram feitos para organizações de RP no Discord, como facção, polícia, hospital, mecânica ou empresa. Textos, canais e cargos são configuráveis. Para um caso específico, confirme no atendimento comercial.
 </details>
 
 <details>
 <summary><b>Preciso saber programar?</b></summary>
 <br>
-Não. Tudo é configurado por comandos no Discord, e a instalação faz parte dos planos.
+Não. A instalação e a configuração fazem parte dos planos, e os ajustes do dia a dia são feitos por comandos no Discord.
 </details>
 
 <details>
@@ -53,7 +53,7 @@ Só o MWX Bate-Ponto e o MWX Encomendas, que usam PostgreSQL e podem dividir o m
 <details>
 <summary><b>Quanto de memória cada bot usa?</b></summary>
 <br>
-Os sistemas são hospedados em planos de 512 MB de RAM por bot. O consumo varia com o tamanho do servidor e o volume de uso, então a MWX indica a hospedagem adequada no atendimento.
+Como referência, a MWX hospeda cada bot em um plano de 512 MB de RAM. Esse número é a capacidade contratada, não uma medição nem um requisito mínimo: o consumo real varia com o tamanho do servidor e o volume de uso, e a MWX indica a hospedagem adequada no atendimento.
 </details>
 
 <details>

@@ -16,7 +16,7 @@ Nos planos MWX a instalação e a configuração são feitas pela MWX. Esta pág
 |---|---|
 | Node.js | 20 ou mais novo |
 | Banco de dados | PostgreSQL apenas para MWX Bate-Ponto e MWX Encomendas (os dois podem dividir o mesmo banco). Os demais usam arquivos JSON. |
-| Hospedagem | PC ligado 24h, VPS ou painel de hospedagem de bots. Referência: planos de 512 MB de RAM por bot; o consumo varia com o servidor. No MWX Cloud a hospedagem está inclusa. |
+| Hospedagem | PC ligado 24h, VPS ou painel de hospedagem de bots. Referência: a MWX usa planos de 512 MB de RAM por bot. Esse valor é a capacidade contratada, não um requisito mínimo medido; o consumo real varia com o servidor. No MWX Cloud a hospedagem está inclusa. |
 | Discord | Um aplicativo no Discord Developer Portal para cada bot |
 
 ### Intents por sistema
@@ -28,7 +28,7 @@ Nos planos MWX a instalação e a configuração são feitas pela MWX. Esta pág
 | MWX Farm | Server Members |
 | MWX Bate-Ponto | Nenhum |
 | MWX Encomendas | Nenhum |
-| MWX Denúncias | A confirmar com a MWX |
+| MWX Denúncias | Nenhum obrigatório (Server Members opcional, para mostrar apelidos) |
 
 ## Instalação
 

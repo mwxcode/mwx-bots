@@ -168,12 +168,11 @@ Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orça
 
 <br>
 
-<picture>
-  <source media="(max-width: 1011px)" srcset="assets/branding/faq-topo-mobile.svg">
-  <img src="assets/branding/faq-topo.svg" alt="MWX Systems, central de ajuda: perguntas frequentes. Tudo o que você precisa saber antes de contratar nossos sistemas." width="100%">
-</picture>
-
 <a name="perguntas-frequentes"></a>
+<h2><picture>
+  <source media="(max-width: 1011px)" srcset="assets/branding/faq-topo-mobile.svg">
+  <img src="assets/branding/faq-topo.svg" alt="Perguntas frequentes: tudo o que você precisa saber antes de contratar os sistemas MWX" width="100%">
+</picture></h2>
 
 <details open>
 <summary><b>Os sistemas servem para o meu servidor de RP?</b></summary>
