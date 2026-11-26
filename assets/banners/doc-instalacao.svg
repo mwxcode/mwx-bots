@@ -15,9 +15,9 @@
 
 
 <rect x="64" y="64" width="72" height="72" rx="19" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="78" y="64" width="43" height="1.2" fill="url(#edgedinstalacao)"/><g transform="translate(83.44 83.44) scale(1.3800)" fill="none" stroke="#38BDF8" stroke-width="1.30" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M4 21v-7"/><path d="M4 10V3"/><path d="M12 21v-9"/><path d="M12 8V3"/><path d="M20 21v-5"/><path d="M20 12V3"/><path d="M2 14h4"/><path d="M10 8h4"/><path d="M18 16h4"/></g>
-<text x="164" y="88" fill="#38BDF8" font-size="14" font-weight="700" letter-spacing="4">DOCUMENTAÇÃO TÉCNICA</text>
+<text x="164" y="88" fill="#38BDF8" font-size="16" font-weight="700" letter-spacing="4">DOCUMENTAÇÃO TÉCNICA</text>
 <text x="162" y="138" fill="#F1F5F9" font-size="46" font-weight="800" letter-spacing="-1">Requisitos e instalação</text>
-<text x="164" y="176" fill="#94A3B8" font-size="19">O que é preciso para colocar os sistemas no ar</text>
+<text x="164" y="180" fill="#94A3B8" font-size="22">O que é preciso para colocar os sistemas no ar</text>
 <g transform="translate(1184 150.79) scale(0.3279)"><g fill="#F2F5F8">
 <path d="M 71,55 L 48,56 L 6,100 L 27,100 Z"/><path d="M 5,5 L 48,49 L 72,50 L 27,5 Z"/>
 </g>
