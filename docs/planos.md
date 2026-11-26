@@ -21,7 +21,7 @@ Valores **sob consulta**. Fale com a MWX para receber uma proposta.
 | Personalização visual | Sim | Sim | Sim | Sob orçamento |
 | Suporte e atualizações | 30 dias | 90 dias | Enquanto ativa | Sob orçamento |
 | Hospedagem | Não inclusa | Não inclusa | Inclusa (24/7) | Sob orçamento |
-| Código-fonte | Não incluso | Não incluso | Não incluso | Sob negociação |
+| Código-fonte | Não incluso | Não incluso | Não incluso | Negociação comercial separada |
 | Valor | Sob consulta | Sob consulta | Sob consulta | Sob orçamento |
 
 ## MWX Essential
