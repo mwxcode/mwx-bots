@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 1011px)" srcset="assets/banners/banner-mobile.png">
+  <source media="(max-width: 1103px)" srcset="assets/banners/banner-mobile.png">
   <img src="assets/banners/banner-principal.png" alt="MWX Bots: tecnologia que transforma a gestão do seu Roleplay. Sistemas completos para organizações, corporações e empresas no Discord. Arte de apresentação com painel ilustrativo." width="100%">
 </picture>
 
@@ -169,10 +169,7 @@ Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orça
 <br>
 
 <a name="perguntas-frequentes"></a>
-<h2><picture>
-  <source media="(max-width: 1011px)" srcset="assets/branding/faq-topo-mobile.svg">
-  <img src="assets/branding/faq-topo.svg" alt="Perguntas frequentes: tudo o que você precisa saber antes de contratar os sistemas MWX" width="100%">
-</picture></h2>
+<h2><picture><source media="(max-width: 1103px)" srcset="assets/branding/faq-topo-mobile.svg"><img src="assets/branding/faq-topo.svg" alt="Perguntas frequentes: tudo o que você precisa saber antes de contratar os sistemas MWX" width="100%"></picture></h2>
 
 <details open>
 <summary><b>Os sistemas servem para o meu servidor de RP?</b></summary>
@@ -221,7 +218,7 @@ Não. A instalação e a configuração fazem parte dos planos, e os ajustes do 
 ## Contato
 
 <picture>
-  <source media="(max-width: 1011px)" srcset="assets/branding/contato-mobile.svg">
+  <source media="(max-width: 1103px)" srcset="assets/branding/contato-mobile.svg">
   <img src="assets/branding/contato.svg" alt="Conecte-se com a MWX. O próximo nível da sua organização começa aqui." width="100%">
 </picture>
 
@@ -245,7 +242,7 @@ Não. A instalação e a configuração fazem parte dos planos, e os ajustes do 
 <br>
 
 <picture>
-  <source media="(max-width: 1011px)" srcset="assets/branding/rodape-mobile.svg">
+  <source media="(max-width: 1103px)" srcset="assets/branding/rodape-mobile.svg">
   <img src="assets/branding/rodape.svg" alt="MWX Systems. Sua organização. Nossa tecnologia. Desenvolvimento, automação e inovação." width="100%">
 </picture>
 
