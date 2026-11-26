@@ -125,12 +125,12 @@ Soluções integradas para sua organização. Valores mensais por servidor, com 
 <a href="docs/planos.md"><img src="assets/plans/plano-complete.svg" alt="MWX COMPLETE, assinatura mensal por servidor com Management, Atendimento / Ticket, Encomendas, Farm, Bate-Ponto e Denúncias. Hospedagem, suporte e atualizações inclusos. R$ 99,90 por mês, economia de R$ 49,50 por mês." width="400"></a>
 </p>
 
-| Plano | Indicado para | Sistemas | Valor mensal | Economia |
+| Plano | Indicado para | Sistemas | Valor mensal | Economia por mês |
 |---|---|---|---|---|
-| MWX Essential | Estruturar a gestão e o atendimento | Management · Atendimento / Ticket | R$ 49,90 | R$ 9,90/mês |
-| MWX Operation | Acompanhar expediente e farm | Management · Farm · Bate-Ponto | R$ 59,90 | R$ 29,80/mês |
-| MWX Professional | Integrar gestão, atendimento e operação | Management · Atendimento / Ticket · Farm · Bate-Ponto | R$ 79,90 | R$ 34,70/mês |
-| **MWX Complete** | Usar todo o ecossistema, com encomendas e denúncias | Os seis sistemas | **R$ 99,90** | R$ 49,50/mês |
+| MWX Essential | Estruturar a gestão e o atendimento | Management · Atendimento / Ticket | R$&nbsp;49,90 | R$&nbsp;9,90 |
+| MWX Operation | Acompanhar expediente e farm | Management · Farm · Bate-Ponto | R$&nbsp;59,90 | R$&nbsp;29,80 |
+| MWX Professional | Integrar gestão, atendimento e operação | Management · Atendimento / Ticket · Farm · Bate-Ponto | R$&nbsp;79,90 | R$&nbsp;34,70 |
+| **MWX&nbsp;Complete** | Usar todo o ecossistema, com encomendas e denúncias | Os seis sistemas | **R$&nbsp;99,90** | R$&nbsp;49,50 |
 
 A economia é a diferença para a soma dos mesmos sistemas contratados individualmente. [Qual plano escolher](docs/planos.md#qual-plano-escolher)
 

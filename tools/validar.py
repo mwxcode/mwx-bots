@@ -162,6 +162,11 @@ def validar_assets(erros):
 
 
 # ---------------------------------------------------------------- dados comerciais
+def ler_texto(f):
+    """Lê a página tratando espaço não separável (&nbsp;) como espaço comum."""
+    return open(f, encoding="utf-8").read().replace("&nbsp;", " ").replace("\u00a0", " ")
+
+
 def centavos(v):
     return int(v.replace(",", ""))
 
@@ -199,7 +204,7 @@ def validar_comercial(erros):
     for md in ("README.md", "docs/planos.md"):
         if not os.path.exists(md):
             continue
-        texto = open(md, encoding="utf-8").read()
+        texto = ler_texto(md)
         linhas = texto.splitlines()
         for p in dados["planos"]:
             linha = next((l for l in linhas if re.match(rf"\|\s*(\*\*)?{re.escape(p['nome'])}(\*\*)?\s*\|", l)), None)
@@ -218,7 +223,7 @@ def validar_comercial(erros):
             elif f"R$ {s_['valor']}" not in linha:
                 erros.append(f"{md}: valor do {s_['nome']} diferente de dados/comercial.json")
     for md in sorted(glob.glob("**/*.md", recursive=True)):
-        for v in re.findall(r"R\$ ?(\d+,\d{2})", open(md, encoding="utf-8").read()):
+        for v in re.findall(r"R\$ ?(\d+,\d{2})", ler_texto(md)):
             if v not in permitidos:
                 erros.append(f"{md}: valor R$ {v} não cadastrado em dados/comercial.json")
 
