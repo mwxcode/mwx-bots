@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/banners/banner-principal.svg" alt="MWX Bots: sistemas para RP no Discord. Atendimento, recrutamento, ponto, farm, encomendas e moderação." width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/banners/banner-mobile.svg">
+  <img src="assets/banners/banner-principal.svg" alt="MWX Bots: sistemas para RP no Discord. Atendimento, recrutamento, ponto, farm, encomendas e moderação." width="100%">
+</picture>
 
 <br>
 
@@ -195,7 +198,10 @@ No Essential e no Complete você recebe o código-fonte com licença de uso no s
 
 ## Contato
 
-<img src="assets/branding/contato.svg" alt="Conecte-se com a MWX. O próximo nível da sua organização começa aqui." width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/branding/contato-mobile.svg">
+  <img src="assets/branding/contato.svg" alt="Conecte-se com a MWX. O próximo nível da sua organização começa aqui." width="100%">
+</picture>
 
 <p align="center">
 <img src="assets/cards/contato-comercial.svg" alt="Comercial: Bots, planos, assinaturas e orçamentos" width="260">
@@ -218,6 +224,9 @@ No Essential e no Complete você recebe o código-fonte com licença de uso no s
 
 <br>
 
-<img src="assets/branding/rodape.svg" alt="MWX Systems. Sua organização. Nossa tecnologia. Desenvolvimento, automação e inovação. © 2026 MWX Systems. Todos os direitos reservados." width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/branding/rodape-mobile.svg">
+  <img src="assets/branding/rodape.svg" alt="MWX Systems. Sua organização. Nossa tecnologia. Desenvolvimento, automação e inovação. © 2026 MWX Systems. Todos os direitos reservados." width="100%">
+</picture>
 
 <p align="center"><sub>© 2026 MWX Systems. Todos os direitos reservados. Veja a <a href="LICENSE.md">licença</a>.<br>Discord é marca da Discord Inc. A MWX Systems não é afiliada ao Discord.</sub></p>
