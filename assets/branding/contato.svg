@@ -7,25 +7,14 @@
 <radialGradient id="glowch" cx="0.5" cy="-0.15" r=".6">
   <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
 </radialGradient>
-<pattern id="gridch" width="32" height="32" patternUnits="userSpaceOnUse">
-  <path d="M32 0H0V32" fill="none" stroke="#1E3A5F" stroke-width="1" opacity=".45"/>
-</pattern>
 <linearGradient id="edgech" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="txtch" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#2563EB"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#38BDF8"/>
-</linearGradient>
-<linearGradient id="fadech" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff"/>
-</linearGradient>
-<mask id="gmch"><rect width="1240" height="250" fill="url(#fadech)"/></mask>
 <clipPath id="clipch"><rect width="1240" height="250" rx="20"/></clipPath></defs>
-<g clip-path="url(#clipch)"><rect width="1240" height="250" fill="url(#bgch)"/><rect width="1240" height="250" fill="url(#gridch)" mask="url(#gmch)"/><rect width="1240" height="250" fill="url(#glowch)"/></g><rect x=".5" y=".5" width="1239" height="249" rx="20" fill="none" stroke="#1E3A5F"/><rect x="223" y="0" width="794" height="1.2" fill="url(#edgech)"/>
+<g clip-path="url(#clipch)"><rect width="1240" height="250" fill="url(#bgch)"/><rect width="1240" height="250" fill="url(#glowch)"/></g><rect x=".5" y=".5" width="1239" height="249" rx="20" fill="none" stroke="#1E3A5F"/><rect x="223" y="0" width="794" height="1.2" fill="url(#edgech)"/>
 
 
 <rect x="590.0" y="34" width="60" height="60" rx="16" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="602" y="34" width="36" height="1.2" fill="url(#edgech)"/><g transform="translate(606.2 50.2) scale(1.1500)" fill="none" stroke="#38BDF8" stroke-width="1.57" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></g>
 <text x="620.0" y="146" text-anchor="middle" fill="#F1F5F9" font-size="40" font-weight="900" letter-spacing="2">CONECTE-SE COM A MWX</text>
-<text x="620.0" y="186" text-anchor="middle" fill="#F1F5F9" font-size="20">O próximo nível da sua organização começa aqui.</text>
-<text x="620.0" y="218" text-anchor="middle" fill="#94A3B8" font-size="15">Soluções inteligentes, atendimento especializado e tecnologia desenvolvida para o Roleplay.</text>
+<text x="620.0" y="196" text-anchor="middle" fill="#F1F5F9" font-size="24">O próximo nível da sua organização começa aqui.</text>
 </svg>

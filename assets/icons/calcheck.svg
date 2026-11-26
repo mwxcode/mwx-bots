@@ -1,25 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" role="img" aria-label="calcheck" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
 <title>calcheck</title>
 <defs>
-<linearGradient id="bgicalcheck" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#050B14"/><stop offset=".55" stop-color="#0A1628"/><stop offset="1" stop-color="#102D58"/>
-</linearGradient>
-<radialGradient id="glowicalcheck" cx="0.85" cy="0.2" r=".6">
-  <stop offset="0" stop-color="#2563EB" stop-opacity=".38"/><stop offset=".45" stop-color="#2563EB" stop-opacity=".08"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
-</radialGradient>
-<pattern id="gridicalcheck" width="32" height="32" patternUnits="userSpaceOnUse">
-  <path d="M32 0H0V32" fill="none" stroke="#1E3A5F" stroke-width="1" opacity=".45"/>
-</pattern>
 <linearGradient id="edgeicalcheck" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="txticalcheck" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#2563EB"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#38BDF8"/>
-</linearGradient>
-<linearGradient id="fadeicalcheck" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff"/>
-</linearGradient>
-<mask id="gmicalcheck"><rect width="56" height="56" fill="url(#fadeicalcheck)"/></mask>
-<clipPath id="clipicalcheck"><rect width="56" height="56" rx="20"/></clipPath></defs>
+</defs>
 <rect x="2" y="2" width="52" height="52" rx="14" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="12" y="2" width="31" height="1.2" fill="url(#edgeicalcheck)"/><g transform="translate(16.04 16.04) scale(0.9967)" fill="none" stroke="#38BDF8" stroke-width="1.81" stroke-linecap="round" stroke-linejoin="round" color="#38BDF8"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/><path d="m9 16 2 2 4-4"/></g>
 </svg>
