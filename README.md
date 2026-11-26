@@ -34,7 +34,7 @@ Atendimento, recrutamento, expediente, produção, vendas e moderação, em port
 <br>
 
 > [!NOTE]
-> Este repositório é a vitrine dos sistemas MWX. O código-fonte é entregue somente aos clientes, sob licença de uso.
+> Este repositório é a vitrine dos sistemas MWX. Os planos dão direito ao uso dos sistemas. O código-fonte não está incluso.
 
 <br>
 
@@ -76,7 +76,7 @@ Soluções que se somam ao MWX Management, **sob orçamento**. [Ver detalhes](do
 
 ## Demonstrações
 
-Atendimento · Recrutamento · Bate-Ponto · Farm · Encomendas · Management
+Atendimento · Recrutamento · Bate-Ponto · Farm · Encomendas · Management · Denúncias
 
 <p align="center">
 <a href="docs/bots/atendimento.md"><img src="assets/telas/atendimento-painel.png" alt="Painel do MWX Atendimento" width="400"></a>
@@ -87,7 +87,10 @@ Atendimento · Recrutamento · Bate-Ponto · Farm · Encomendas · Management
 <a href="docs/bots/management.md"><img src="assets/telas/management-log.png" alt="Log de moderação do MWX Management" width="400"></a>
 </p>
 
-<p align="center"><img src="assets/cards/demo-denuncias-em-preparacao.svg" alt="Demonstração do MWX Denúncias em preparação" width="808"></p>
+<p align="center">
+<a href="docs/bots/denuncias.md"><img src="assets/telas/denuncias-painel.png" alt="Painel do MWX Denúncias com Denunciar e Acompanhar" width="400"></a>
+<a href="docs/bots/denuncias.md"><img src="assets/telas/denuncias-card.png" alt="Denúncia com protocolo DEN-0001 aguardando análise da staff" width="400"></a>
+</p>
 
 <sub>Imagens ilustrativas das interfaces, com dados fictícios. Cores, nome e ícone mudam conforme o servidor.</sub>
 
@@ -119,11 +122,14 @@ Atendimento · Recrutamento · Bate-Ponto · Farm · Encomendas · Management
 Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orçamento](#contato)
 
 <p align="center">
-<a href="docs/planos.md"><img src="assets/plans/plano-essential.svg" alt="MWX ESSENTIAL, Bot individual · Pagamento único: Um bot à escolha; Instalação e configuração; Personalização visual; 30 dias de suporte; 30 dias de atualizações; Código-fonte licenciado; Hospedagem não inclusa. Sob consulta." width="400"></a>
-<a href="docs/planos.md"><img src="assets/plans/plano-complete.svg" alt="MWX COMPLETE, Ecossistema · Pagamento único: Os seis sistemas; Instalação e configuração; Personalização visual; 90 dias de suporte; 90 dias de atualizações; Código-fonte licenciado; Hospedagem não inclusa. Sob consulta." width="400"></a>
-<a href="docs/planos.md"><img src="assets/plans/plano-cloud.svg" alt="MWX CLOUD, Assinatura mensal: Bots à escolha; Instalação e configuração; Personalização visual; Hospedagem 24/7; Suporte enquanto ativa; Atualizações enquanto ativa; Sem entrega do código-fonte. Sob consulta." width="400"></a>
+<a href="docs/planos.md"><img src="assets/plans/plano-essential.svg" alt="MWX ESSENTIAL, Bot individual · Pagamento único: Um bot à escolha; Instalação e configuração; Personalização visual; 30 dias de suporte; 30 dias de atualizações; Código-fonte não incluso; Hospedagem não inclusa. Sob consulta." width="400"></a>
+<a href="docs/planos.md"><img src="assets/plans/plano-complete.svg" alt="MWX COMPLETE, Ecossistema · Pagamento único: Os seis sistemas; Instalação e configuração; Personalização visual; 90 dias de suporte; 90 dias de atualizações; Código-fonte não incluso; Hospedagem não inclusa. Sob consulta." width="400"></a>
+<a href="docs/planos.md"><img src="assets/plans/plano-cloud.svg" alt="MWX CLOUD, Assinatura mensal: Bots à escolha; Instalação e configuração; Personalização visual; Hospedagem 24/7; Suporte enquanto ativa; Atualizações enquanto ativa; Código-fonte não incluso. Sob consulta." width="400"></a>
 <a href="docs/planos.md"><img src="assets/plans/plano-custom.svg" alt="MWX CUSTOM, Projetos sob medida: Funções novas; Módulos adicionais; Visual exclusivo; Orçamento individual. Sob orçamento." width="400"></a>
 </p>
+
+> [!IMPORTANT]
+> **Código-fonte não incluso nos planos.** Os planos dão direito ao uso dos sistemas. A aquisição do código-fonte só acontece após negociação com o setor responsável da MWX. [Falar com a MWX](#contato)
 
 <br>
 
@@ -132,7 +138,7 @@ Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orça
 ## Como contratar
 
 <p align="center">
-<img src="assets/cards/etapa-01.svg" alt="Etapa 01, Atendimento comercial: Você conta o que a sua organização precisa." width="400">
+<img src="assets/cards/etapa-01.svg" alt="Etapa 01, Atendimento comercial: Chame no Discord ou pelo e-mail e conte o que precisa." width="400">
 <img src="assets/cards/etapa-02.svg" alt="Etapa 02, Escolha e contratação: Definimos os sistemas e o plano." width="400">
 <img src="assets/cards/etapa-03.svg" alt="Etapa 03, Instalação e personalização: Canais, cargos, cores e textos ajustados." width="400">
 <img src="assets/cards/etapa-04.svg" alt="Etapa 04, Suporte e acompanhamento: Ajustes e atualizações durante o plano." width="400">
@@ -150,11 +156,14 @@ Valores sob consulta. [Comparativo completo](docs/planos.md) · [Solicitar orça
 
 <br>
 
-<img src="assets/branding/secao-faq.svg" alt="" width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/branding/faq-topo-mobile.svg">
+  <img src="assets/branding/faq-topo.svg" alt="MWX Systems, central de ajuda: perguntas frequentes. Tudo o que você precisa saber antes de contratar nossos sistemas." width="100%">
+</picture>
 
 ## Perguntas frequentes
 
-<details>
+<details open>
 <summary><b>Funciona em qualquer servidor de RP?</b></summary>
 <br>
 Sim. Facção, polícia, hospital, mecânica ou empresa. Textos, canais e cargos são configuráveis.
@@ -173,7 +182,7 @@ No Essential e no Complete, em um PC ligado 24h, VPS ou painel de hospedagem de 
 </details>
 
 <details>
-<summary><b>Posso mudar cores, nome e ícone?</b></summary>
+<summary><b>Posso personalizar a identidade dos bots?</b></summary>
 <br>
 Sim. Os painéis usam o nome, as cores e o banner da sua organização.
 </details>
@@ -181,16 +190,18 @@ Sim. Os painéis usam o nome, as cores e o banner da sua organização.
 <details>
 <summary><b>Como funciona a licença?</b></summary>
 <br>
-No Essential e no Complete você recebe o código-fonte com licença de uso no seu servidor, sem direito de revenda, redistribuição ou publicação. No Cloud o código não é entregue.
+Os planos dão direito ao uso dos sistemas no seu servidor e não incluem o código-fonte. A aquisição do código-fonte só acontece após negociação com o setor responsável da MWX. Revenda, redistribuição e publicação não são permitidas.
 </details>
 
 <details>
-<summary><b>Por quanto tempo tenho suporte e atualizações?</b></summary>
+<summary><b>Por quanto tempo tenho suporte?</b></summary>
 <br>
-30 dias no Essential, 90 dias no Complete e enquanto a assinatura estiver ativa no Cloud.
+30 dias no Essential, 90 dias no Complete e enquanto a assinatura estiver ativa no Cloud. As atualizações seguem o mesmo prazo.
 </details>
 
-<p><a href="docs/faq.md">Mais perguntas, incluindo as técnicas</a></p>
+<p align="center"><a href="#contato"><img src="assets/branding/faq-falar.svg" alt="Ainda tem dúvidas? Falar com a MWX" height="52"></a></p>
+
+<p align="center"><sub><a href="docs/faq.md">Mais perguntas, incluindo as técnicas</a></sub></p>
 
 <br>
 
@@ -212,13 +223,13 @@ No Essential e no Complete você recebe o código-fonte com licença de uso no s
 <div align="center">
 
 <a href="https://discord.gg/xbDNJy6mtC"><img src="assets/branding/botao-discord.svg" alt="Servidor da MWX no Discord" height="44"></a>
+<a href="mailto:contato.mwxsystems@gmail.com"><img src="assets/branding/botao-email.svg" alt="E-mail: contato.mwxsystems@gmail.com" height="44"></a>
 <a href="https://github.com/MWXCODE"><img src="assets/branding/botao-github.svg" alt="GitHub da MWX" height="44"></a>
-<a href="https://discord.com/users/493569236380418079"><img src="assets/branding/botao-responsavel.svg" alt="Responsável no Discord: niklausx_" height="44"></a>
+<a href="https://discord.com/users/493569236380418079"><img src="assets/branding/botao-responsavel.svg" alt="niklausx_ no Discord" height="44"></a>
 
-<sub>Responsável: <b>niklausx_</b> no Discord · Atendimento em português · Brasil</sub>
+<sub>Discord: <b>niklausx_</b> · E-mail: <b>contato.mwxsystems@gmail.com</b> · Atendimento em português · Brasil</sub>
 
 <!-- Canais pendentes: quando houver os dados oficiais, descomente e preencha.
-<a href="mailto:EMAIL"><img src="assets/branding/botao-email.svg" alt="E-mail" height="44"></a>
 <a href="https://wa.me/NUMERO"><img src="assets/branding/botao-whatsapp.svg" alt="WhatsApp" height="44"></a>
 -->
 

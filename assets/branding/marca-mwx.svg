@@ -21,9 +21,5 @@
 </linearGradient>
 <mask id="gmlg"><rect width="96" height="96" fill="url(#fadelg)"/></mask>
 <clipPath id="cliplg"><rect width="96" height="96" rx="20"/></clipPath></defs>
-<g transform="translate(0 0) scale(2.0000)">
-<path d="M24 2 43 13v22L24 46 5 35V13Z" fill="#0D1B2E" stroke="url(#txtlg)" stroke-width="2"/>
-<path d="M14 33V15l10 12 10-12v18" fill="none" stroke="#F1F5F9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="14" cy="33" r="2.6" fill="#38BDF8"/><circle cx="34" cy="33" r="2.6" fill="#38BDF8"/><circle cx="24" cy="27" r="2.2" fill="#3B82F6"/>
-</g>
+<g transform="translate(0 0) scale(0.9600)"><path d="M4 12h22l33 34H37Z" fill="#EEF2F7"/><path d="M37 54h22L26 88H4Z" fill="#EEF2F7"/><path d="M73 12h22L62 46 53 37Z" fill="#2563EB"/><path d="M53 63l9-9 33 34H73Z" fill="#2563EB"/></g>
 </svg>

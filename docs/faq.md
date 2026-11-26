@@ -21,7 +21,13 @@ Não. Tudo é configurado por comandos no Discord, e a instalação faz parte do
 <details>
 <summary><b>Posso revender os bots?</b></summary>
 <br>
-Não. A licença é de uso no seu servidor. Revenda, redistribuição e publicação do código não são permitidas.
+Não. A licença é de uso no seu servidor. Revenda e redistribuição não são permitidas.
+</details>
+
+<details>
+<summary><b>O código-fonte vem junto?</b></summary>
+<br>
+Não. Os planos não incluem o código-fonte. A aquisição só acontece após negociação com o setor responsável da MWX, pelo Discord ou pelo e-mail contato.mwxsystems@gmail.com.
 </details>
 
 <details>

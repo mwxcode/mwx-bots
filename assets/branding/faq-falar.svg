@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="52" viewBox="0 0 380 52" role="img" aria-label="Ainda tem dúvidas? Falar com a MWX" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<title>Ainda tem dúvidas? Falar com a MWX</title>
+<defs><linearGradient id="efc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="379" height="51" rx="12" fill="#0D1B2E" stroke="#1E3A5F"/><rect x="95" y="0" width="190" height="1.2" fill="url(#efc)"/><text x="190.0" y="32" text-anchor="middle" fill="#94A3B8" font-size="15">Ainda tem dúvidas?  <tspan fill="#38BDF8" font-weight="700" text-decoration="underline">Falar com a MWX ↗</tspan></text>
+</svg>
