@@ -28,6 +28,7 @@ Nos planos MWX a instalação e a configuração são feitas pela MWX. Esta pág
 | MWX Farm | Server Members |
 | MWX Bate-Ponto | Nenhum |
 | MWX Encomendas | Nenhum |
+| MWX Denúncias | A confirmar com a MWX |
 
 ## Instalação
 
@@ -37,7 +38,7 @@ Nos planos MWX a instalação e a configuração são feitas pela MWX. Esta pág
 4. No Discord, rodar o comando `/config-…` do sistema e escolher canais e cargos.
 5. Publicar os painéis.
 
-O cliente recebe um guia detalhado de cada sistema junto com o pacote.
+Nos planos, esses passos são feitos pela MWX. Esta lista serve como referência técnica e não inclui a entrega do código-fonte.
 
 ## Integrações
 

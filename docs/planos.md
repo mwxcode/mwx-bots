@@ -4,13 +4,12 @@
 
 Valores **sob consulta**. Fale com a MWX para receber uma proposta.
 
-<table>
-<tr>
-<td width="33%" valign="top"><img src="../assets/plans/plano-essential.svg" alt="MWX Essential" width="100%"></td>
-<td width="34%" valign="top"><img src="../assets/plans/plano-complete.svg" alt="MWX Complete" width="100%"></td>
-<td width="33%" valign="top"><img src="../assets/plans/plano-cloud.svg" alt="MWX Cloud" width="100%"></td>
-</tr>
-</table>
+<p align="center">
+<img src="../assets/plans/plano-essential.svg" alt="MWX Essential: um sistema, pagamento único" width="400">
+<img src="../assets/plans/plano-complete.svg" alt="MWX Complete: os seis sistemas, pagamento único" width="400">
+<img src="../assets/plans/plano-cloud.svg" alt="MWX Cloud: sistemas à escolha, assinatura mensal" width="400">
+<img src="../assets/plans/plano-custom.svg" alt="MWX Custom: projetos personalizados sob orçamento" width="400">
+</p>
 
 ## Comparativo
 
@@ -20,7 +19,7 @@ Valores **sob consulta**. Fale com a MWX para receber uma proposta.
 | Sistemas | 1 à escolha | **Os 6** | À escolha |
 | Instalação e configuração | ✓ | ✓ | ✓ |
 | Personalização visual | ✓ | ✓ | ✓ |
-| Hospedagem 24/7 | Não inclusa | Não inclusa | ✓ |
+| Hospedagem 24/7 | Não inclusa | Não inclusa | Inclusa |
 | Suporte | 30 dias | 90 dias | Enquanto ativa |
 | Atualizações | 30 dias | 90 dias | Enquanto ativa |
 | Código-fonte | Não incluso | Não incluso | Não incluso |
@@ -28,7 +27,7 @@ Valores **sob consulta**. Fale com a MWX para receber uma proposta.
 
 ## MWX Essential
 
-Para quem precisa de um sistema. Um bot à escolha, instalado e configurado, com personalização visual, 30 dias de suporte e de atualizações. Hospedagem e código-fonte não inclusos.
+Para quem precisa de um sistema. Um sistema à escolha, instalado e configurado, com personalização visual, 30 dias de suporte e de atualizações. Hospedagem e código-fonte não inclusos.
 
 ## MWX Complete
 
@@ -36,13 +35,11 @@ O ecossistema completo: os seis sistemas instalados e configurados, com personal
 
 ## MWX Cloud
 
-Assinatura mensal com os bots à escolha, instalação, configuração, personalização visual e hospedagem 24/7. Suporte e atualizações enquanto a assinatura estiver ativa. O código-fonte não é entregue.
+Assinatura mensal com os sistemas à escolha, instalação, configuração, personalização visual e hospedagem 24/7. Suporte e atualizações enquanto a assinatura estiver ativa. Código-fonte não incluso.
 
 ## MWX Custom
 
-<img src="../assets/plans/plano-custom.svg" alt="MWX Custom: projetos personalizados sob orçamento" width="100%">
-
-Funções novas, [módulos adicionais](bots/extras.md) e visual exclusivo, desenvolvidos sob medida com orçamento individual.
+Projetos personalizados, com funcionalidades desenvolvidas sob medida e [módulos adicionais](bots/extras.md). Orçamento individual.
 
 ## Licença
 
